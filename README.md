@@ -18,6 +18,10 @@ After cloning the repository, install `uv` with the following command:
 **Windows:**
 ```powershell -c "irm [https://astral.sh/uv/install.ps1](https://astral.sh/uv/install.ps1) | iex" ```
 
+### Environment Synchronization
+Once `uv` is installed, synchronize your local environment to ensure you have the correct dependencies and virtual environment setup:
+```uv sync ```
+
 ### Usage & Execution
 ## 🚀 Usage
 
