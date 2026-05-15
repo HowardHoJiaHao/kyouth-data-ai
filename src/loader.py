@@ -48,15 +48,10 @@ def load_all_jsons(input_dir, output_dir):
             # If source_id exists, we update the existing row with the newest data (Idempotency).
             cursor.execute(
                 """
-                INSERT INTO jobs (source_id, job_title, company, description, tech_stack)
+                INSERT OR IGNORE INTO jobs (source_id, job_title, company, description, tech_stack)
                 VALUES (?, ?, ?, ?, ?)
-                ON CONFLICT(source_id) DO UPDATE SET
-                    job_title = excluded.job_title,
-                    company = excluded.company,
-                    description = excluded.description,
-                    tech_stack = excluded.tech_stack
                 """,
-                (
+                (   
                     data.get("source_id"), 
                     data.get("job_title"), 
                     data.get("company"), 
