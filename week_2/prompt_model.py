@@ -1,3 +1,9 @@
+
+# ollama list
+# ollama run <model-name>
+# /bye - to end
+# uv run prompt_model.py ds "what is your name"
+
 import os
 import sys
 import time
@@ -57,7 +63,9 @@ def prompt_model(model_identifier: str, prompt: str) -> str:
         payload = {
             "model": actual_model,
             "prompt": prompt,
-            "stream": False
+            "stream": False 
+            # stream false is wait untill all load only send back
+            # true is send back when ever there is things
         }
         try:
             response = requests.post(OLLAMA_URL, json=payload, timeout=240)

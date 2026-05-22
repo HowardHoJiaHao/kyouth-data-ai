@@ -1,7 +1,6 @@
 import sqlite3
-import time
-import sys
 import json
+import re
 # Import your working router function directly from your previous script
 from prompt_model import prompt_model
 
@@ -9,9 +8,9 @@ def tag_data(db_url: str):
     """
     Reads un-tagged job rows from SQLite, batches them, uses the chosen LLM 
     to extract technical stacks, and updates the database gracefully.
-    If a batch fails validation, it logs the source_ids and skips them.
+    If a batch fails validation, it marks them as 'FAILED' to skip them.
     """
-    # 1. Establish database connection wrapped in exception handling
+    # 1. Establish database connection
     try:
         conn = sqlite3.connect(db_url)
         cursor = conn.cursor()
@@ -20,118 +19,128 @@ def tag_data(db_url: str):
         return
 
     # 2. Assignment Configurations
-    BATCH_SIZE = 3         # Keeping it small ensures local models don't lose track
-    RETRY_DURATION = 5     # Seconds to wait before backing off on operational glitches
-    batch_counter = 0
+    BATCH_SIZE = 3
     model_choice: str = "gemma2:2b"
     
     print(f"🚀 Starting data tagging process using model nickname: [{model_choice}]")
 
     while True:
-        try:
-            # Fetch a batch of rows that DO NOT have a tech_stack value yet
-            cursor.execute(
-                "SELECT source_id, description FROM jobs WHERE tech_stack IS NULL OR tech_stack = '' LIMIT ?",
-                (BATCH_SIZE,)
-            )
-            rows = cursor.fetchall()
+        # Fetch a batch of rows that DO NOT have a tech_stack value yet
+        # Added 'AND tech_stack != 'FAILED'' to prevent infinite loops
+        cursor.execute(
+            """
+            SELECT source_id, description FROM jobs 
+            WHERE (tech_stack IS NULL OR tech_stack = '') 
+            AND tech_stack != 'FAILED' 
+            LIMIT ?
+            """,
+            (BATCH_SIZE,)
+        )
+        rows = cursor.fetchall()
 
-            # If no rows remain, save changes and exit cleanly
-            if not rows:
-                print("\n✅ All rows have been processed successfully!")
-                break
+        # If no rows remain, save changes and exit cleanly
+        if not rows:
+            print("\n✅ All rows have been processed successfully!")
+            break
 
-            current_batch_size = len(rows)
+        current_batch_size = len(rows)
+        
+        # 3. Construct a clear, structured prompt
+        system_instructions = (
+            "You are a professional technical data extraction engine. Your task is to process a batch of job descriptions "
+            "and extract the core technical stack for each, normalized to a comma-separated string of keywords.\n\n"
             
-            # 3. Construct a clear, structured prompt asking for JSON
-            # This is critical to guarantee we get back exactly 1 matching line per job id
-            system_instructions = (
-                "You are a precise data engineering parsing tool. Given a list of job descriptions, "
-                "extract the core technical stack (programming languages, frameworks, databases, tools) "
-                "as a comma-separated string for each. "
-                f"You MUST return your output exactly as a JSON array containing exactly {current_batch_size} strings. "
-                "Do not include Markdown syntax like ```json, headers, or conversational fluff.\n"
-                "Example format: [\"Python, SQL, AWS\", \"Java, Spring Boot, Docker\"]\n\n"
-            )
-            # system_instructions = (
-            #     "You are a precise data engineering tool. "
-            #     "For the provided jobs, output ONLY a single valid JSON array of strings. "
-            #     "The array must contain exactly one string per job. "
-            #     "DO NOT output multiple arrays separated by commas. "
-            #     "DO NOT output extra text. "
-            #     "Example format: [\"Python, SQL\", \"Java, Spring Boot\"]\n"
-            # )
+            "GUIDELINES:\n"
+            "1. SCOPE: Extract a comprehensive stack, including:\n"
+            "   - Cloud: AWS, Google Cloud, Alibaba Cloud, etc.\n"
+            "   - Backend/API: Node.js, Spring Boot, PHP, RESTful API design.\n"
+            "   - Infrastructure/DevOps: Docker, Nginx, Prometheus, Grafana, GitHub Actions, Linux.\n"
+            "   - Data/AI: LLM, RAG, MongoDB, MySQL, Power BI, Excel, Data processing, Feature engineering.\n"
+            "2. FORMAT: You MUST return a valid JSON array of strings.\n"
+            f"3. LENGTH: You must return EXACTLY {current_batch_size} strings, one for each job description provided in the input order.\n"
+            "4. CLEANLINESS: Return ONLY the JSON array. Do not include Markdown blocks (```json), "
+            "no conversational text, no explanations, no job IDs, and no headers.\n\n"
+            
+            "Example of the exact expected output format:\n"
+            "[\"Node.js, AWS, MongoDB\", \"Java, Spring Boot, Docker, Grafana\", \"PHP, MySQL, Linux development environments\"]"
+        )
 
-            user_data = "Jobs to parse:\n"
-            for idx, row in enumerate(rows):
-                user_data += f"Job {idx}: {row[1]}\n---\n"
+        user_data = "Jobs to parse:\n"
+        for idx, row in enumerate(rows):
+            user_data += f"Job {idx}: {row[1]}\n---\n"
 
-            full_prompt = system_instructions + user_data
+        full_prompt = system_instructions + user_data
 
-            # 4. Invoke your custom model router function
-            llm_response = prompt_model(model_choice, full_prompt)
+        # 4. Invoke your custom model router function
+        llm_response = prompt_model(model_choice, full_prompt)
 
-            # 5. Robust structural matching & validation
-            try:
-                # Clean up any potential markdown code blocks the LLM might have wrapped around the JSON
-                cleaned_json = llm_response.strip().lstrip("```json").rstrip("```").strip()
-                tech_stacks_list = json.loads(cleaned_json)
+        # 5. Robust structural matching & validation
+        tech_stacks_list = None 
+        try:
+            # # Clean up any potential markdown code blocks
+            # cleaned_json = llm_response.strip().lstrip("```json").rstrip("```").strip()
+            # tech_stacks_list = json.loads(cleaned_json)
+            
+            # if len(tech_stacks_list) != current_batch_size:
+            #     raise ValueError("Mismatch between batch size and response count.")
+                # 1. Regex to isolate the first valid-looking JSON array, ignoring all other text
+            # This captures everything between the first '[' and last ']'
+            match = re.search(r'\[.*\]', llm_response, re.DOTALL)
+            # It effectively "cuts out" the JSON and throws the conversational filler
+            
+            if not match:
+                raise ValueError("No JSON array found in LLM response.")
+            
+            cleaned_json = match.group(0).strip()
+            
+            # 2. Parse the isolated string
+            # turn it into list
+            tech_stacks_list = json.loads(cleaned_json)
+            # Example
+            # tech_stacks_list = [
+            #     "Node.js, AWS",        # Index 0 (corresponds to Job 0)
+            #     "Java, Spring Boot",   # Index 1 (corresponds to Job 1)
+            #     "PHP, MySQL"           # Index 2 (corresponds to Job 2)
+            # ]
+            
+            # 3. Structural validation
+            if not isinstance(tech_stacks_list, list):
+                raise ValueError("Response is not a list.")
                 
-                # Check if the number of strings matches our batch size exactly
-                if len(tech_stacks_list) != current_batch_size:
-                    raise ValueError("Mismatch between batch size and response count.")
-                    
-            except Exception as parse_error:
-                print(f"\n⚠️ [Batch {batch_counter}] Parsing failed: {parse_error}")
-                # ADD THIS LINE TEMPORARILY TO SEE THE RAW MANGLED DATA:
-                print(f"🔍 Raw LLM Output was:\n{llm_response}")
-                print("📋 Skipping the following rows to avoid infinite loops:")
-                
-                # Loop through the current batch rows to log their source_id and mark them skipped
-                for row in rows:
-                    failed_source_id = row[0]
-                    print(f"Skipped Job {failed_source_id}")
-                    
-                    # Update database column so our next query passes over them
-                    cursor.execute(
-                        "UPDATE jobs SET tech_stack = '' WHERE source_id = ?",
-                        (failed_source_id,)
-                    )
-                
-                conn.commit()
-                batch_counter += 1
-                continue  # Jump directly to the next iteration to fetch fresh rows
-
-            # 6. Success: Apply updates row-by-row and log to standard output
-            for row, tech_stack in zip(rows, tech_stacks_list):
-                job_id = row[0]
-                
-                # Clean up the output string slightly
-                clean_stack = str(tech_stack).strip()
-                
+            if len(tech_stacks_list) != current_batch_size:
+                # Log this mismatch instead of just crashing if you want to keep running
+                print(f"Mismatch: Expected {current_batch_size}, got {len(tech_stacks_list)}")
+                raise ValueError("Mismatch between batch size and response count.")
+        except Exception as parse_error:
+            print(f"\n⚠️ Parsing failed: {parse_error}")
+            print(f"🔍 Raw LLM Output was:\n{llm_response}")
+            
+            # Mark failed rows as 'FAILED' to skip them in future loops
+            for row in rows:
                 cursor.execute(
-                    "UPDATE jobs SET tech_stack = ? WHERE source_id = ?",
-                    (clean_stack, job_id)
+                    "UPDATE jobs SET tech_stack = 'FAILED' WHERE source_id = ?",
+                    (row[0],)
                 )
-                print(f"Analyzed Job {job_id}: {clean_stack}")
-
-            # Commit changes to the database at the end of every successful batch
             conn.commit()
-            batch_counter += 1
+            continue # Jump to the next batch
 
-        except Exception as system_error:
-            # Mandate: Handle all systemic errors gracefully without crashing or throwing stack traces
-            print(f"🚨 An unexpected systemic error occurred: {str(system_error)}")
-            time.sleep(RETRY_DURATION)
-            continue
+        # 6. Success: Apply updates row-by-row
+        # zip pairing them up
+        for row, tech_stack in zip(rows, tech_stacks_list):
+            job_id = row[0]
+            clean_stack = str(tech_stack).strip()
+            # By default, .strip() removes:, Spaces (" "), Tabs (\t), Newlines (\n), Carriage returns (\r)
+            cursor.execute(
+                "UPDATE jobs SET tech_stack = ? WHERE source_id = ?",
+                (clean_stack, job_id)
+            )
+            print(f"Analyzed Job {job_id}: {clean_stack}")
+
+        conn.commit()
 
     # Clean up the database interface safely
     conn.close()
 
 if __name__ == "__main__":
-    # Points to your database file path relative to your current execution directory
-    # Using cross-platform forward slashes to prevent escape character bugs
     target_db = "jobs_d1.db"
-    
-    # Run the processing routine
     tag_data(target_db)
