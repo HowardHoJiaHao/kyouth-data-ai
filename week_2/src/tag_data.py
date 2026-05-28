@@ -1,8 +1,10 @@
-import sqlite3
 import json
 import re
+import sqlite3
+
 # Import your working router function directly from your previous script
-from prompt_model import prompt_model
+from submitclone.week_2.src.prompt_model import prompt_model
+
 
 def tag_data(db_url: str):
     """
@@ -11,6 +13,7 @@ def tag_data(db_url: str):
     If a batch fails validation, it marks them as 'FAILED' to skip them.
     """
     # 1. Establish database connection
+    # need to handle if the file appear error message if no file
     try:
         conn = sqlite3.connect(db_url)
         cursor = conn.cursor()
@@ -143,4 +146,5 @@ def tag_data(db_url: str):
 
 if __name__ == "__main__":
     target_db = "jobs_d1.db"
+    # i should use os.pathlib
     tag_data(target_db)

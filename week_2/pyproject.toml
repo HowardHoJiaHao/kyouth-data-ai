@@ -1,7 +1,21 @@
+[tool.deptry.per_rule_ignores]
+DEP001 = ["submitclone"]
+
 [project]
 name = "week-2"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "google-generativeai>=0.8.6",
+    "google-genai>=2.6.0",
+    "pydantic>=2.13.4",
+    "requests>=2.34.2",
+]
+
+[dependency-groups]
+dev = [
+    "deptry>=0.25.1",
+    "ruff>=0.15.0,<0.16.0",
+]

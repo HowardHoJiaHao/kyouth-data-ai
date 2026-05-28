@@ -1,0 +1,96 @@
+
+-----------------------------
+UV 
+-----------------------------
+uv add <package> 
+Add package
+It auto update all three files
+python.toml - for human readable
+uv.lock - for machine to understand ( later for uv sync that compare to .venv)
+.venv 
+- this is current enviroment 
+- other people take your project it will be compare to their (uv sync)
+Packages add
+uv add pydantic
+uv add requests
+uv add google-generativeai
+
+uv remove <package>
+remove package
+
+
+-----------------------------
+Python 
+-----------------------------
+Check python version 
+uv run python --version 
+
+-----------------------------
+RUFF
+-----------------------------
+Set ruff version 0.15
+uv add --dev "ruff>=0.15.0,<0.16.0"
+
+Check ruff version
+uv run ruff --version
+
+uv run ruff check .
+It scans your code for errors, potential bugs, stylistic issues, and "code smells" 
+(e.g., unused imports, undefined variables, or violation of best practices).
+
+uv run ruff check --fix
+ruff automatically fix errors
+
+uf run ruff format
+Formating code
+To automatically clean up your code's style (indents, line breaks, etc.)
+to meet standard PEP 8 requirements:
+
+uv run ruff check --select I --fix
+sort imports from short to long
+
+-----------------------------
+Virtual Enviroment ( UV )
+-----------------------------
+
+curl -LsSf https://astral.sh/uv/0.8.0/install.sh | env UV_INSTALL_DIR=$HOME/.local/bin sh
+download 0.8.* uv version 
+
+uv --version
+check uv version 
+
+curl -LsSf https://astral.sh/uv/install.sh | env UV_VERSION=0.8.0 sh
+Downgrade the uv version
+
+Turn On Linux/macOS
+source .venv/bin/activate
+Dont need to use "uv run" command
+
+Turn off VE
+deactivate
+
+uv sync 
+update the latest dependency from the python.toml into the .venv
+
+uv run 
+only run according to the .venv
+
+uv add --dev deptry
+uv run deptry .
+Check for unused packages in pyproject.toml
+1. DEP001 (Missing Dependency)
+2. DEP002 (Unused Dependency)
+3. DEP003 (Missing Dependency)
+
+-----------------------------
+python.tomp file
+-----------------------------
+
+dependencies vs dependency-groups
+dependencies
+1. Libraries that mush have to be imported 
+2. Must be installed to execute the code successfully
+dependency-groups
+1. Tools you need while writing the code
+2. There are not must to be installed to run the code
+

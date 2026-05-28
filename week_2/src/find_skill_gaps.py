@@ -1,13 +1,13 @@
-import sqlite3
 import json
-import time
 import os
 import re
-import argparse
+import sqlite3
 import sys
+import time
+from typing import List
+
 from pydantic import BaseModel
-from typing import List, Dict
-from prompt_model import prompt_model
+from submitclone.week_2.src.prompt_model import prompt_model
 
 # 1. Configuration
 CACHE_FILE = "normalized_skills.json"
@@ -96,7 +96,7 @@ def find_skill_gaps(input_file_path: str, db_url: str) -> SkillGapResult:
 if __name__ == "__main__":
 
     try:
-        print(f"🚀 Start analyzing skills ...")
+        print("🚀 Start analyzing skills ...")
         res = find_skill_gaps(RESUME_PATH, DB_PATH)
         
         print(f"\n✅ Analysis complete in {res.time_taken}s")
