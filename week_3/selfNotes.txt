@@ -1,0 +1,67 @@
+Step 1: Install the Docker CLI in WSL
+Run these commands one by one to update your package list and install the Docker command-line tool:
+
+sudo apt-get update
+sudo apt-get install -y docker.io
+
+Step 2: Grant Permissions (Just to be sure)
+Since we just installed it, let's make sure your user profile has permission to access it without needing sudo every time:
+sudo usermod -aG docker $USER
+newgrp docker
+
+Step 3: Test it one more time!
+Now that the docker command actually exists in your terminal, run this:
+docker ps
+
+Start the server using this command
+uv run uvicorn --app-dir src main:app --reload
+
+# 1. Update the package with your new code
+docker build -t frontend .
+
+# 2. Run it
+docker run -p 8000:8000 frontend 
+docker run -p 8000:8000 --env-file ../.env frontend
+
+Build the image
+docker build -t frontend .
+
+----------------------
+Libraries
+----------------------
+uv add python-dotenv pypdf
+uv add fastapi uvicorn pydantic pypdf requests python-dotenv
+
+
+docker compose up --build
+docker compose down
+
+# In a new terminal
+curl http://localhost:8001/health
+curl -X POST http://localhost:8001/chat -H "Content-Type: application/json" -d '{"message":"Hello", "pdf_data":null, "pdf_name":null}'
+
+
+# Stop and remove all containers, networks, but keep volumes
+docker compose down
+
+# Or stop but keep containers (can restart later)
+docker compose stop
+
+
+# Stop and remove everything
+docker compose down
+
+# Start fresh
+docker compose up -d
+
+# Stop, rebuild, and start
+docker compose down
+docker compose up -d --build
+
+docker compose restart backend
+
+# Rebuild without cache
+docker compose up -d --build --force-recreate
+
+docker compose down
+docker compose up -d
