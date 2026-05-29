@@ -41,7 +41,7 @@ It scans your code for errors, potential bugs, stylistic issues, and "code smell
 uv run ruff check --fix
 ruff automatically fix errors
 
-uf run ruff format
+uv run ruff format
 Formating code
 To automatically clean up your code's style (indents, line breaks, etc.)
 to meet standard PEP 8 requirements:
