@@ -1,0 +1,314 @@
+Skema jawapan SET 1
+Soalan : Percubaan SPM 2025
+Subjek : SAINS KOMPUTER
+BAHAGIAN A
+1 Kos yang murah 1m
+Masa yang singkat 1m
+Menjimatkan sumber 1m
+2 P : Pemboleh ubah setempat 1m
+Q : Pemboleh ubah Sejagat 1m
+3 i) == 1m
+ii) && 1m
+4 6, 5, 3 3m
+5 int [ ] SenaraiMarkah = { 78,86,57,87,98 }
+ada symbol [ ] – 1markah
+lengkap int [ ] SenaraiMarkah – 1 markah
+ada = { 78,86,57,87,98 } - 1 markah
+6 i) Integriti data – 1 markah
+ii) Kelewahan data – 1 markah
+iii) Ketekalan data - 1 markah
+7 P : Heirarki – 1 markah
+Q : hubungan – 1 markah
+R : berorientasikan objek – 1 markah
+8 simbol A – 1markah
+Simbol B – 1 markah
+Simbol C - 1 markah
+9 i) IdPelajar + KodSubjek 1m
+ii) IdPelajar 1m
+10 3NF – 1markah
+1NF – 1markah
+2NF – 1 markah
+11 i) Meningkatkan produktiviti 1m
+ii) Mendapat Permintaan dalam pasaran 1m
+iii) perkomputeran sosial 1m
+12 X : Unit Kawalan 1m
+Y : Unit Aritmetik dan Logik 1m
+
+1 | Kos yang murah
+Masa yang singkat
+Menjimatkan sumber | 1m
+1m
+1m
+2 | P : Pemboleh ubah setempat
+Q : Pemboleh ubah Sejagat | 1m
+1m
+3 | i) ==
+ii) && | 1m
+1m
+4 | 6, 5, 3 | 3m
+5 | int [ ] SenaraiMarkah = { 78,86,57,87,98 }
+ada symbol [ ] – 1markah
+lengkap int [ ] SenaraiMarkah – 1 markah
+ada = { 78,86,57,87,98 } - 1 markah | 
+6 | i) Integriti data – 1 markah
+ii) Kelewahan data – 1 markah
+iii) Ketekalan data - 1 markah | 
+7 | P : Heirarki – 1 markah
+Q : hubungan – 1 markah
+R : berorientasikan objek – 1 markah | 
+8 | simbol A – 1markah
+Simbol B – 1 markah
+Simbol C - 1 markah | 
+9 | i) IdPelajar + KodSubjek | 1m
+ | ii) IdPelajar | 1m
+ |  | 
+10 | 3NF – 1markah
+1NF – 1markah
+2NF – 1 markah | 
+11 | i) Meningkatkan produktiviti | 1m
+ | ii) Mendapat Permintaan dalam pasaran | 1m
+ | iii) perkomputeran sosial | 1m
+12 | X : Unit Kawalan | 1m
+ | Y : Unit Aritmetik dan Logik | 1m
+ |  | 
+
+13 GET A : GET DAN 1m
+GET B : GET TAK ATAU 1m
+GET C : GET ATAU 1m
+14
+namaPenjual jumlah 1 m
+Amin 3302 1m
+Kamelan 1150 1m
+nama medan tidak sama - tolak 1m
+15 45.6, 55.7, 66.8, 77.9, 89.5 1m
+16 X: Isihan Buih 1m
+Y: isihan pilih 1m
+17 Fail dibuka untuk ditulis sahaja (write-only) 1m
+Semua teks yang ditulis akan ditambah ke hujung fail. 1m
+jika fail yang dirujuk tidak wujud, PHP akan automatik mencipta fail
+baharu.
+Bila fail dibuka, kursor tulis berada di akhir fail.
+Mana-mana 2 pilihan jawapan yang betul
+18 X : Membuat pertanyaan terhadap pangkalan data untuk memperoleh 1m
+data yang dikehendaki
+Y : Menamatkan sambungan ke pangkalan data 1m
+19 i) Warna 1m
+ii) Susun Atur 1m
+20 X : font-family 1m
+Y : background-color 1m
+Z : font-size 1m
+
+13 | GET A : GET DAN | 1m
+ | GET B : GET TAK ATAU | 1m
+ | GET C : GET ATAU | 1m
+ |  | 
+14 | namaPenjual jumlah 1 m
+Amin 3302 1m
+Kamelan 1150 1m
+nama medan tidak sama - tolak 1m | 
+ |  | 
+15 | 45.6, 55.7, 66.8, 77.9, 89.5 | 1m
+16 | X: Isihan Buih | 1m
+ | Y: isihan pilih | 1m
+17 | Fail dibuka untuk ditulis sahaja (write-only)
+Semua teks yang ditulis akan ditambah ke hujung fail.
+jika fail yang dirujuk tidak wujud, PHP akan automatik mencipta fail
+baharu.
+Bila fail dibuka, kursor tulis berada di akhir fail.
+Mana-mana 2 pilihan jawapan yang betul | 1m
+1m
+18 | X : Membuat pertanyaan terhadap pangkalan data untuk memperoleh
+data yang dikehendaki | 1m
+ | Y : Menamatkan sambungan ke pangkalan data | 1m
+19 | i) Warna | 1m
+ | ii) Susun Atur | 1m
+20 | X : font-family | 1m
+ | Y : background-color | 1m
+ | Z : font-size | 1m
+ |  | 
+ |  | 
+ |  | 
+ |  | 
+
+namaPenjual | jumlah
+Amin | 3302
+Kamelan | 1150
+
+Bahagian B
+1.
+INPUT Bilangantiket 1 MARKAH
+PROSES Bayaran = Bilangantiket * 45 1 MARKAH
+Bayaran = Bilangantikat * 45 * 0.8 1 MARKAH
+OUTPUT Bayaran 1 MARKAH
+Ya/Tidak – 1m
+Anak panah aliran – 1m
+Syarat betul – 1m
+Flow betul – 1m
+2 a) Baris : 6, 12, 14, 15 4m
+b)
+Baris 6 : return 4/3*pi*jejari*jejari -1m
+Baris 12 : double Panjang = DK.nextDouble() -1m
+Baris 14 : Double isipadu = sfera(jejari) -1m
+Baris 15 : System.out.print(“Isipadu ialah : “ + isipadu) -1m
+Abaikan symbol ;
+c)
+inden yang konsisten – 1m
+inden yang konsisten membuatkan kod atur cara mudah difahami oleh orang lain.
+– 1m
+3 a) 1m
+GET A : GET ATAU
+GET B : GET DAN 1m
+
+1. | INPUT Bilangantiket 1 MARKAH
+PROSES Bayaran = Bilangantiket * 45 1 MARKAH
+Bayaran = Bilangantikat * 45 * 0.8 1 MARKAH
+OUTPUT Bayaran 1 MARKAH
+Ya/Tidak – 1m
+Anak panah aliran – 1m
+Syarat betul – 1m
+Flow betul – 1m | 
+2 | a) Baris : 6, 12, 14, 15 | 4m
+ | b)
+Baris 6 : return 4/3*pi*jejari*jejari -1m
+Baris 12 : double Panjang = DK.nextDouble() -1m
+Baris 14 : Double isipadu = sfera(jejari) -1m
+Baris 15 : System.out.print(“Isipadu ialah : “ + isipadu) -1m
+Abaikan symbol ; | 
+ | c)
+inden yang konsisten – 1m
+inden yang konsisten membuatkan kod atur cara mudah difahami oleh orang lain.
+– 1m | 
+3 | a)
+GET A : GET ATAU | 1m
+ | GET B : GET DAN | 1m
+
+INPUT | Bilangantiket | 1 MARKAH
+PROSES | Bayaran = Bilangantiket * 45 | 1 MARKAH
+ | Bayaran = Bilangantikat * 45 * 0.8 | 1 MARKAH
+OUTPUT | Bayaran | 1 MARKAH
+
+GET C : GET TAK DAN 1m
+b) 𝑋 = (𝑃 + 𝑄) 𝑋 (𝑃 𝑋 𝑄)
+persamaan betul --- 1m
+ada X = ----1m
+c)
+P Q P+Q PXQ X 1m
+0 0 0 0 1 1m
+0 1 1 0 1 1m
+1 0 1 0 1 1m
+1 1 1 1 0 1m
+4 Cadangan B skema hubungan ternormal yang terbaik 1m
+Sebab pertama
+Cadangan B dan C tidak mempunyai kebergantungan fungsi separa
+Pada jadual keputusan (IDSubjek, NamaSubjek) kerana telah dipecahkan
+kedalam jadual baru. Ini mengurangkan berlakunya kelewahan data.
+1+
+BERBANDING
+1
+Cadangan A yang masih mempunyai kebergantungan fungsi separa
+Pada jadual keputusan (IDSubjek, NamaSubjek) yang masih mempunyai
+kelewahan data.
+Sebab kedua
+Cadangan B dan C tidak mempunyai kebergantungan fungsi transitif pada jadual
+PELAJAR kerana telah memecahkan KodKelas dan NamaKelas pada jadual
+PELAJAR. Ini dapat mengurangkan kelewahan data 1+
+BERBANDING 1
+Cadangan A yang masih mempunyai kebergantungan fungsi transitif pada jadual
+PELAJAR antara atribut KodKelas dan NamaKelas yang menyebabkan
+berlakunya kelewahan data.
+Sebab ketiga 1+
+Cadangan B dan C ditandakan dengan kunci asing IDPelajar<KP><KA> pada 1
+jadual keputusan. Yang mematuhi format penulisan skema hubungan.
+BERBANDING
+Cadangan A yang tidak ditandakan dengan kunci asing IDPelajar<KP> pada
+jadual keputusan. Ini tidak mematuhi format penulisan skema hubungan.
+Sebab keempat 1+
+Cadangan B telah mengekalkan atibut Markah dan Gred pada jadual keputusan 1
+kerana kedua-dua atribut tersebut bergantung sepenuhnya kepada kedua-dua
+kunci (IDPelajar dan IDSubjek) dan boleh menyimpan data Markah dan Gred
+bagi setiap Pelajar dan Subjek.
+BERBANDING
+Cadangan C yang meletakan atibut kedudukan dan catatan pada jadual kputusan.
+Ini menyebabkan Markah dan Gred tidak dapat menyimpan data bagi setiap
+Pelajar dan subjek.
+1 markah –pelajar hanya memberikan sebab untuk perbandingan tanpa
+menyatakan akibat bagi setiap sebab yang di bandingkan
+
+ | GET C : GET TAK DAN | 1m
+ | b) 𝑋 = (𝑃 + 𝑄) 𝑋 (𝑃 𝑋 𝑄)
+persamaan betul --- 1m
+ada X = ----1m | 
+ | c)
+P Q P+Q PXQ X 1m
+0 0 0 0 1 1m
+0 1 1 0 1 1m
+1 0 1 0 1 1m
+1 1 1 1 0 1m | 
+ |  | 
+4 | Cadangan B skema hubungan ternormal yang terbaik | 1m
+ | Sebab pertama
+Cadangan B dan C tidak mempunyai kebergantungan fungsi separa
+Pada jadual keputusan (IDSubjek, NamaSubjek) kerana telah dipecahkan
+kedalam jadual baru. Ini mengurangkan berlakunya kelewahan data.
+BERBANDING
+Cadangan A yang masih mempunyai kebergantungan fungsi separa
+Pada jadual keputusan (IDSubjek, NamaSubjek) yang masih mempunyai
+kelewahan data. | 1+
+1
+ | Sebab kedua
+Cadangan B dan C tidak mempunyai kebergantungan fungsi transitif pada jadual
+PELAJAR kerana telah memecahkan KodKelas dan NamaKelas pada jadual
+PELAJAR. Ini dapat mengurangkan kelewahan data
+BERBANDING
+Cadangan A yang masih mempunyai kebergantungan fungsi transitif pada jadual
+PELAJAR antara atribut KodKelas dan NamaKelas yang menyebabkan
+berlakunya kelewahan data. | 1+
+1
+ | Sebab ketiga
+Cadangan B dan C ditandakan dengan kunci asing IDPelajar<KP><KA> pada
+jadual keputusan. Yang mematuhi format penulisan skema hubungan.
+BERBANDING
+Cadangan A yang tidak ditandakan dengan kunci asing IDPelajar<KP> pada
+jadual keputusan. Ini tidak mematuhi format penulisan skema hubungan. | 1+
+1
+ | Sebab keempat
+Cadangan B telah mengekalkan atibut Markah dan Gred pada jadual keputusan
+kerana kedua-dua atribut tersebut bergantung sepenuhnya kepada kedua-dua
+kunci (IDPelajar dan IDSubjek) dan boleh menyimpan data Markah dan Gred
+bagi setiap Pelajar dan Subjek.
+BERBANDING
+Cadangan C yang meletakan atibut kedudukan dan catatan pada jadual kputusan.
+Ini menyebabkan Markah dan Gred tidak dapat menyimpan data bagi setiap
+Pelajar dan subjek. | 1+
+1
+ |  | 
+ | 1 markah –pelajar hanya memberikan sebab untuk perbandingan tanpa
+menyatakan akibat bagi setiap sebab yang di bandingkan | 
+ |  | 
+
+P | Q | P+Q | PXQ | X
+0 | 0 | 0 | 0 | 1
+0 | 1 | 1 | 0 | 1
+1 | 0 | 1 | 0 | 1
+1 | 1 | 1 | 1 | 0
+
+b)
+Semua Entiti betul – 1m
+Semua Atibut betul - 2 m / sebahagian betul -- 1m
+Semua Hubungan betul -1 mSemua Kekardinalan betul – 1m
+Semua Kunci betul – 1m
+ERD Betul mengikut pilihan pelajar samada B atau C
+
+ |  | 
+ |  | 
+ |  | 
+ |  | 
+ |  | 
+ | b) | 
+ |  | 
+ | Semua Entiti betul – 1m
+Semua Atibut betul - 2 m / sebahagian betul -- 1m
+Semua Hubungan betul -1 mSemua Kekardinalan betul – 1m
+Semua Kunci betul – 1m | 
+ | ERD Betul mengikut pilihan pelajar samada B atau C | 
+

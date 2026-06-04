@@ -1,0 +1,553 @@
+SULIT 3770/1
+PERATURAN PEMARKAHAN
+GEMPUR KECEMERLANGAN SAINS KOMPUTER
+TINGKATAN 5 NEGERI PERLIS TAHUN 2025
+Bahagian A
+[50 markah]
+No Jawapan Markah
+1 (a) Masa 1m 2m
+(b) Carta Gantt (ejaan salah tidak diterima) 1m
+2. A : Ralat logik 1m 2m
+B : Ralat masa larian 1m
+3. (a) 250 1m 3m
+(b) 200 1m
+(c) 180 1m
+4. (a) Baris panjang = 5; tidak menyatakan jenis data untuk panjang.
+ATAU 1m 2m
+Pemboleh ubah panjang tidak diisytiharkan jenis datanya sebelum
+digunakan.
+(b) int panjang; ATAU int panjang=5; 1m
+5. (i) penulisan komen/ komen yang jelas 1m 3m
+(ii) pembolehubah yang bermakna/jenis data yang sesuai 1m
+(iii) inden yang konsisten 1m
+**tidak perlu ikut susunan**
+6 (a) 5 1m 2m
+(b) Nama saya : Farah 1m
+7. C : Prosedur / Procedure 1m 2m
+D : Fungsi / Function 1m
+8. (a) Fasa Uji dan Nyah ralat / Menguji dan Menyahralat 1m 3m
+(b) ● Memastikan semua keperluan dipenuhi. 1m
+● Memastikan semua pengekodan berfungsi seperti yang
+1m
+dikehendaki.
+3770/1 © 2025 Hak Cipta Jabatan Pendidikan Perlis [Lihat halaman sebelah
+
+No |  | Jawapan | Markah | 
+1 | (a)
+(b) | Masa
+Carta Gantt (ejaan salah tidak diterima) | 1m
+1m | 2m
+2. |  | A : Ralat logik
+B : Ralat masa larian | 1m
+1m | 2m
+3. | (a)
+(b)
+(c) | 250
+200
+180 | 1m
+1m
+1m | 3m
+4. | (a)
+(b) | Baris panjang = 5; tidak menyatakan jenis data untuk panjang.
+ATAU
+Pemboleh ubah panjang tidak diisytiharkan jenis datanya sebelum
+digunakan.
+int panjang; ATAU int panjang=5; | 1m
+1m | 2m
+5. | (i)
+(ii)
+(iii) | penulisan komen/ komen yang jelas
+pembolehubah yang bermakna/jenis data yang sesuai
+inden yang konsisten
+**tidak perlu ikut susunan** | 1m
+1m
+1m | 3m
+6 | (a)
+(b) | 5
+Nama saya : Farah | 1m
+1m | 2m
+7. |  | C : Prosedur / Procedure
+D : Fungsi / Function | 1m
+1m | 2m
+8. | (a) | Fasa Uji dan Nyah ralat / Menguji dan Menyahralat | 1m | 3m
+ | (b) | ● Memastikan semua keperluan dipenuhi.
+● Memastikan semua pengekodan berfungsi seperti yang
+dikehendaki. | 1m
+1m | 
+
+SULIT 3770/1
+● Memastikan semua modul boleh berfungsi bila digabungkan.
+● Mendapatkan maklum balas daripada pengguna sistem untuk
+tujuan pembetulan dan penambahbaikan.
+● Melibatkan pengguna sepenuhnya di peringkat pembangunan.
+● Mengesan ralat yang tercicir.
+● Membantu pasukan projek membuat dokumentasi dengan
+mengesan kesilapan oleh pengguna.
+● Menyimpan keputusan ujian sebagai bukti penyempurnaan
+pembangunan sistem.
+**pilih 2 sahaja**
+9. (a) Ketekalan data. 1m 2m
+(b) Memastikan tiada data yang sama berulang di beberapa lokasi ATAU 1m
+Memastikan data boleh dipercayai
+10. (a) NoKP 1m 2m
+(b) NoKP mempunyai nilai yang unik 1m
+11. (i) Kebergantungan fungsi separa 1m 2m
+(ii) Kebergantungan fungsi transitif 1m
+12. 2 1m 3m
+3 1m
+1 1m
+13. (a) X : Meningkatkan produktiviti 1m 2m
+(b) Y : Mengurangkan kos selepas jualan 1m
+14. 1m 3m
+1m
+1m
+15. (a) Pembangun laman web, pembangun perisian multimedia, pakar 2m 3m
+media digital, pereka grafik dan multimedia.
+**pilih 2 sahaja**
+(b) Membangunkan aplikasi berasaskan web, menulis kod,
+1m
+mengintegrasikan sistem dan menyediakan bantuan teknikal. Seseorang
+itu perlu membangunkan dan menghasilkan media interaktif,
+termasuklah produk digital dan multimedia.
+3770/1 © 2025 Hak Cipta Jabatan Pendidikan Perlis [Lihat halaman sebelah
+
+SULIT |  |  |  | 
+ |  | ● Memastikan semua modul boleh berfungsi bila digabungkan.
+● Mendapatkan maklum balas daripada pengguna sistem untuk
+tujuan pembetulan dan penambahbaikan.
+● Melibatkan pengguna sepenuhnya di peringkat pembangunan.
+● Mengesan ralat yang tercicir.
+● Membantu pasukan projek membuat dokumentasi dengan
+mengesan kesilapan oleh pengguna.
+● Menyimpan keputusan ujian sebagai bukti penyempurnaan
+pembangunan sistem.
+**pilih 2 sahaja** |  | 
+9. | (a)
+(b) | Ketekalan data.
+Memastikan tiada data yang sama berulang di beberapa lokasi ATAU
+Memastikan data boleh dipercayai | 1m
+1m | 2m
+10. | (a)
+(b) | NoKP
+NoKP mempunyai nilai yang unik | 1m
+1m | 2m
+11. | (i)
+(ii) | Kebergantungan fungsi separa
+Kebergantungan fungsi transitif | 1m
+1m | 2m
+12. |  | 2
+3
+1 | 1m
+1m
+1m | 3m
+13. | (a)
+(b) | X : Meningkatkan produktiviti
+Y : Mengurangkan kos selepas jualan | 1m
+1m | 2m
+14. |  |  | 1m
+1m
+1m | 3m
+15. |  | (a) Pembangun laman web, pembangun perisian multimedia, pakar
+media digital, pereka grafik dan multimedia.
+**pilih 2 sahaja**
+(b) Membangunkan aplikasi berasaskan web, menulis kod,
+mengintegrasikan sistem dan menyediakan bantuan teknikal. Seseorang
+itu perlu membangunkan dan menghasilkan media interaktif,
+termasuklah produk digital dan multimedia. | 2m
+1m | 3m
+
+SULIT 3770/1
+ATAU
+(a) Juruanalisis sistem, jurutera sistem komputer, pembangun perisian,
+pengatur cara komputer
+**pilih 2 sahaja**
+(b) Merancang, mereka bentuk, mengemaskinikan dan menguruskan
+perisian komputer dan sistem melalui pengaturcaraan dan pembangunan
+perisian.
+*mana-mana jawapan yang sepadan.
+16. A : Bahasa Aras Rendah 1m 2m
+B : Bahasa Aras Tinggi 1m
+17. 1m 3m
+1m
+1m
+F - wajib letak tanda kurungan ( )
+18. SELECT MAX(Markah) AS MarkahTertinggi 1m 3m
+FROM Pertandingan 1m
+WHERE Kategori = 'Video Kreatif'; 1m
+ATAU
+SELECT MAX(Markah)
+FROM Pertandingan
+WHERE Kategori = 'Video Kreatif';
+# Perlu letak tanda ‘ ‘ pada Video Kreatif
+19. (a) Kaedah isihan buih. 1m 3 m
+(b) Pemboleh ubah : banciPenduduk/ bilNombor/ sementara / i dan j 2 m
+* banciPenduduk dan bilNombor - kena rapat
+*pilih dua sahaja
+20. (a) math.js 1m 3m
+(b) Melaksanakan fungsi-fungsi matematik seperti math.sqrt( ) 1m
+(c) Punca kuasa dua bagi 4 ialah 2 (output mesti ayat lengkap) 1m
+3770/1 © 2025 Hak Cipta Jabatan Pendidikan Perlis [Lihat halaman sebelah
+
+SULIT |  |  |  | 
+ |  | ATAU
+(a) Juruanalisis sistem, jurutera sistem komputer, pembangun perisian,
+pengatur cara komputer
+**pilih 2 sahaja**
+(b) Merancang, mereka bentuk, mengemaskinikan dan menguruskan
+perisian komputer dan sistem melalui pengaturcaraan dan pembangunan
+perisian.
+*mana-mana jawapan yang sepadan. |  | 
+16. |  | A : Bahasa Aras Rendah
+B : Bahasa Aras Tinggi | 1m
+1m | 2m
+17. |  | F - wajib letak tanda kurungan ( ) | 1m
+1m
+1m | 3m
+18. |  | SELECT MAX(Markah) AS MarkahTertinggi
+FROM Pertandingan
+WHERE Kategori = 'Video Kreatif';
+ATAU
+SELECT MAX(Markah)
+FROM Pertandingan
+WHERE Kategori = 'Video Kreatif';
+# Perlu letak tanda ‘ ‘ pada Video Kreatif | 1m
+1m
+1m | 3m
+19. | (a)
+(b) | Kaedah isihan buih.
+Pemboleh ubah : banciPenduduk/ bilNombor/ sementara / i dan j
+* banciPenduduk dan bilNombor - kena rapat
+*pilih dua sahaja | 1m
+2 m | 3 m
+20. | (a)
+(b)
+(c) | math.js
+Melaksanakan fungsi-fungsi matematik seperti math.sqrt( )
+Punca kuasa dua bagi 4 ialah 2 (output mesti ayat lengkap) | 1m
+1m
+1m | 3m
+
+SULIT 3770/1
+Bahagian B
+[50 markah]
+No Jawapan Markah
+1. (a) #Nota: Tidak salin semula seluruh baris yang berkenaan, kosong markah
+baris 11 : if (B.equals(“password”) || A.equals(“user” ) ) { 1m
+cadangan ungkapan bebas ralat :
+if ( B.equals(“password”) && A.equals(“user” )) 1m
+baris 16 : if(J=P+Q) 1m
+cadangan ungkapan bebas ralat :
+if (J= =P+Q) 1m
+#Nota: Mesti bagi cadangan. Bukan penerangan amalan.
+(b) 1m
+Pemboleh ubah yang bermakna
+Cadangan untuk memberi nama seperti IDPengguna, 10m
+1m
+KataLaluan, Nombor1 dan Nombor2 supaya mudah difahami.
+1m
+Menulis komen dalam atur cara
+Contoh cadangan untuk komen:
+1m
+Di baris 10, boleh tambah komen seperti:
+//mengesahkan pengguna (untuk menerangkan fungsi kod baris ke-11).
+Menggunakan inden yang konsisten 1m
+Arahan dalam blok if-else dari baris 12-20 dan 23 harus ada inden supaya
+dapat mengetahui arahan yang berada dalam blok berkenaan dengan mudah. 1m
+2. (a) Pilihan terbaik: ATUR CARA Y 1m
+Aspek Perbezaan Y Z
+Jenis struktur Struktur kawalan Struktur kawalan if-else-if
+1m
+kawalan Switch-case
+1m
+(Atur cara kelihatan
+lebih kemas dan
+tersusun berbanding Z)
+Penggunaan Nama pemboleh ubah Nama pemboleh ubah
+9m
+nama pemboleh yang tepat tidak bermula dengan nombor
+1m
+ubah bermula dengan (tidak memenuhi ciri
+1m
+nombor. pemboleh ubah yang
+nombor1, nombor2, hasil bermakna)
+1nombor, 2nombor
+3770/1 © 2025 Hak Cipta Jabatan Pendidikan Perlis [Lihat halaman sebelah
+
+No | Jawapan |  | Markah | 
+1. | (a)
+(b) | #Nota: Tidak salin semula seluruh baris yang berkenaan, kosong markah
+baris 11 : if (B.equals(“password”) || A.equals(“user” ) ) {
+cadangan ungkapan bebas ralat :
+if ( B.equals(“password”) && A.equals(“user” ))
+baris 16 : if(J=P+Q)
+cadangan ungkapan bebas ralat :
+if (J= =P+Q)
+#Nota: Mesti bagi cadangan. Bukan penerangan amalan.
+Pemboleh ubah yang bermakna
+Cadangan untuk memberi nama seperti IDPengguna,
+KataLaluan, Nombor1 dan Nombor2 supaya mudah difahami.
+Menulis komen dalam atur cara
+Contoh cadangan untuk komen:
+Di baris 10, boleh tambah komen seperti:
+//mengesahkan pengguna (untuk menerangkan fungsi kod baris ke-11).
+Menggunakan inden yang konsisten
+Arahan dalam blok if-else dari baris 12-20 dan 23 harus ada inden supaya
+dapat mengetahui arahan yang berada dalam blok berkenaan dengan mudah. | 1m
+1m
+1m
+1m
+1m
+1m
+1m
+1m
+1m
+1m | 10m
+2. | (a) | Pilihan terbaik: ATUR CARA Y
+Aspek Perbezaan Y Z
+Jenis struktur Struktur kawalan Struktur kawalan if-else-if
+kawalan Switch-case
+(Atur cara kelihatan
+lebih kemas dan
+tersusun berbanding Z)
+Penggunaan Nama pemboleh ubah Nama pemboleh ubah
+nama pemboleh yang tepat tidak bermula dengan nombor
+ubah bermula dengan (tidak memenuhi ciri
+nombor. pemboleh ubah yang
+nombor1, nombor2, hasil bermakna)
+1nombor, 2nombor | 1m
+1m
+1m
+1m
+1m | 9m
+
+Aspek Perbezaan | Y | Z
+Jenis struktur
+kawalan | Struktur kawalan
+Switch-case
+(Atur cara kelihatan
+lebih kemas dan
+tersusun berbanding Z) | Struktur kawalan if-else-if
+Penggunaan
+nama pemboleh
+ubah | Nama pemboleh ubah
+yang tepat tidak
+bermula dengan
+nombor.
+nombor1, nombor2, hasil | Nama pemboleh ubah
+bermula dengan nombor
+(tidak memenuhi ciri
+pemboleh ubah yang
+bermakna)
+1nombor, 2nombor
+
+SULIT 3770/1
+Penggunaan jenis Penggunaan jenis data Penggunaan jenis data
+data yang sesuai. yang tidak sesuai.
+double nombor1, int 1nombor, 2nombor,
+nombor2; hasil; 1m
+(sepatutnya double nombor1, 1m
+nombor2 kerana pengguna
+perlu memasukkan nombor1
+dan nombor2 menggunakan
+data jenis double)
+Amalan terbaik Penggunaan komen Tidak menggunakan
+pengaturcaraan yang jelas untuk komen semasa menulis
+menerangkan fungsi kod. (Sukar mengetahui
+1m
+kod. fungsi kod atur cara)
+1m
+* Mesti buat perbandingan - 1 markah
+(b) Pilihan Aturcara Y
+Atur cara ralat Atur cara bebas ralat
+1m
+1m
+double pilihan; int pilihan;
+4m
+case 3: case 3:
+1m
+hasil = nombor1 / nombor2; hasil = nombor1 * nombor2;
+1m
+Pilihan Aturcara Z
+Atur cara ralat Atur cara bebas ralat
+int 1nombor, 2 nombor int nombor1, nombor2
+else if (pilihan == 2) { else if (pilihan == 2) {
+hasil = nombor1 / nombor2; hasil = nombor1 - nombor2;
+(c) Hasil Darab: 75 1m 2m
+*Hasil Darab : jika guna = 0 markah 1m
+3 (a)
+1m
+3 m
+1m
+1m
+*Setiap bahagian yang betul mewakili 1 markah.
+3770/1 © 2025 Hak Cipta Jabatan Pendidikan Perlis [Lihat halaman sebelah
+
+SULIT |  |  |  |  | 
+ |  |  | Penggunaan jenis Penggunaan jenis data Penggunaan jenis data
+data yang sesuai. yang tidak sesuai.
+double nombor1, int 1nombor, 2nombor,
+nombor2; hasil;
+(sepatutnya double nombor1,
+nombor2 kerana pengguna
+perlu memasukkan nombor1
+dan nombor2 menggunakan
+data jenis double)
+Amalan terbaik Penggunaan komen Tidak menggunakan
+pengaturcaraan yang jelas untuk komen semasa menulis
+menerangkan fungsi kod. (Sukar mengetahui
+kod. fungsi kod atur cara)
+* Mesti buat perbandingan - 1 markah | 1m
+1m
+1m
+1m | 
+ |  | (b) | Pilihan Aturcara Y
+Atur cara ralat Atur cara bebas ralat
+double pilihan; int pilihan;
+case 3: case 3:
+hasil = nombor1 / nombor2; hasil = nombor1 * nombor2;
+Pilihan Aturcara Z
+Atur cara ralat Atur cara bebas ralat
+int 1nombor, 2 nombor int nombor1, nombor2
+else if (pilihan == 2) { else if (pilihan == 2) {
+hasil = nombor1 / nombor2; hasil = nombor1 - nombor2; | 1m
+1m
+1m
+1m | 4m
+ |  | (c) | Hasil Darab: 75
+*Hasil Darab : jika guna = 0 markah | 1m
+1m | 2m
+ | 3 | (a) | *Setiap bahagian yang betul mewakili 1 markah. | 1m
+1m
+1m | 3 m
+
+Penggunaan jenis
+data | Penggunaan jenis data
+yang sesuai.
+double nombor1,
+nombor2; | Penggunaan jenis data
+yang tidak sesuai.
+int 1nombor, 2nombor,
+hasil;
+(sepatutnya double nombor1,
+nombor2 kerana pengguna
+perlu memasukkan nombor1
+dan nombor2 menggunakan
+data jenis double)
+Amalan terbaik
+pengaturcaraan | Penggunaan komen
+yang jelas untuk
+menerangkan fungsi
+kod. | Tidak menggunakan
+komen semasa menulis
+kod. (Sukar mengetahui
+fungsi kod atur cara)
+
+Atur cara ralat | Atur cara bebas ralat
+double pilihan; | int pilihan;
+case 3:
+hasil = nombor1 / nombor2; | case 3:
+hasil = nombor1 * nombor2;
+
+Atur cara ralat | Atur cara bebas ralat
+int 1nombor, 2 nombor | int nombor1, nombor2
+else if (pilihan == 2) {
+hasil = nombor1 / nombor2; | else if (pilihan == 2) {
+hasil = nombor1 - nombor2;
+
+SULIT 3770/1
+(b)
+1 m 5 m
+17 System.out.print("Masukkan tapak segitiga: ");
+18 double tapak = input.nextDouble(); 1 m
+ATAU
+int tapak = input.nextInt(); 1 m
+21 System.out.print("Masukkan tinggi segitiga: "); 1 m
+22 double tinggi = input.nextDouble(); 1 m
+ATAU
+int tinggi = input.nextInt();
+25 double luas = 0.5 * tapak * tinggi;
+(c) Scanner digunakan untuk membaca input dari pengguna melalui 1 m 2 m
+penggunaan papan kekunci.
+Dalam program luas segitiga, ia digunakan untuk membaca nilai tapak dan 1m
+tinggi sebelum diproses untuk pengiraan.
+3770/1 © 2025 Hak Cipta Jabatan Pendidikan Perlis [Lihat halaman sebelah
+
+SULIT |  |  |  |  | 
+ |  | (b) | 17 System.out.print("Masukkan tapak segitiga: ");
+18 double tapak = input.nextDouble();
+ATAU
+int tapak = input.nextInt();
+21 System.out.print("Masukkan tinggi segitiga: ");
+22 double tinggi = input.nextDouble();
+ATAU
+int tinggi = input.nextInt();
+25 double luas = 0.5 * tapak * tinggi; | 1 m
+1 m
+1 m
+1 m
+1 m | 5 m
+ |  | (c) | Scanner digunakan untuk membaca input dari pengguna melalui
+penggunaan papan kekunci.
+Dalam program luas segitiga, ia digunakan untuk membaca nilai tapak dan
+tinggi sebelum diproses untuk pengiraan. | 1 m
+1m | 2 m
+
+17 | System.out.print("Masukkan tapak segitiga: ");
+18 | double tapak = input.nextDouble();
+ATAU
+int tapak = input.nextInt();
+21 | System.out.print("Masukkan tinggi segitiga: ");
+22 | double tinggi = input.nextDouble();
+ATAU
+int tinggi = input.nextInt();
+25 | double luas = 0.5 * tapak * tinggi;
+
+Dalam program luas segitiga, ia digunakan untuk membaca nilai tapak dan
+tinggi sebelum diproses untuk pengiraan.
+
+SULIT 3770/1
+4.
+15m
+Amalan terbaik pengaturcaraan - Komen/ Inden/ Pembolehubah Bermakna (1 markah)
+3770/1 © 2025 Hak Cipta Jabatan Pendidikan Perlis [Lihat halaman sebelah
+
+SULIT |  |  | 
+ | 4. | Amalan terbaik pengaturcaraan - Komen/ Inden/ Pembolehubah Bermakna (1 markah) | 15m
+
+SULIT 3770/1
+Coding 2
+1
+1
+1
+1
+1+1
+1
+1
+1
+1
+1
+1
+1
+1
+Amalan terbaik pengaturcaraan - Komen/ Inden/ Pembolehubah Bermakna (1 markah)
+1
+TAMAT
+3770/1 © 2025 Hak Cipta Jabatan Pendidikan Perlis [Lihat halaman sebelah
+
+SULIT |  |  | 
+ |  | Coding 2
+Amalan terbaik pengaturcaraan - Komen/ Inden/ Pembolehubah Bermakna (1 markah) | 1
+1
+1
+1
+1+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+

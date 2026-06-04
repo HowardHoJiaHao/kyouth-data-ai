@@ -1,0 +1,566 @@
+SULIT 3770/1
+KEMENTERIAN PENDIDIKAN MALAYSIA
+JABATAN PENDIDIKAN NEGERI SABAH
+PEPERIKSAAN PERCUBAAN SPM 2024
+SAINS KOMPUTER 3770/1
+Kertas 1
+September
+2 ½ jam Dua jam tiga puluh minit
+PERATURAN PEMARKAHAN
+UNTUK KEGUNAAN GURU SAHAJA
+Peraturan Pemarkahan ini mengandungi 11 halaman bercetak.
+[Lihat halaman sebelah
+3770/01 ©Hak Cipta Jabatan Pendidikan Negeri Sabah SULIT
+
+3770/1 1 SULIT
+BAHAGIAN A
+No.
+Contoh Jawapan Markah Jumlah
+Soalan
+(i) if-else-if 1
+1 (ii) if-else 1 3
+(iii) if 1
+<= 1
+2 + 1 3
+- = 1
+1
+2
+3
+4
+3 5
+- ditulis ke bawah 1
+- semua output ada (1,2,3,4,5), tidak boleh lebih & kurang 1 3
+- nombor ditulis dalam susunan menaik 1
+- Inden yang konsisten 1 2
+- Pemboleh ubah yang bermakna 1
+4 - Jenis data yang sesuai
+* mana-mana dua jawapan di atas
+5 (i) Prosedur 1
+2
+(ii) Fungsi 1
+X : Kelewahan data 1
+6 2
+Y : Integriti data 1
+X : hierarki 1
+7 2
+Y : hubungan 1
+8 Kunci asing 1 1
+Langkah
+2 1
+9
+4 1 4
+8 1
+6 1
+3770/1 ©Hak Cipta Jabatan Pendidikan Negeri Sabah SULIT
+
+ | No. |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  | Contoh Jawapan |  |  | Markah |  |  | Jumlah | 
+ | Soalan |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+1 |  | (i) |  | if-else-if |  |  | 1 |  |  | 3 |  | 
+ |  | (ii) |  | if-else |  |  | 1 |  |  |  |  | 
+ |  | (iii) |  | if |  |  | 1 |  |  |  |  | 
+2 |  |  |  | <=
++
+- = |  |  | 1
+1
+1 |  |  | 3 |  | 
+3 |  |  |  | 1
+2
+3
+4
+5
+- ditulis ke bawah
+- semua output ada (1,2,3,4,5), tidak boleh lebih & kurang
+- nombor ditulis dalam susunan menaik |  |  | 1
+1
+1 |  |  | 3 |  | 
+4 |  |  |  | - Inden yang konsisten
+- Pemboleh ubah yang bermakna
+- Jenis data yang sesuai
+* mana-mana dua jawapan di atas |  |  | 1
+1 |  |  | 2 |  | 
+5 |  | (i) |  | Prosedur |  |  | 1 |  |  | 2 |  | 
+ |  | (ii) |  | Fungsi |  |  | 1 |  |  |  |  | 
+6 |  |  |  | X : Kelewahan data
+Y : Integriti data |  |  | 1
+1 |  |  | 2 |  | 
+7 |  |  |  | X : hierarki
+Y : hubungan |  |  | 1
+1 |  |  | 2 |  | 
+8 |  |  |  | Kunci asing |  |  | 1 |  |  | 1 |  | 
+9 |  |  |  | Langkah
+2
+4
+8
+6 |  |  | 1
+1
+1
+1 |  |  | 4 |  | 
+
+3770/1 2 SULIT
+No.
+Contoh Jawapan Markah Jumlah
+Soalan
+- Kebolehan membuat pemerhatian (perceivability) 1
+- Maklum balas (feedback) 1
+10 4
+- Konsistensi (consistency) 1
+- Boleh dipelajari (learnability) 1
+A : Skala Likert 1
+11 2
+B : Skala Guttman 1
+A : Dua pengesahan (Double verification) 1
+12 2
+B : Kata laluan (Password) 1
+1
+13 3
+1
+1
+NamaBarang
+Cakera
+Bola Baling
+14 Bola Sepak
+Lembing
+- Medan nama barang diapaparkan 1
+- Semua data dalam medan NamaBarang dipaparkan 1 3
+- Data disusun dalam urutan menurun 1
+SELECT MAX (TekanTubi) 1
+15 FROM SEGAK 1 3
+WHERE Jantina = “Perempuan” 1
+3770/1 ©Hak Cipta Jabatan Pendidikan Negeri Sabah SULIT
+
+ | No. |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  | Contoh Jawapan |  |  | Markah |  |  | Jumlah | 
+ | Soalan |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+10 |  |  |  | - Kebolehan membuat pemerhatian (perceivability)
+- Maklum balas (feedback)
+- Konsistensi (consistency)
+- Boleh dipelajari (learnability) |  |  | 1
+1
+1
+1 |  |  | 4 |  | 
+11 |  |  |  | A : Skala Likert
+B : Skala Guttman |  |  | 1
+1 |  |  | 2 |  | 
+12 |  |  |  | A : Dua pengesahan (Double verification)
+B : Kata laluan (Password) |  |  | 1
+1 |  |  | 2 |  | 
+13 |  |  |  |  |  |  | 1 |  |  | 3 |  | 
+ |  |  |  |  |  |  | 1 |  |  |  |  | 
+ |  |  |  |  |  |  | 1 |  |  |  |  | 
+14 |  |  |  | NamaBarang
+Cakera
+Bola Baling
+Bola Sepak
+Lembing
+- Medan nama barang diapaparkan
+- Semua data dalam medan NamaBarang dipaparkan
+- Data disusun dalam urutan menurun |  |  | 1
+1
+1 |  |  | 3 |  | 
+15 |  |  |  | SELECT MAX (TekanTubi)
+FROM SEGAK
+WHERE Jantina = “Perempuan” |  |  | 1
+1
+1 |  |  | 3 |  | 
+
+NamaBarang
+Cakera
+Bola Baling
+Bola Sepak
+Lembing
+
+3770/1 3 SULIT
+No.
+Contoh Jawapan Markah Jumlah
+Soalan
+Menerima satu senarai namaBuku 1
+16 2
+Berjenis string 1
+Langkah
+2 1
+17
+4 1 3
+3 1
+- Pertanyaan tindakan 1
+18 2
+- Pertanyaan memilih 1
+A : Helaian Gaya Luar (External Style Sheet) 1
+19 2
+B : Gaya Dalam Barisan (Inline Style) 1
+Pentadbir (admin) 1
+20 2
+Pengguna (user) 1
+3770/1 ©Hak Cipta Jabatan Pendidikan Negeri Sabah SULIT
+
+ | No. |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  | Contoh Jawapan |  |  | Markah |  |  | Jumlah | 
+ | Soalan |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+16 |  |  |  | Menerima satu senarai namaBuku
+Berjenis string |  |  | 1
+1 |  |  | 2 |  | 
+17 |  |  |  | Langkah
+2
+4
+3 |  |  | 1
+1
+1 |  |  | 3 |  | 
+18 |  |  |  | - Pertanyaan tindakan
+- Pertanyaan memilih |  |  | 1
+1 |  |  | 2 |  | 
+19 |  |  |  | A : Helaian Gaya Luar (External Style Sheet)
+B : Gaya Dalam Barisan (Inline Style) |  |  | 1
+1 |  |  | 2 |  | 
+20 |  |  |  | Pentadbir (admin)
+Pengguna (user) |  |  | 1
+1 |  |  | 2 |  | 
+
+3770/1 4 SULIT
+BAHAGIAN B
+No.
+Contoh Jawapan Markah Jumlah
+Soalan
+*mana-mana dua jawapan berikut
+Pemboleh Ubah Sampel Data
+1 1
+user Azmi
+4
+pass @zmi123 1 1
+(a)
+namapenuh Mohd Azmi
+kelas 4 Amal
+1
+jantina Lelaki
+membuka fail teks yang bernama "Biodata.txt" 1
+(b)(i) 2
+dengan menggunakan mod "r" dibaca(read). 1
+Azmi, @zmi123, Mohd Azmi, 4 Amal, Lelaki 1
+(b)(ii) 2
+Suhaila, suhaila@456, Siti Suhaila, 4 Aktif, Perempuan 1
+- komen
+1
+(c) - menerangkan fungsi kod / memenuhi ruang lajur 2
+1
+pengekodan
+3770/1 ©Hak Cipta Jabatan Pendidikan Negeri Sabah SULIT
+
+No.
+Soalan |  | Contoh Jawapan | Markah | Jumlah
+1 | (a) | *mana-mana dua jawapan berikut
+Pemboleh Ubah Sampel Data
+user Azmi
+pass @zmi123
+namapenuh Mohd Azmi
+kelas 4 Amal
+jantina Lelaki | 1 1
+1 1 | 4
+ | (b)(i) | membuka fail teks yang bernama "Biodata.txt"
+dengan menggunakan mod "r" dibaca(read). | 1
+1 | 2
+ | (b)(ii) | Azmi, @zmi123, Mohd Azmi, 4 Amal, Lelaki
+Suhaila, suhaila@456, Siti Suhaila, 4 Aktif, Perempuan | 1
+1 | 2
+ | (c) | - komen
+- menerangkan fungsi kod / memenuhi ruang lajur
+pengekodan | 1
+1 | 2
+
+ |  |  |  |  | 
+ | Pemboleh Ubah |  |  | Sampel Data | 
+ |  |  |  |  | 
+user |  |  | Azmi |  | 
+pass |  |  | @zmi123 |  | 
+namapenuh |  |  | Mohd Azmi |  | 
+kelas |  |  | 4 Amal |  | 
+jantina |  |  | Lelaki |  | 
+
+3770/1 5 SULIT
+NO.
+JAWAPAN MARKAH JUMLAH
+SOALAN
+(i) Keseimbangan Visual 1
+ Elemen teks yang banyak perlu dielakkan kerana 1
+kanak-kanak tidak cenderung untuk membaca.
+(ii) Typography 1
+ Penggunaan saiz teks yang standard memudahkan 1
+pemahaman dalam proses pembacaan.
+(iii) Warna dan Grafik 1
+(a)  Penggunaan warna latar belakang dan teks yang senada 1
+8
+mampu memberikan pengalaman yang kurang
+menyenangkan dalam kalangan pengguna.
+(iv) Perbezaan Elemen dalam Web 1
+ Semakin besar perbezaan suatu elemen yang ingin 1
+ditonjolkan berbanding dengan elemen lain di
+persekitarannya, maka elemen tersebut akan kelihatan
+lebih jelas dan berbeza.
+*Atau mana-mana jawapan yang sesuai dengan situasi.
+2
+(b) (i) Keseimbangan Visual
+ Menggunakan lebih banyak grafik berbanding teks.
+(ii) Typography
+ Menggunakan saiz tulisan yang standard
+ Menggunakan jenis tulisan yang standard
+(iii) Warna dan Grafik
+ Gunakan warna dan grafik yang boleh
+menonjolkan identiti laman web
+2
+(iv) Perbezaan Elemen dalam Web
+ Penggunaan label dan pautan yang berbeza.
+ Penggunaan border, warna yang berbeza dan juga
+kesan khas.
+ Penggunaan ruang putih, teks terbalik, teks
+berhuruf condong (italic) dan saiz teks yang
+berbeza.
+*Atau mana-mana jawapan yang sesuai dengan situasi.
+3770/1 ©Hak Cipta Jabatan Pendidikan Negeri Sabah SULIT
+
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ | NO. |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  | JAWAPAN |  |  | MARKAH |  |  | JUMLAH | 
+ | SOALAN |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+2 |  | (a) |  | (i) Keseimbangan Visual
+ Elemen teks yang banyak perlu dielakkan kerana
+kanak-kanak tidak cenderung untuk membaca.
+(ii) Typography
+ Penggunaan saiz teks yang standard memudahkan
+pemahaman dalam proses pembacaan.
+(iii) Warna dan Grafik
+ Penggunaan warna latar belakang dan teks yang senada
+mampu memberikan pengalaman yang kurang
+menyenangkan dalam kalangan pengguna.
+(iv) Perbezaan Elemen dalam Web
+ Semakin besar perbezaan suatu elemen yang ingin
+ditonjolkan berbanding dengan elemen lain di
+persekitarannya, maka elemen tersebut akan kelihatan
+lebih jelas dan berbeza.
+*Atau mana-mana jawapan yang sesuai dengan situasi. |  |  | 1
+1
+1
+1
+1
+1
+1
+1 |  |  | 8 |  | 
+ |  | (b) |  | (i) Keseimbangan Visual
+ Menggunakan lebih banyak grafik berbanding teks.
+(ii) Typography
+ Menggunakan saiz tulisan yang standard
+ Menggunakan jenis tulisan yang standard
+(iii) Warna dan Grafik
+ Gunakan warna dan grafik yang boleh
+menonjolkan identiti laman web
+(iv) Perbezaan Elemen dalam Web
+ Penggunaan label dan pautan yang berbeza.
+ Penggunaan border, warna yang berbeza dan juga
+kesan khas.
+ Penggunaan ruang putih, teks terbalik, teks
+berhuruf condong (italic) dan saiz teks yang
+berbeza.
+*Atau mana-mana jawapan yang sesuai dengan situasi. |  |  |  |  |  | 2 |  | 
+
+3770/1 6 SULIT
+NO.
+JAWAPAN MARKAH JUMLAH
+SOALAN
+3 (a) Pilihan terbaik adalah cadangan B. 1
+Semua jadual dalam cadangan B mempunyai kebergantungan
+fungsi sepenuh iaitu atribut tarikh dan masa bergantung 1 + 1
+sepenuh kepada atribut kunci KodAktiviti dan NomKP
+berbanding cadangan A.
+7
+Tidak terdapat kebergantungan fungsi separa dalam Cadangan
+B berbanding cadangan A dimana tarikh dan masa hanya 1 + 1
+bergantung kepada KodAktiviti.
+Tidak terdapat kebergantungan fungsi transitif dalam cadangan 1 + 1
+B berbanding cadangan A dimana Nama bergantung kepada
+NomHP .
+3770/1 ©Hak Cipta Jabatan Pendidikan Negeri Sabah SULIT
+
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ | NO. |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  | JAWAPAN |  |  | MARKAH |  |  | JUMLAH | 
+ | SOALAN |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+3 |  | (a) |  | Pilihan terbaik adalah cadangan B.
+Semua jadual dalam cadangan B mempunyai kebergantungan
+fungsi sepenuh iaitu atribut tarikh dan masa bergantung
+sepenuh kepada atribut kunci KodAktiviti dan NomKP
+berbanding cadangan A.
+Tidak terdapat kebergantungan fungsi separa dalam Cadangan
+B berbanding cadangan A dimana tarikh dan masa hanya
+bergantung kepada KodAktiviti.
+Tidak terdapat kebergantungan fungsi transitif dalam cadangan
+B berbanding cadangan A dimana Nama bergantung kepada
+NomHP . |  |  | 1
+1 + 1
+1 + 1
+1 + 1 |  |  | 7 |  | 
+
+3770/1 7 SULIT
+(b)
+ENTITI (semua entiti ada)
+PESERTA, AKTIVITI, HADIR, TELEFON 2/1
+ATRIBUT
+semua atribut dalam entiti seperti dalam jawapan (a) ada 2/1
+HUBUNGAN
+MEMPUNYAI, HADIR (lengkap dan dihubung dengan betul) 1 8
+KEKARDINALAN (mesti betul kedua-duanya)
+M:N 1
+1:1
+KUNCI PRIMER
+Mesti lengkap (NomKP, KodAktiviti, NomHP) 2/1
+3770/1 ©Hak Cipta Jabatan Pendidikan Negeri Sabah SULIT
+
+ | (b) | ENTITI (semua entiti ada)
+PESERTA, AKTIVITI, HADIR, TELEFON
+ATRIBUT
+semua atribut dalam entiti seperti dalam jawapan (a) ada
+HUBUNGAN
+MEMPUNYAI, HADIR (lengkap dan dihubung dengan betul)
+KEKARDINALAN (mesti betul kedua-duanya)
+M:N
+1:1
+KUNCI PRIMER
+Mesti lengkap (NomKP, KodAktiviti, NomHP) | 2/1
+2/1
+1
+1
+2/1 | 8
+
+3770/1 8 SULIT
+NO.
+JAWAPAN MARKAH JUMLAH
+SOALAN
+4 (a) (i)
+Semua atribut ada 1
+Semua Kunci Primer ada 1 3
+Semua baris adalah atomik 1
+3770/1 ©Hak Cipta Jabatan Pendidikan Negeri Sabah SULIT
+
+ |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | NO. |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  | JAWAPAN |  |  | MARKAH |  |  | JUMLAH | 
+ | SOALAN |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  | 
+4 |  | (a) | (i) |  |  |  |  | 1
+1
+1 |  |  | 3 |  | 
+ |  | Semua atribut ada
+Semua Kunci Primer ada
+Semua baris adalah atomik |  |  |  |  |  |  |  |  |  |  | 
+
+3770/1 9 SULIT
+4 (a) (ii)
+DOKTOR
+IdDoc NamaDoktor Kepakaran Unit
+UD43 Johan Mata Oftamologi
+UD47 Rushdi Telinga Otorinolaringologi
+UD53 Marina Jantung Cardiology
+PESAKIT
+IdPesakit NamaPesakit NoTelPesakit Tarikh Masa
+PT117 Hafiz 0138651432 07/02/2024 10.00 am
+PT453 Azray 0128197847 09/02/2024 08.00 am
+PT213 Sazwina 0146163289 03/03/2024 09.00 am
+PT516 Faiza 0196764455 12/03/2024 10.00 am
+RAWAT
+IdDoc IdPesakit Tarikh Masa
+UD43 PT117 07/02/2024 10.00 am
+UD43 PT453 09/02/2024 08.00 am
+UD47 PT213 03/03/2024 09.00 am
+UD53 PT516 12/03/2024 10.00 am
+*Entiti
+Semua ada (DOKTOR, PESAKIT, RAWAT) 2/1
+*Atribut
+Semua atribut ada 2/1
+7
+*Kunci primer
+Jadual Doktor (idDoc) Jadual Pesakit (idPesakit) 2/1
+Semua ada
+*Kunci Asing
+Jadual RAWAT (idDoc dan idPesakit) 1
+3770/1 ©Hak Cipta Jabatan Pendidikan Negeri Sabah SULIT
+
+4 | (a) | (ii) |  |  | 
+ | DOKTOR
+IdDoc NamaDoktor Kepakaran Unit
+UD43 Johan Mata Oftamologi
+UD47 Rushdi Telinga Otorinolaringologi
+UD53 Marina Jantung Cardiology
+PESAKIT
+IdPesakit NamaPesakit NoTelPesakit Tarikh Masa
+PT117 Hafiz 0138651432 07/02/2024 10.00 am
+PT453 Azray 0128197847 09/02/2024 08.00 am
+PT213 Sazwina 0146163289 03/03/2024 09.00 am
+PT516 Faiza 0196764455 12/03/2024 10.00 am
+RAWAT
+IdDoc IdPesakit Tarikh Masa
+UD43 PT117 07/02/2024 10.00 am
+UD43 PT453 09/02/2024 08.00 am
+UD47 PT213 03/03/2024 09.00 am
+UD53 PT516 12/03/2024 10.00 am
+*Entiti
+Semua ada (DOKTOR, PESAKIT, RAWAT)
+*Atribut
+Semua atribut ada
+*Kunci primer
+Jadual Doktor (idDoc) Jadual Pesakit (idPesakit)
+Semua ada
+*Kunci Asing
+Jadual RAWAT (idDoc dan idPesakit) |  |  | 2/1
+2/1
+2/1
+1 | 7
+
+IdDoc | NamaDoktor | Kepakaran | Unit
+UD43 | Johan | Mata | Oftamologi
+UD47 | Rushdi | Telinga | Otorinolaringologi
+UD53 | Marina | Jantung | Cardiology
+
+IdPesakit | NamaPesakit | NoTelPesakit | Tarikh | Masa
+PT117 | Hafiz | 0138651432 | 07/02/2024 | 10.00 am
+PT453 | Azray | 0128197847 | 09/02/2024 | 08.00 am
+PT213 | Sazwina | 0146163289 | 03/03/2024 | 09.00 am
+PT516 | Faiza | 0196764455 | 12/03/2024 | 10.00 am
+
+IdDoc | IdPesakit | Tarikh | Masa
+UD43 | PT117 | 07/02/2024 | 10.00 am
+UD43 | PT453 | 09/02/2024 | 08.00 am
+UD47 | PT213 | 03/03/2024 | 09.00 am
+UD53 | PT516 | 12/03/2024 | 10.00 am
+
+3770/1 10 SULIT
+(b) DOKTOR (idDoc <KP>, NamaDoktor, Kepakaran, Unit)
+PESAKIT (idPesakit <KP>, NamaPesakit, NoTelPesakit)
+RAWAT (idDoc <KP><KA>, idPesakit <KP><KA>, Tarikh,
+Masa)
+Semua entiti ada (DOKTOR, PESAKIT, RAWAT) 1
+Semua atribut ada 2/1
+5
+Kunci primer (lengkap) 1
+Kunci asing (lengkap) 1
+PERATURAN PEMARKAHAN TAMAT
+3770/1 ©Hak Cipta Jabatan Pendidikan Negeri Sabah SULIT
+
+ | (b) | DOKTOR (idDoc <KP>, NamaDoktor, Kepakaran, Unit)
+PESAKIT (idPesakit <KP>, NamaPesakit, NoTelPesakit)
+RAWAT (idDoc <KP><KA>, idPesakit <KP><KA>, Tarikh,
+Masa)
+Semua entiti ada (DOKTOR, PESAKIT, RAWAT)
+Semua atribut ada
+Kunci primer (lengkap)
+Kunci asing (lengkap) | 1
+2/1
+1
+1 | 5
+

@@ -1,0 +1,509 @@
+1
+SULIT 3770/1
+Bahagian A
+[50 markah]
+1. Masa 1
+2. (a) hari 1
+(b) Rabu 1
+3. ++ 2
+<= ( tidak terima jika ≤ )
+4. X: Ralat Masa Larian 3
+Y: Ralat Logik
+Z: Ralat Sintaks
+5. i. Kunci asing 4
+ii. Rekod
+iii. Medan
+iv. Jadual
+6. i)Entiti 3
+ii)Hubungan
+iii)Atribut
+7. (a) kod_aktiviti 2
+id_murid
+(b) Kebergantungan Fungsi Separa 2
+Kebergantungan Fungsi Sepenuh
+8. (a) P – namaPeminjam 2
+Q – Kota Bharu
+(huruf kecil/besar diambilkira)
+(b) Data yang dimasukkan tidak sepadan dengan jenis data yang digunakan 1
+@ mengandungi tanda sempang
+@ menggunakan data jenis teks
+9. i.Merancang dan menganalisis 2
+*Analisis masalah juga diterima sebagai jawapan.
+ii.Mereka bentuk
+*Reka bentuk /Reka bentuk penyelesaian juga diterima sebagai jawapan.
+3770/1 [Lihat halaman sebelah
+SULIT
+
+ |  |  | 
+ |  | Bahagian A | 
+ |  | [50 markah] | 
+1. |  | Masa | 1
+2. | (a) | hari | 1
+ | (b) | Rabu | 1
+3. |  | ++
+<= ( tidak terima jika ≤ ) | 2
+4. |  | X: Ralat Masa Larian
+Y: Ralat Logik
+Z: Ralat Sintaks | 3
+5. |  | i. Kunci asing
+ii. Rekod
+iii. Medan
+iv. Jadual | 4
+6. |  | i)Entiti
+ii)Hubungan
+iii)Atribut | 3
+7. | (a) | kod_aktiviti
+id_murid | 2
+ | (b) | Kebergantungan Fungsi Separa
+Kebergantungan Fungsi Sepenuh | 2
+8. | (a) | P – namaPeminjam
+Q – Kota Bharu
+(huruf kecil/besar diambilkira) | 2
+ | (b) | Data yang dimasukkan tidak sepadan dengan jenis data yang digunakan
+@ mengandungi tanda sempang
+@ menggunakan data jenis teks | 1
+9. |  | i.Merancang dan menganalisis
+*Analisis masalah juga diterima sebagai jawapan.
+ii.Mereka bentuk
+*Reka bentuk /Reka bentuk penyelesaian juga diterima sebagai jawapan. | 2
+
+2
+SULIT 3770/1
+10. (a) P: Mendapat permintaan dalam pasaran 1
+Q: Mengurangkan kos selepas jualan 1
+(b) P - Mendapat permintaan dalam pasaran
+Penting kerana: (mana-mana sesuai) 1
+Produk yang direka dengan antara muka yang mesra pengguna akan
+⮚
+lebih mudah diterima oleh pasaran.
+Pengguna cenderung memilih aplikasi atau sistem yang mudah
+⮚
+digunakan, menarik, dan memenuhi keperluan mereka.
+Rekaan antara muka yang baik memberi kelebihan daya saing dalam
+⮚
+pasaran.
+Q- Mengurangkan kos selepas jualan
+1
+Penting kerana: (mana-mana sesuai)
+Jika antara muka direka dengan baik, pengguna kurang menghadapi
+⮚
+masalah semasa menggunakan produk.
+Ini akan mengurangkan keperluan untuk sokongan teknikal, pemulangan
+⮚
+produk, atau pengemaskinian besar-besaran selepas jualan, sekali gus
+menjimatkan kos syarikat.
+11. (i) Unit kawalan 1
+(ii) mengawal operasi ingatan, ATAU mengawal operasi pemproses ATAU 1
+mengawal operasi peranti input dan output.
+12. (i) Ada kebebasan 2
+(ii) Tidak dibenarkan
+13. (a) Penterjemah 1
+(b) untuk menukarkan arahan dalam bentuk yang difahami manusia kepada 1
+bentuk yang difahami mesin.
+14. i. A+B 1
+ii. (A.B) (A+B) 1
+3770/1 [Lihat halaman sebelah
+SULIT
+
+10. | (a) | P: Mendapat permintaan dalam pasaran
+Q: Mengurangkan kos selepas jualan | 1
+1
+ | (b) | P - Mendapat permintaan dalam pasaran
+Penting kerana: (mana-mana sesuai)
+Produk yang direka dengan antara muka yang mesra pengguna akan
+⮚
+lebih mudah diterima oleh pasaran.
+Pengguna cenderung memilih aplikasi atau sistem yang mudah
+⮚
+digunakan, menarik, dan memenuhi keperluan mereka.
+Rekaan antara muka yang baik memberi kelebihan daya saing dalam
+⮚
+pasaran.
+Q- Mengurangkan kos selepas jualan
+Penting kerana: (mana-mana sesuai)
+Jika antara muka direka dengan baik, pengguna kurang menghadapi
+⮚
+masalah semasa menggunakan produk.
+Ini akan mengurangkan keperluan untuk sokongan teknikal, pemulangan
+⮚
+produk, atau pengemaskinian besar-besaran selepas jualan, sekali gus
+menjimatkan kos syarikat. | 1
+1
+11. |  | (i) Unit kawalan
+(ii) mengawal operasi ingatan, ATAU mengawal operasi pemproses ATAU
+mengawal operasi peranti input dan output. | 1
+1
+12. |  | (i) Ada kebebasan
+(ii) Tidak dibenarkan | 2
+13. | (a) | Penterjemah | 1
+ | (b) | untuk menukarkan arahan dalam bentuk yang difahami manusia kepada
+bentuk yang difahami mesin. | 1
+14. |  | i. A+B
+ii. (A.B) (A+B) | 1
+1
+
+3
+SULIT 3770/1
+15. 1
+1
+1
+16. D, A, C, B 4
+17. INSERT INTO Jenama_Kasut (noBarang, Jenama, Harga, Kuantiti) 3
+VALUES (‘A04’, ‘Puma’, 93.00,9)
+atau
+INSERT INTO Jenama_Kasut
+VALUES (‘A04’, ‘Puma’, 93.00,9)
+**Abaikan huruf kecil dan besar
+18. Penekanan Maklumat dalam web 1
+19. r 1
+20.
+2
+<style></style> ---------------1m
+h1 { color: purple } ---------------1m
+**abaikan h1
+3770/1 [Lihat halaman sebelah
+SULIT
+
+15. |  |  |  | 1
+ |  |  |  | 1
+1
+16. |  | D, A, C, B |  | 4
+17. |  | INSERT INTO Jenama_Kasut (noBarang, Jenama, Harga, Kuantiti)
+VALUES (‘A04’, ‘Puma’, 93.00,9)
+atau
+INSERT INTO Jenama_Kasut
+VALUES (‘A04’, ‘Puma’, 93.00,9)
+**Abaikan huruf kecil dan besar |  | 3
+18. |  | Penekanan Maklumat dalam web |  | 1
+19. |  | r |  | 1
+20. |  | <style></style> ---------------1m
+h1 { color: purple } ---------------1m
+**abaikan h1 |  | 2
+ |  |  |  | 
+
+4
+SULIT 3770/1
+Bahagian B
+[50 markah]
+1 (a) Kunci: 7
+Cadangan A [1m]
+Cadangan A lebih baik kerana memerlukan pengesahan dua lapisan (1m)
+BERBANDING Cadangan B yang mudah digodam kerana pengesahan
+menggunakan satu lapisan sahaja.(1m)
+Cadangan A lebih baik kerana menggunakan kombinasi huruf, nombor
+dan simbol (1m) BERBANDING Cadangan B yang hanya
+menggunakan huruf dan nombor sahaja. (1m)
+Cadangan A lebih baik kerana kandungan email perlu melalui proses
+penyulitan terlebih dahulu sebelum dihantar. (1m) BERBANDING
+Cadangan B dimana kandungan dihantar tanpa melalui proses penyulitan.
+(1m)
+(b)  Hilang kepercayaan pelanggan terhadap syarikat (1m-kesan) hingga 3
+menyebabkan syarikat mengalami kerugiaan (1m-huraian) dan syarikat
+terpaksa berhutang untuk menampung kerugian. .(1m-huraian).
+ Tindakan undang- undang oleh pelanggan. (1m-kesan) Pelanggan boleh
+menyaman syarikat atas kecuaian (1m-huraian) menyebabkan pemilik
+syarikat boleh di denda atau penjara(1m-huraian)
+ Syarikat terpaksa digantung operasi buat sementara waktu (1m-huraian)
+menyebabkan syarikat tidak mampu membayar gaji pekerja (1m)
+kesannya ramai pekerja hilang pekerjaan (1m).
+**Kesan (1m)+ Huraian 1 (1m) + huraian berkaitan dengan Huraian 1 (1m).
+**mana-mana jawapan yang bersesuaian boleh diterima
+2 (a) CREATE TABLE produk ( 6
+idProduk VARCHAR (15) PRIMARY KEY NOT NULL,
+namaProduk VARCHAR (50) NOT NULL,
+harga DOUBLE (5, 2),
+3770/1 [Lihat halaman sebelah
+SULIT
+
+ |  | Bahagian B | 
+ |  | [50 markah] | 
+1 | (a) | Kunci:
+Cadangan A [1m]
+Cadangan A lebih baik kerana memerlukan pengesahan dua lapisan (1m)
+BERBANDING Cadangan B yang mudah digodam kerana pengesahan
+menggunakan satu lapisan sahaja.(1m)
+Cadangan A lebih baik kerana menggunakan kombinasi huruf, nombor
+dan simbol (1m) BERBANDING Cadangan B yang hanya
+menggunakan huruf dan nombor sahaja. (1m)
+Cadangan A lebih baik kerana kandungan email perlu melalui proses
+penyulitan terlebih dahulu sebelum dihantar. (1m) BERBANDING
+Cadangan B dimana kandungan dihantar tanpa melalui proses penyulitan.
+(1m) | 7
+ | (b) |  Hilang kepercayaan pelanggan terhadap syarikat (1m-kesan) hingga
+menyebabkan syarikat mengalami kerugiaan (1m-huraian) dan syarikat
+terpaksa berhutang untuk menampung kerugian. .(1m-huraian).
+ Tindakan undang- undang oleh pelanggan. (1m-kesan) Pelanggan boleh
+menyaman syarikat atas kecuaian (1m-huraian) menyebabkan pemilik
+syarikat boleh di denda atau penjara(1m-huraian)
+ Syarikat terpaksa digantung operasi buat sementara waktu (1m-huraian)
+menyebabkan syarikat tidak mampu membayar gaji pekerja (1m)
+kesannya ramai pekerja hilang pekerjaan (1m).
+**Kesan (1m)+ Huraian 1 (1m) + huraian berkaitan dengan Huraian 1 (1m).
+**mana-mana jawapan yang bersesuaian boleh diterima | 3
+2 | (a) | CREATE TABLE produk (
+idProduk VARCHAR (15) PRIMARY KEY NOT NULL,
+namaProduk VARCHAR (50) NOT NULL,
+harga DOUBLE (5, 2), | 6
+
+5
+SULIT 3770/1
+namaGambar VARCHAR (20),
+tarikhLuput DATE
+)
+CREATE – 1m
+TABLE produk – 1m
+Semua nama medan betul – 1m
+Semua jenis data betul – 1m
+Semua saiz data betul – 1m
+PRIMARY KEY – 1m
+(b) INSERT INTO produk 4
+VALUES (‘AB1222’, ‘Susu Saji’, 3.50, ‘susuSaji’, ‘2026-06-12’)
+INSERT INTO – 1m
+produk – 1m
+VALUES – 1m
+(‘AB1222’, ‘Susu Saji’, 3.50, ‘susuSaji’, ‘2026-06-12’) – 1m
+3 (a) 7
+Pilih satu cadangan : Cadangan B 1
+• Kekardinalan antara entiti ACARA dan PESERTA adalah 1
+tepat dengan syarat kejohanan berbanding Cadangan A
+iaitu
+seorang peserta boleh mendaftar lebih satu acara, dan
+satu acara boleh didaftar oleh ramai peserta. + 1
+(2m)
+• Semua entiti pada cadangan B mempunyai Kunci Primer 1
+yang sesuai berbanding cadangan A,
+yang meletakkan kunci primer yang tidak sesuai pada +1
+entiti PESERTA (2m)
+3770/1 [Lihat halaman sebelah
+SULIT
+
+ |  | namaGambar VARCHAR (20),
+tarikhLuput DATE
+)
+CREATE – 1m
+TABLE produk – 1m
+Semua nama medan betul – 1m
+Semua jenis data betul – 1m
+Semua saiz data betul – 1m
+PRIMARY KEY – 1m | 
+ | (b) | INSERT INTO produk
+VALUES (‘AB1222’, ‘Susu Saji’, 3.50, ‘susuSaji’, ‘2026-06-12’)
+INSERT INTO – 1m
+produk – 1m
+VALUES – 1m
+(‘AB1222’, ‘Susu Saji’, 3.50, ‘susuSaji’, ‘2026-06-12’) – 1m | 4
+3 | (a) | Pilih satu cadangan : Cadangan B 1
+• Kekardinalan antara entiti ACARA dan PESERTA adalah 1
+tepat dengan syarat kejohanan berbanding Cadangan A
+iaitu
+seorang peserta boleh mendaftar lebih satu acara, dan
+satu acara boleh didaftar oleh ramai peserta. + 1
+(2m)
+• Semua entiti pada cadangan B mempunyai Kunci Primer 1
+yang sesuai berbanding cadangan A,
+yang meletakkan kunci primer yang tidak sesuai pada +1
+entiti PESERTA (2m) | 7
+
+Pilih satu cadangan : Cadangan B
+• Kekardinalan antara entiti ACARA dan PESERTA adalah
+tepat dengan syarat kejohanan berbanding Cadangan A
+iaitu
+seorang peserta boleh mendaftar lebih satu acara, dan
+satu acara boleh didaftar oleh ramai peserta.
+• Semua entiti pada cadangan B mempunyai Kunci Primer
+yang sesuai berbanding cadangan A,
+yang meletakkan kunci primer yang tidak sesuai pada
+entiti PESERTA | 1
+1
++ 1
+(2m)
+1
++1
+(2m)
+
+6
+SULIT 3770/1
+• Atribut MasaAcara diletakkan pada entiti yang betul di 1
+cadangan B berbanding cadangan A
+yang meletakkannya pada entiti PESERTA. + 1
+(2m)
+(b) RUMAHSUKAN(KodRSukan<KP>, NamaRSukan) 8
+PESERTA(KodPeserta<KP>, NamaPeserta, Tingkatan,
+KodRSukan<KA>)
+ACARA(KodAcara<KP>, NamaAcara)
+DAFTAR(KodPeserta<KP><KA>, KodAcara<KP><KA>,
+MasaAcara)
+Entiti
+-lengkap (4 entiti) dengan ejaan yang betul 2
+-Tidak lengkap / ejaan salah / ada jarak 1
+Atribut
+-lengkap bagi setiap entiti 2
+-tidak lengkap/salah ejaan/ada jarak 1
+Kunci Primer
+-Kunci Primer lengkap ditandakan bagi setiap entiti 2
+-Ada entiti tiada kunci primer 1
+Kunci Asing
+-Lengkap ditandakan bagi entiti DAFTAR dan PESERTA 2
+-Tidak lengkap
+1
+Jika calon pilih cadangan A
+a)
+• Markah pilihan - 0
+• Markah justifikasi – 0
+3770/1 [Lihat halaman sebelah
+SULIT
+
+ | (b) |  | • Atribut MasaAcara diletakkan pada entiti yang betul di
+cadangan B berbanding cadangan A
+yang meletakkannya pada entiti PESERTA. | 1
++ 1
+(2m) |  | 8
+ |  |  | RUMAHSUKAN(KodRSukan<KP>, NamaRSukan)
+PESERTA(KodPeserta<KP>, NamaPeserta, Tingkatan,
+KodRSukan<KA>)
+ACARA(KodAcara<KP>, NamaAcara)
+DAFTAR(KodPeserta<KP><KA>, KodAcara<KP><KA>,
+MasaAcara)
+Entiti
+-lengkap (4 entiti) dengan ejaan yang betul
+-Tidak lengkap / ejaan salah / ada jarak
+Atribut
+-lengkap bagi setiap entiti
+-tidak lengkap/salah ejaan/ada jarak
+Kunci Primer
+-Kunci Primer lengkap ditandakan bagi setiap entiti
+-Ada entiti tiada kunci primer
+Kunci Asing
+-Lengkap ditandakan bagi entiti DAFTAR dan PESERTA
+-Tidak lengkap
+Jika calon pilih cadangan A
+a)
+• Markah pilihan - 0
+• Markah justifikasi – 0 | 2
+1
+2
+1
+2
+1
+2
+1 |  | 
+
+7
+SULIT 3770/1
+b)
+RUMAHSUKAN(KodRSukan<KP>, NamaRSukan)
+PESERTA(KodPeserta,NamaPeserta<KP>, Tingkatan,
+KodRSukan<KA>)
+ACARA(KodAcara<KP>, NamaAcara, NamaPeserta<KA>)
+Entiti
+lengkap (3 entiti) dengan ejaan yang betul 2
+Tidak lengkap / ejaan salah / ada jarak 1
+Atribut
+lengkap bagi setiap entiti 2
+tidak lengkap/salah ejaan/ada jarak 1
+Kunci Primer
+Kunci Primer lengkap ditandakan bagi setiap entiti 2
+Ada entiti tiada kunci primer 1
+Kunci Asing
+Lengkap ditandakan bagi entiti PESERTA dan ACARA 2
+Tidak lengkap 1
+3770/1 [Lihat halaman sebelah
+SULIT
+
+ |  | b)
+RUMAHSUKAN(KodRSukan<KP>, NamaRSukan)
+PESERTA(KodPeserta,NamaPeserta<KP>, Tingkatan,
+KodRSukan<KA>)
+ACARA(KodAcara<KP>, NamaAcara, NamaPeserta<KA>)
+Entiti
+lengkap (3 entiti) dengan ejaan yang betul 2
+Tidak lengkap / ejaan salah / ada jarak 1
+Atribut
+lengkap bagi setiap entiti 2
+tidak lengkap/salah ejaan/ada jarak 1
+Kunci Primer
+Kunci Primer lengkap ditandakan bagi setiap entiti 2
+Ada entiti tiada kunci primer 1
+Kunci Asing
+Lengkap ditandakan bagi entiti PESERTA dan ACARA 2
+Tidak lengkap 1 | 
+
+b)
+RUMAHSUKAN(KodRSukan<KP>, NamaRSukan)
+PESERTA(KodPeserta,NamaPeserta<KP>, Tingkatan,
+KodRSukan<KA>)
+ACARA(KodAcara<KP>, NamaAcara, NamaPeserta<KA>)
+Entiti
+lengkap (3 entiti) dengan ejaan yang betul
+Tidak lengkap / ejaan salah / ada jarak
+Atribut
+lengkap bagi setiap entiti
+tidak lengkap/salah ejaan/ada jarak
+Kunci Primer
+Kunci Primer lengkap ditandakan bagi setiap entiti
+Ada entiti tiada kunci primer
+Kunci Asing
+Lengkap ditandakan bagi entiti PESERTA dan ACARA
+Tidak lengkap | 2
+1
+2
+1
+2
+1
+2
+1
+
+8
+SULIT 3770/1
+4 //Membuat sambungan ke pangkalan data 15
+$con = mysqli_connect("localhost","root",""); 2
+//Memilih nama pangkalan data
+mysqli_select_db($con,"dbPelajar"); 2
+// Mendapatkan nilai medan borang yang dihantar melalui
+//permintaan POST dan menyimpannya dalam pemboleh ubah
+$idmurid = $_POST['idmurid'];
+$nama = $_POST['nama'];
+$kelas = $_POST['kelas'];
+• p/ubah : $idmurid, $nama, $kelas 3
+• $_POST['idmurid']; 1
+• $_POST['nama']; 1
+• $_POST['kelas']; 1
+//Mengemaskini Pangkalan Data
+$sql = "update murid set NAMA = '$nama', KELAS = '$kelas'
+where IDMURID = '$idmurid'";
+$result = mysqli_query($con,$sql);
+• update murid 1
+• set NAMA = '$nama', KELAS = '$kelas' 1
+• where IDMURID = '$idmurid'"; 1
+• $result = mysqli_query($con,$sql); 2
+3770/1 [Lihat halaman sebelah
+SULIT
+
+4 |  |  | //Membuat sambungan ke pangkalan data
+$con = mysqli_connect("localhost","root",""); | 2 |  | 15
+ |  |  | //Memilih nama pangkalan data
+mysqli_select_db($con,"dbPelajar"); | 2 |  | 
+ |  |  | // Mendapatkan nilai medan borang yang dihantar melalui
+//permintaan POST dan menyimpannya dalam pemboleh ubah
+$idmurid = $_POST['idmurid'];
+$nama = $_POST['nama'];
+$kelas = $_POST['kelas'];
+• p/ubah : $idmurid, $nama, $kelas
+• $_POST['idmurid'];
+• $_POST['nama'];
+• $_POST['kelas']; | 3
+1
+1
+1 |  | 
+ |  |  | //Mengemaskini Pangkalan Data
+$sql = "update murid set NAMA = '$nama', KELAS = '$kelas'
+where IDMURID = '$idmurid'";
+$result = mysqli_query($con,$sql);
+• update murid
+• set NAMA = '$nama', KELAS = '$kelas'
+• where IDMURID = '$idmurid'";
+• $result = mysqli_query($con,$sql); | 1
+1
+1
+2 |  | 
+

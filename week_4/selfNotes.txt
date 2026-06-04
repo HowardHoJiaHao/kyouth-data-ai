@@ -1,0 +1,23 @@
+# Initialize project with python 3.14 architecture
+uv init --python 3.14
+
+# Add backend web server, PDF parsing tools, and the local Ollama client library
+uv add fastapi uvicorn pypdf ollama pydantic
+
+# Add Streamlit so you can build your frontend in pure Python quickly
+uv add streamlit
+
+# Create folders for your raw papers, backend processing logic, and your frontend UI
+mkdir -p data_papers app
+
+Structure
+week_4/
+├── .python-version
+├── data_papers/         <-- Drop your exam PDFs here!
+├── app/
+│   ├── pipeline.py      <-- Your Local AI backend core logic
+│   └── frontend.py      <-- Your Streamlit app interface
+├── pyproject.toml
+└── README.md
+
+uv run streamlit run app/frontend.py

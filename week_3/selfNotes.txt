@@ -1,3 +1,5 @@
+
+
 Step 1: Install the Docker CLI in WSL
 Run these commands one by one to update your package list and install the Docker command-line tool:
 
@@ -14,27 +16,53 @@ Now that the docker command actually exists in your terminal, run this:
 docker ps
 
 Start the server using this command
-uv run uvicorn --app-dir src main:app --reload
+uv run uvicorn --app-dir src app:app --reload
 
-# 1. Update the package with your new code
+----------------------
+Docker
+----------------------
+
+1. Build the image
 docker build -t frontend .
+
+2. Build image for all in docker-compose.yml (after that need start service))
+docker compose build
+
+docker compose build backend
+
+docker compose build frontend
+
+3. Rebuild everything from scratch (no cache)
+docker compose build --no-cache
+
+4. After build image thn need to start it 
+docker compose up
+
+5. Run background (-d is detached)
+docker compose up -d --build
+
+6. Build image and start but not from scratch (cache)
+docker compose up --build
+
+7. Build image and start from scratch (cache) 
+docker compose up --build --no-cache
+
+8. Stop services
+docker compose down
+
+# Or stop but keep containers (can restart later)
+docker compose stop
 
 # 2. Run it
 docker run -p 8000:8000 frontend 
 docker run -p 8000:8000 --env-file ../.env frontend
 
-Build the image
-docker build -t frontend .
-
 ----------------------
 Libraries
 ----------------------
-uv add python-dotenv pypdf
+
+1. Install library
 uv add fastapi uvicorn pydantic pypdf requests python-dotenv
-
-
-docker compose up --build
-docker compose down
 
 # In a new terminal
 curl http://localhost:8001/health
@@ -47,12 +75,6 @@ docker compose down
 # Or stop but keep containers (can restart later)
 docker compose stop
 
-
-# Stop and remove everything
-docker compose down
-
-# Start fresh
-docker compose up -d
 
 # Stop, rebuild, and start
 docker compose down
@@ -100,3 +122,43 @@ docker compose up -d
 
 # Check both containers are running
 docker ps
+
+---------------------------------
+OLLAMA
+---------------------------------
+
+1. List all the model in ollama 
+ollama list
+
+2. Ollama version 
+ollama --version
+
+3. Pull model into Ollama
+ollama pull deepseek-r1:1.5b
+
+ollama pull phi3:latest
+
+ollama pull gemma2:2b
+
+4. Run Model
+# Run DeepSeek (best for resume analysis)
+ollama run deepseek-r1:1.5b
+
+ollama run phi3:latest
+
+ollama run gemma2:2b
+
+5. Remove a model 
+ollama rm <model>
+
+6. Run the ollama server so other program can use using port:11434
+ollama serve
+
+7. See the port is working
+ps aux | grep ollama
+
+8. Kill the ollama server 
+sudo kill ollama
+
+9. Query to the endpoint 
+curl http://localhost:11434/api/tags

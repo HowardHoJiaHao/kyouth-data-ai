@@ -1,0 +1,392 @@
+SULIT 3770/1
+1
+Bahagian A
+1.
+1
+1
+1
+2. Pemboleh ubah setempat 1
+3. i) X - boolean 1
+ii) Y - double 1
+iii) Z - String 1
+4. a) i) Mengisytiharkan pemboleh ubah pembilang dengan nilai mula 1
+1
+ii) Ungkapan yang menjadi syarat untuk menghentikan gelung
+iii) Ungkapan untuk mengemaskinikan nilai pemboleh ubah
+1
+pembilang pada setiap gelungan
+b) Menjana nombor secara rambang 1
+[Lihat halaman sebelah
+3770/1 © 2024 SULIT
+
+1. |  | 1
+1
+1
+2. | Pemboleh ubah setempat | 1
+3. | i) X - boolean
+ii) Y - double
+iii) Z - String | 1
+1
+1
+4. | a) i) Mengisytiharkan pemboleh ubah pembilang dengan nilai mula
+ii) Ungkapan yang menjadi syarat untuk menghentikan gelung
+iii) Ungkapan untuk mengemaskinikan nilai pemboleh ubah
+pembilang pada setiap gelungan
+b) Menjana nombor secara rambang | 1
+1
+1
+1
+
+SULIT 3770/1
+2
+5. (i) Ralat Logik 1
+(ii) Ralat Masa Larian 1
+(iii) Ralat Sintaks 1
+6. i) Panggilan paparSewa – baris 2 1
+ii) Subatur cara dipanggil – baris 4 1
+iii) Subatur cara pemanggil – baris 1 1
+7. i) X - FUNGSI 1
+ii) Y - PROSEDUR 1
+8.
+4
+1
+2
+1
+3
+1
+9. (i) Kunci Asing 1
+(ii) Kunci Primer 1
+10.
+(i) Kebergantungan Fungsi Transitif 1
+(ii) Kebergantungan Fungsi Sepenuh 1
+(iii) Kebergantungan Fungsi Separa 1
+11. i) Konsistensi 1
+ii) - Supaya pengguna berasa selesa semasa menggunakan 1
+aplikasi/
+- Konsistensi membolehkan pengguna untuk memahami
+sistem dengan lebih cepat dan menggunakan aplikasi atau
+laman web dengan lebih lancar/
+- Dengan konsistensi, pengguna dapat menggunakan aplikasi
+dengan lebih cepat kerana mereka tahu apa yang dijangka
+daripada setiap elemen antara muka pengguna
+12.
+Proses 1 Proses 2 Proses 3 Proses 4 1
+1
+C B D A
+13. a) Proses penyulitan /encryption(1M) 1
+1
+b) 3 (1M)
+1
+c) INOVASI (1M)
+[Lihat halaman sebelah
+3770/1 © 2024 SULIT
+
+5. | (i) Ralat Logik
+(ii) Ralat Masa Larian
+(iii) Ralat Sintaks | 1
+1
+1
+6. | i) Panggilan paparSewa – baris 2
+ii) Subatur cara dipanggil – baris 4
+iii) Subatur cara pemanggil – baris 1 | 1
+1
+1
+7. | i) X - FUNGSI
+ii) Y - PROSEDUR | 1
+1
+8. | 4
+2
+3 | 1
+1
+1
+9. | (i) Kunci Asing
+(ii) Kunci Primer | 1
+1
+10. | (i) Kebergantungan Fungsi Transitif
+(ii) Kebergantungan Fungsi Sepenuh
+(iii) Kebergantungan Fungsi Separa | 1
+1
+1
+11. | i) Konsistensi
+ii) - Supaya pengguna berasa selesa semasa menggunakan
+aplikasi/
+- Konsistensi membolehkan pengguna untuk memahami
+sistem dengan lebih cepat dan menggunakan aplikasi atau
+laman web dengan lebih lancar/
+- Dengan konsistensi, pengguna dapat menggunakan aplikasi
+dengan lebih cepat kerana mereka tahu apa yang dijangka
+daripada setiap elemen antara muka pengguna | 1
+1
+12. | Proses 1 Proses 2 Proses 3 Proses 4
+C B D A | 1
+1
+13. | a) Proses penyulitan /encryption(1M)
+b) 3 (1M)
+c) INOVASI (1M) | 1
+1
+1
+
+4
+2
+3
+
+Proses 1 | Proses 2 | Proses 3 | Proses 4
+C | B | D | A
+
+SULIT 3770/1
+3
+14. i) F: DAFTAR 1
+ii) G: UNIT ARIMETIK DAN LOGIK (ALU) 1
+15.
+1
+1
+1
+16.
+a) Z= (A.B)+(A.B) 1
+b)
+1
+1
+1
+17. 1
+1
+18. a) if ( kodBuku [ j + 1 ] < kodBuku [ j ] ) 1
+b)100 101 102 105 110 1
+@
+100, 101, 102, 105, 110
+19. i) A : fwrite 1
+ii) B : fclose 1
+1
+iii) C : fopen
+20. i) Menukar warna latarbelakang dengan warna kelabu ( GREY ) 1
+ii) Menukar warna tulisan dengan warna putih ( WHITE ) 1
+iii) Mempunyai jenis garisan/border solid bersaiz 1px 1
+[Lihat halaman sebelah
+3770/1 © 2024 SULIT
+
+14. | i) F: DAFTAR
+ii) G: UNIT ARIMETIK DAN LOGIK (ALU) | 1
+1
+15. |  | 1
+1
+1
+16. | a) Z= (A.B)+(A.B)
+b) | 1
+1
+1
+1
+17. |  | 1
+1
+18. | a) if ( kodBuku [ j + 1 ] < kodBuku [ j ] )
+b)100 101 102 105 110
+@
+100, 101, 102, 105, 110 | 1
+1
+19. | i) A : fwrite
+ii) B : fclose
+iii) C : fopen | 1
+1
+1
+20. | i) Menukar warna latarbelakang dengan warna kelabu ( GREY )
+ii) Menukar warna tulisan dengan warna putih ( WHITE )
+iii) Mempunyai jenis garisan/border solid bersaiz 1px | 1
+1
+1
+
+SULIT 3770/1
+4
+Bahagian B
+Soalan Jawapan Markah
+1 a) CREATE TABLE ACARA ( 1
+KodAcara int(3) PRIMARY KEY , 1 + 1
+NamaAcara VARCHAR(25) 1
+)
+@
+CREATE TABLE ACARA ( 1
+KodAcara int(3), 1
+NamaAcara VARCHAR(25), 1
+PRIMARY KEY (KodAcara) 1
+)
+b) DELETE FROM ATLET 1
+WHERE NomborAtlet =’A1001’ 1
+@
+DELETE FROM ATLET 1
+WHERE NamaAtlet =’Naresh’ 1
+c) SELECT KodAcara, COUNT(*) 1 + 1
+FROM ATLET 1
+GROUP BY KodAcara 1
+2 a)
+1
+1
+1
+1
+1
+[Lihat halaman sebelah
+3770/1 © 2024 SULIT
+
+ | Soalan | Jawapan | Markah
+1
+1 + 1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1 + 1
+1
+1
+ | 1 a) | CREATE TABLE ACARA (
+KodAcara int(3) PRIMARY KEY ,
+NamaAcara VARCHAR(25)
+)
+@
+CREATE TABLE ACARA (
+KodAcara int(3),
+NamaAcara VARCHAR(25),
+PRIMARY KEY (KodAcara)
+) | 
+ | b) | DELETE FROM ATLET
+WHERE NomborAtlet =’A1001’
+@
+DELETE FROM ATLET
+WHERE NamaAtlet =’Naresh’ | 
+ | c) | SELECT KodAcara, COUNT(*)
+FROM ATLET
+GROUP BY KodAcara | 
+ |  |  | 
+2 | a) |  | 1
+1
+1
+1
+1
+
+CREATE TABLE ACARA ( |  | 
+KodAcara int(3) |  | PRIMARY KEY ,
+NamaAcara VARCHAR(25) |  | 
+) |  | 
+
+CREATE TABLE ACARA (
+KodAcara int(3),
+NamaAcara VARCHAR(25),
+PRIMARY KEY (KodAcara)
+)
+
+SULIT 3770/1
+5
+b)
+1
+1
+1
+1
+1
+3. (a). Algoritma yang terbaik ialah Cadangan 1. 1
+Justifikasi
+1. Baris no3 pada Cadangan 1 ialah selagi count < 3 berbanding Cadangan 2
+selagi count <=3. 1
+Cadangan 1 melakukan ulangan sebanyak 3 kali berbanding dengan + 1
+Cadangan 2 dimana bilangan ulangan adalah sebanyak 4 kali.
+2. Baris no3.2 pada Cadangan 1 ialah jika no1> no2 berbanding Cadangan 2
+1
+jika no1 < no2.
+Cadangan 1 adalah yang terbaik kerana syarat jika no1 > no2 adalah yang
+terbaik untuk menentukan no1 adalah nombor maksima dan selari dengan
++ 1
+output yang dipaparkan berbanding dengan Cadangan 2 syarat jika no1 < no2
+adalah tidak selari dengan output yang dipaparkan.
+3. Baris no 3.3 pada Cadangan 1 ialah i =i + 1 berbanding dalam Cadangan 2 1
+ialah i + 1.
+Cadangan 1 adalah yang terbaik kerana mesti ada penambahan nilai (
+increment value ) pada pemboleh ubah i untuk membolehkan ulangan boleh + 1
+dilakukan berbanding dalam Cadangan 2 penambahan nilai i tidak berlaku.
+[Lihat halaman sebelah
+3770/1 © 2024 SULIT
+
+ | b) | 1
+1
+1
+1
+1
+3. | (a). Algoritma yang terbaik ialah Cadangan 1.
+Justifikasi
+1. Baris no3 pada Cadangan 1 ialah selagi count < 3 berbanding Cadangan 2
+selagi count <=3.
+Cadangan 1 melakukan ulangan sebanyak 3 kali berbanding dengan
+Cadangan 2 dimana bilangan ulangan adalah sebanyak 4 kali.
+2. Baris no3.2 pada Cadangan 1 ialah jika no1> no2 berbanding Cadangan 2
+jika no1 < no2.
+Cadangan 1 adalah yang terbaik kerana syarat jika no1 > no2 adalah yang
+terbaik untuk menentukan no1 adalah nombor maksima dan selari dengan
+output yang dipaparkan berbanding dengan Cadangan 2 syarat jika no1 < no2
+adalah tidak selari dengan output yang dipaparkan.
+3. Baris no 3.3 pada Cadangan 1 ialah i =i + 1 berbanding dalam Cadangan 2
+ialah i + 1.
+Cadangan 1 adalah yang terbaik kerana mesti ada penambahan nilai (
+increment value ) pada pemboleh ubah i untuk membolehkan ulangan boleh
+dilakukan berbanding dalam Cadangan 2 penambahan nilai i tidak berlaku. | 1
+1
++ 1
+1
++ 1
+1
++ 1
+
+SULIT 3770/1
+6
+Pembahagian markah:
+Umpukan pembilang (i) - 1
+Syarat ulangan ( T/F) - 1
+Input - 1
+Syarat pilihan ( T/F ) - 1
+Output - 2
+Penambahan pembilang - 1
+Aliran/Logik - 1
+4. (a) HAKIM, 1
+MARKAH, 1
+MURID 1
+[Lihat halaman sebelah
+3770/1 © 2024 SULIT
+
+ | Pembahagian markah:
+Umpukan pembilang (i) - 1
+Syarat ulangan ( T/F) - 1
+Input - 1
+Syarat pilihan ( T/F ) - 1
+Output - 2
+Penambahan pembilang - 1
+Aliran/Logik - 1 | 
+4. | (a) HAKIM,
+MARKAH,
+MURID | 1
+1
+1
+
+SULIT 3770/1
+7
+(b)
+1
+ENTITI – 3
+KUNCI – 4
+KEKARDINALAN – 2
+HUBUNGAN – 1
+(c) Ramai HAKIM memberi markah kepada banyak MURID
+2
+@
+1 hakim memberi banyak markah – 1m
+1 murid menerima banyak markah – 1m
+[Lihat halaman sebelah
+3770/1 © 2024 SULIT
+
+ | (b)
+1
+ENTITI – 3
+KUNCI – 4
+KEKARDINALAN – 2
+HUBUNGAN – 1
+(c) Ramai HAKIM memberi markah kepada banyak MURID
+@
+1 hakim memberi banyak markah – 1m
+1 murid menerima banyak markah – 1m | 2
+

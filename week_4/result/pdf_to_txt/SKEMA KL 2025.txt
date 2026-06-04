@@ -1,0 +1,281 @@
+1 SKEMA JAWAPAN SET SEBENAR
+SKEMA JAWAPAN SET SEBENAR
+BAHAGIAN A
+
+2 SKEMA JAWAPAN SET SEBENAR
+NO JAWAPAN MARKAH JUMLAH
+(i) String Kemunikasi dua hala 1
+1 2
+(ii) Boolean 1
+Menggalakkan pembelajaran kendiri
+X : Pseudokod 1
+2 2
+Y : Carta Alir 1
+(i) pembilang < 7 ? 1
+3 2
+(ii) pembilang = pembilang + 1 1
+(a) Algoritma 1
+4 (b) Teknik Pengecaman Corak 1 3
+(c) Teknik Peniskalaan 1
+a) markah 1
+5 2
+b) 6 1
+String [ ] namaSubjek = {“Sains Komputer”, “Fizik”, “Kimia”,
+“Biologi”};
+6 **Isyithar tatasusunan 1 3
+**simbol “ “ mesti ada dalam elemen
+1
+** { } , ; digunakan dengan betul
+1
+(a) Medan 1
+7 (b) Data 1 3
+(c) Murid 1
+8 Pemprosesan Semasa 1 1
+1
+9 1 3
+1
+1 : 1
+10 1 1 2
+1 1
+
+NO | JAWAPAN | MARKAH | JUMLAH
+1 | (i) String Kemunikasi dua hala
+(ii) Boolean
+Menggalakkan pembelajaran kendiri | 1
+1 | 2
+2 | X : Pseudokod
+Y : Carta Alir | 1
+1 | 2
+3 | (i) pembilang < 7 ?
+(ii) pembilang = pembilang + 1 | 1
+1 | 2
+4 | (a) Algoritma
+(b) Teknik Pengecaman Corak
+(c) Teknik Peniskalaan | 1
+1
+1 | 3
+5 | a) markah
+b) 6 | 1
+1 | 2
+6 | String [ ] namaSubjek = {“Sains Komputer”, “Fizik”, “Kimia”,
+“Biologi”};
+**Isyithar tatasusunan
+**simbol “ “ mesti ada dalam elemen
+** { } , ; digunakan dengan betul | 1
+1
+1 | 3
+7 | (a) Medan
+(b) Data
+(c) Murid | 1
+1
+1 | 3
+8 | Pemprosesan Semasa | 1 | 1
+9 |  | 1
+1
+1 | 3
+10 | 1 : 1
+1
+1 | 1
+1 | 2
+
+3 SKEMA JAWAPAN SET SEBENAR
+11 X: Reka Bentuk Penyelesaian 1
+Y: Laksana Penyelesaian 1
+Z: Uji dan Nyah Ralat 1
+12 a) X 1
+b) Y 1
+13 2
+14 X : float/ double 1
+Y : boolean 1
+15 X : fungsi 1
+Y : prosedur 1
+16 3
+17 i. 3NF 1
+ii. 1NF 1
+iii. 2NF 1
+18 4
+Entiti -1 markah
+Atribut -1 markah
+Kata kerja hubungan yang sesuai – 1 markah
+Kekardinalan – 1 markah
+
+11 |  | X: Reka Bentuk Penyelesaian
+Y: Laksana Penyelesaian
+Z: Uji dan Nyah Ralat | 1
+1
+1
+12 | a) | X | 1
+ | b) | Y | 1
+13 |  |  | 2
+14 |  | X : float/ double
+Y : boolean | 1
+1
+15 |  | X : fungsi
+Y : prosedur | 1
+1
+16 |  |  | 3
+17 |  | i. 3NF
+ii. 1NF
+iii. 2NF | 1
+1
+1
+18 |  | Entiti -1 markah
+Atribut -1 markah
+Kata kerja hubungan yang sesuai – 1 markah
+Kekardinalan – 1 markah | 4
+
+4 SKEMA JAWAPAN SET SEBENAR
+19 A B M N 2
+0 0 1 0
+0 1 1 0
+1 0 1 0
+1 1 0 1
+20 INSERT INTO PEKERJA 4
+(IDStaf, NamaStaf, IDJabatan)
+VALUES (“B1044”, “Ahmad”, 3)
+
+19 |  |  | A | B | M | N |  | 2
+ |  |  | 0 | 0 | 1 | 0 |  | 
+ |  |  | 0 | 1 | 1 | 0 |  | 
+ |  |  | 1 | 0 | 1 | 0 |  | 
+ |  |  | 1 | 1 | 0 | 1 |  | 
+20 |  | INSERT INTO PEKERJA
+(IDStaf, NamaStaf, IDJabatan)
+VALUES (“B1044”, “Ahmad”, 3) |  |  |  |  |  | 4
+
+5 SKEMA JAWAPAN SET SEBENAR
+BAHAGIAN B
+
+6 SKEMA JAWAPAN SET SEBENAR
+SOALAN 21
+Jawapan
+public class HadirKeSekolah {
+public static void main(String[ ] args) {
+for (int pembilang = 0; pembilang < 5; pembilang++) {
+System.out.println("Saya gembira hadir ke sekolah hari ini.");
+}
+}
+}
+Skema pemarkahan
+Komponen Markah
+Pernyataan kelas Java 1
+Public class……
+Kaedah utama 1
+Public static void main (String [ ] args)
+Pengisytiharan dan penetapkan nilai pembilang 2
+for
+Syarat ulangan pembilang < 5 2
+Penambahan pembilang 2
+pembilang++
+Paparan output menggunakan 2
+System.out.println
+JUMLAH 10
+JUMLAH MARKAH SOALAN 21 : 10 markah
+
+Komponen | Markah
+Pernyataan kelas Java
+Public class…… | 1
+Kaedah utama
+Public static void main (String [ ] args) | 1
+Pengisytiharan dan penetapkan nilai pembilang
+for | 2
+Syarat ulangan pembilang < 5 | 2
+Penambahan pembilang
+pembilang++ | 2
+Paparan output menggunakan
+System.out.println | 2
+JUMLAH | 10
+
+7 SKEMA JAWAPAN SET SEBENAR
+SOALAN 22
+Jawapan
+Pilihan : Skema hubungan S - 1m
+Skema hubungan R Skema hubungan S
+- Masih terdapat kebergantungan fungsi - Kebergantungan fungsi separa telah
+transitif. - 1m dihapuskan. - 1m
+- Masih belum berada dalam kebergantungan - Kebergantungan fungsi transitif juga telah
+fungsi sepenuh pada jadual BUKU. - 1m dihapuskan. - 1m
+- Tidak menunjukkan hubungan antara - Mempunyai kebergantungan fungsi
+BUKU dan PENERBIT. - 1m sepenuh pada semua jadual. - 1m
+- Setiap jadual mempunyai atribut kunci - Menunjukkan hubungan yang jelas antara
+primer. - 1m BUKU dan PENERBIT. - 1m
+- Berada di peringkat 2NF. - 1m - Berada di peringkat 3NF. - 1m
+JUMLAH MARKAH SOALAN 22 : 10 markah
+
+Skema hubungan R
+- Masih terdapat kebergantungan fungsi
+transitif. - 1m
+- Masih belum berada dalam kebergantungan
+fungsi sepenuh pada jadual BUKU. - 1m
+- Tidak menunjukkan hubungan antara
+BUKU dan PENERBIT. - 1m
+- Setiap jadual mempunyai atribut kunci
+primer. - 1m
+- Berada di peringkat 2NF. - 1m | Skema hubungan S
+- Kebergantungan fungsi separa telah
+dihapuskan. - 1m
+- Kebergantungan fungsi transitif juga telah
+dihapuskan. - 1m
+- Mempunyai kebergantungan fungsi
+sepenuh pada semua jadual. - 1m
+- Menunjukkan hubungan yang jelas antara
+BUKU dan PENERBIT. - 1m
+- Berada di peringkat 3NF. - 1m
+
+8 SKEMA JAWAPAN SET SEBENAR
+SOALAN 23
+Jawapan :
+[1m]
+M: ……………………………………………………………………………….….
+(A+B) [1m]
+N: ……………………………………………………………………………….….
+[1m]
+F: ……………………… ………………………………… …………………….….
+Jawapan :
+[1m] [1m] [1m] [1m] [1m]
+[1m] [1m] [1m] [1m] [1m] [1m]
+[1m]
+JUMLAH MARKAH SOALAN 23 : 15 markah
+
+[1m] | [1m] | [1m] | [1m] | [1m] | [1m] | [1m]
+
+9 SKEMA JAWAPAN SET SEBENAR
+SOALAN 24
+Jawapan :
+Mula – 1m
+Tamat – 1m
+Input “Masukkan username &
+kata laluan” - 2m
+Pilihan Berjaya log masuk – 2m
+Papar output / antara muka
+utama – 2m
+Pilihan ingin keluar –2m
+Tekan butang log keluar – 2m
+Papar Berjaya log keluar /
+paparan log keluar – 2m
+Aliran termasuk ya/tidak – 1m
+Nota :
+Pastikan simbol grafik dan
+pernyataan betul untuk setiap
+langkah untuk mendapatkan 2
+markah.
+JUMLAH MARKAH SOALAN 24 : 15 markah
+
+ | Mula – 1m
+Tamat – 1m
+Input “Masukkan username &
+kata laluan” - 2m
+Pilihan Berjaya log masuk – 2m
+Papar output / antara muka
+utama – 2m
+Pilihan ingin keluar –2m
+Tekan butang log keluar – 2m
+Papar Berjaya log keluar /
+paparan log keluar – 2m
+Aliran termasuk ya/tidak – 1m
+Nota :
+Pastikan simbol grafik dan
+pernyataan betul untuk setiap
+langkah untuk mendapatkan 2
+markah.
+

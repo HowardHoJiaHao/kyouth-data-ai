@@ -1,0 +1,488 @@
+SULIT 3770/1
+PROGRAM GEMPUR KECEMERLANGAN
+SIJIL PELAJARAN MALAYSIA 2024
+ANJURAN BERSAMA
+MAJLIS PENGETUA SEKOLAH MALAYSIA
+NEGERI PERLIS
+SAINS KOMPUTER 3770/1
+Kertas 1
+PERATURAN
+PEMARKAHAN
+3770/1 © 2024 Hak Cipta MPSM Negeri Perlis [Lihat halaman sebelah
+
+SULIT 3770/1
+Bahagian A
+[50 markah]
+No Jawapan Markah
+1 P : Kos 1m 2m
+Q : Sumber 1m
+2. F : Fungsi yang salah 1m 2m
+G: Output yang tidak tepat
+1m
+3. i 75 1m 3m
+ii 135 1m
+iii 175.5 1m
+1m 2m
+4. X : &&
+1m
+Y : <= atau
+Y : <
+5. a) X: penulisan komen 3m
+1m
+Y: pembolehubah yang bermakna/jenis data
+1m
+b) Menggunakan inden yang konsisten 1m
+6 i) X 1m 2m
+1m
+ii) Y
+7. 1m 2m
+X : Prosedur
+1m
+Y : Fungsi
+3770/1 © 2024 Hak Cipta MPSM Negeri Perlis [Lihat halaman sebelah
+
+No |  | Jawapan | Markah | 
+1 |  | P : Kos
+Q : Sumber | 1m
+1m | 2m
+2. |  | F : Fungsi yang salah
+G: Output yang tidak tepat | 1m
+1m | 2m
+3. | i | 75 | 1m | 3m
+ | ii | 135 | 1m | 
+ | iii | 175.5 | 1m | 
+4. |  | X : &&
+Y : <= atau
+Y : < | 1m
+1m | 2m
+5. | a)
+b) | X: penulisan komen
+Y: pembolehubah yang bermakna/jenis data
+Menggunakan inden yang konsisten | 1m
+1m
+1m | 3m
+6 |  | i) X
+ii) Y | 1m
+1m | 2m
+7. |  | X : Prosedur
+Y : Fungsi | 1m
+1m | 2m
+
+SULIT 3770/1
+8. a) X = Reka bentuk penyelesaian 1m
+2m
+b) i) Pseudokod 1m
+ii) Carta alir 1m
+9. a) Kelewahan data 1m 1m
+b) Mengelakkan pertambahan saiz pangkalan data yang tidak perlu atau 1m 1m
+Mengelakkan data yang tidak konsisten atau
+Mengelakkan data menjadi tidak efisien atau
+Mengelakkan data menjadi korup iaitu tidak boleh digunakan lagi
+10. 2m
+kunci asing 1m
+fungsi: menghasilkan hubungan di antara dua jadual
+1m
+11. A : Kebergantungan fungsi sepenuh 1m 2m
+B : Kebergantungan fungsi transitif 1m
+12. 3 1m 3m
+4 1m
+2
+1m
+13. a) Mendapat permintaan dalam pasaran. 1m
+b) Meningkatkan produktiviti.
+1m
+c) Mengurangkan kos selepas jualan.
+1m 2m
+d) Mengurangkan kos pembangunan.
+1m
+e) Mengembangkan aktiviti dan menambahkan pengalaman 1m
+manusia.
+f) Pengkomputeran sosial. 1m
+**Pilih mana-mana 2 jawapan.
+14. a) Langkah 1: A 1m 3m
+Langkah 2: C 1m
+3770/1 © 2024 Hak Cipta MPSM Negeri Perlis [Lihat halaman sebelah
+
+SULIT |  |  |  | 
+8. | a) | X = Reka bentuk penyelesaian | 1m | 2m
+ | b) | i) Pseudokod
+ii) Carta alir | 1m
+1m | 
+9. | a) | Kelewahan data | 1m | 1m
+ | b) | Mengelakkan pertambahan saiz pangkalan data yang tidak perlu atau
+Mengelakkan data yang tidak konsisten atau
+Mengelakkan data menjadi tidak efisien atau
+Mengelakkan data menjadi korup iaitu tidak boleh digunakan lagi | 1m | 1m
+10. |  | kunci asing
+fungsi: menghasilkan hubungan di antara dua jadual | 1m
+1m | 2m
+11. |  | A : Kebergantungan fungsi sepenuh
+B : Kebergantungan fungsi transitif | 1m
+1m | 2m
+12. |  | 3
+4
+2 | 1m
+1m
+1m | 3m
+13. |  | a) Mendapat permintaan dalam pasaran.
+b) Meningkatkan produktiviti.
+c) Mengurangkan kos selepas jualan.
+d) Mengurangkan kos pembangunan.
+e) Mengembangkan aktiviti dan menambahkan pengalaman
+manusia.
+f) Pengkomputeran sosial.
+**Pilih mana-mana 2 jawapan. | 1m
+1m
+1m
+1m
+1m
+1m | 2m
+14. | a) | Langkah 1: A
+Langkah 2: C | 1m
+1m | 3m
+
+SULIT 3770/1
+Langkah 4: D 1m
+15. 1m 3m
+(i) Pengaturcaraan dan pembangunan perisian/Sokongan maklumat dan
+perkhidmatan
+(ii) - Merancang, mereka bentuk, mengemaskini dan menguruskan 2m
+perisian komputer dan sistem melalui pengaturcaraan dan pembangunan
+perisian
+- Mengintegrasi pengurusan perniagaan dan
+- analisis data.
+- menilai pelaksanaan sistem komputer
+- Menyediakan sokongan pengkomputeran & teknikal
+- Menyelenggara sistem maklumat
+** mana-mana 2 peranan
+16. X : Pengkompil 1m 2m
+Y : Pentafsir 1m
+17. 1m 3m
+1m
+1m
+18. a) SELECT Max (Pesanan.JumlahItem) AS MaxOfJumlahItem 1m 3m
+FROM Pesanan WHERE (((Pesanan.TarikhPesanan) Between
+1m
+#4/1/2020# And #4/30/2020#));
+1m
+19. a) Struktur giliran (queue) 1m 3m
+b) 1m
+c) 1m
+20. (i) math.js 1m 3m
+(ii) math.add/math.subtract 1m
+3770/1 © 2024 Hak Cipta MPSM Negeri Perlis [Lihat halaman sebelah
+
+SULIT |  |  |  | 
+ |  | Langkah 4: D | 1m | 
+15. |  | (i) Pengaturcaraan dan pembangunan perisian/Sokongan maklumat dan
+perkhidmatan
+(ii) - Merancang, mereka bentuk, mengemaskini dan menguruskan
+perisian komputer dan sistem melalui pengaturcaraan dan pembangunan
+perisian
+- Mengintegrasi pengurusan perniagaan dan
+- analisis data.
+- menilai pelaksanaan sistem komputer
+- Menyediakan sokongan pengkomputeran & teknikal
+- Menyelenggara sistem maklumat
+** mana-mana 2 peranan | 1m
+2m | 3m
+16. |  | X : Pengkompil
+Y : Pentafsir | 1m
+1m | 2m
+17. |  |  | 1m
+1m
+1m | 3m
+18. |  | a) SELECT Max (Pesanan.JumlahItem) AS MaxOfJumlahItem
+FROM Pesanan WHERE (((Pesanan.TarikhPesanan) Between
+#4/1/2020# And #4/30/2020#)); | 1m
+1m
+1m | 3m
+19. | a)
+b)
+c) | Struktur giliran (queue) | 1m
+1m
+1m | 3m
+20. |  | (i) math.js
+(ii) math.add/math.subtract | 1m
+1m | 3m
+
+SULIT 3770/1
+(iii) math.pow/math.sqrt/math.cube/math.sort/math.divide 1m
+Bahagian B
+[50 markah]
+No Jawapan Markah
+1. (a)
+1+1
+10m
+1+1
+1+1
+1
+1
+1
+1
+(b) 1
+1
+3770/1 © 2024 Hak Cipta MPSM Negeri Perlis [Lihat halaman sebelah
+
+SULIT |  |  |  | 
+ |  | (iii) math.pow/math.sqrt/math.cube/math.sort/math.divide | 1m | 
+
+No | Jawapan |  | Markah | 
+1. | (a)
+(b) |  | 1+1
+1+1
+1+1
+1
+1
+1
+1
+1
+1 | 10m
+
+SULIT 3770/1
+1
+5m
+1
+1
+2. (a) i. INSERT INTO Ahli (nama, nokp,id_ kelas, tahap, katalaluan) 1m 2 m
+VALUES (‘ali’, ‘070305095061’, ‘1’, ‘AHLI’, 123; 1m
+@
+INSERT INTO Ahli
+VALUES (‘ali’, ‘070305095061’, ‘1’, ‘AHLI’, 123);
+**mana-mana value yang bersesuaian
+1 m
+ii. DELETE FROM Ahli 1 m 2 m
+WHERE tahap = ‘ADMIN’;
+(b) i. SELECT tahap 1 m 3 m
+FROM ahli 1 m
+GROUP BY tahap; 1 m
+ii.
+1 m
+3m
+1 m
+1 m
+1m - semua medan ada (nama dan nokp)
+1m - semua data betul (ada 5 rekod)
+1m - senarai nama disusun mengikut turutan menurun
+3770/1 © 2024 Hak Cipta MPSM Negeri Perlis [Lihat halaman sebelah
+
+SULIT |  |  |  |  | 
+ |  |  |  | 1
+1
+1 | 5m
+ | 2. | (a) | i. INSERT INTO Ahli (nama, nokp,id_ kelas, tahap, katalaluan)
+VALUES (‘ali’, ‘070305095061’, ‘1’, ‘AHLI’, 123;
+@
+INSERT INTO Ahli
+VALUES (‘ali’, ‘070305095061’, ‘1’, ‘AHLI’, 123);
+**mana-mana value yang bersesuaian
+ii. DELETE FROM Ahli
+WHERE tahap = ‘ADMIN’; | 1m
+1m
+1 m
+1 m | 2 m
+2 m
+ |  | (b) | i. SELECT tahap
+FROM ahli
+GROUP BY tahap;
+ii.
+1m - semua medan ada (nama dan nokp)
+1m - semua data betul (ada 5 rekod)
+1m - senarai nama disusun mengikut turutan menurun | 1 m
+1 m
+1 m
+1 m
+1 m
+1 m | 3 m
+3m
+
+SULIT 3770/1
+3. (a) i) 1. Mengubah medan 1 m 3 m
+2. Menambah medan 1m
+3. Menghapuskan medan 1 m
+(b) Membuat data sandaran (backup) menggunakan phpMyAdmin. 1 m 5 m
+Langkah-langkah :
+1.Login terlebih dahulu dengan halaman phpMyAdmin. 1 m
+2.Klik pangkalan data yang ingin dibuat sandaran iaitu pangkalan data 1 m
+“sekolah”.
+1 m
+3. Klik menu Export.
+1m
+4.Taipkan nama fail sandaran yang ingin dicipta pada ruangan
+NewTemplate. Contoh ‘dbsekolahBackup’. Kemudian klik Go.
+(c) Perbezaan diantara kedua-dua rajah ialah Rajah 11(b) menunjukkan 1 m 2 m
+sandaran (backup) pangkalan data bertujuan menjamin keselamatan data
+tetap dipelihara sekiranya berlaku kerosakan atau kehilangan data.
+Manakala Rajah 11(b) pula memulihkan (restore) pangkalan data bertujuan
+untuk mengembalikan pangkalan data kepada keadaan asal semula semasa 1 m
+membuat fail sandaran yang terkini.
+4. (a) Laman terbaik ialah Laman Web B 1 m 10m
+Navigasi
+1 m
+- Laman Web A hanya menggunakan teknik bar navigasi dan pautan
+menggunakan grafik sahaja manakala Laman Web B menggunakan
+1m +
+pelbagai teknik navigasi iaitu bar navigasi, pautan menggunakan 1m
+grafik, menu dropdown dan breadcrumbs untuk memudahkan
+pengguna menjejak lokasi atau kedudukan semasa dalam laman web.
+3770/1 © 2024 Hak Cipta MPSM Negeri Perlis [Lihat halaman sebelah
+
+SULIT |  |  |  |  | 
+ | 3. | (a) | i) 1. Mengubah medan
+2. Menambah medan
+3. Menghapuskan medan | 1 m
+1m
+1 m | 3 m
+ |  | (b) | Membuat data sandaran (backup) menggunakan phpMyAdmin.
+Langkah-langkah :
+1.Login terlebih dahulu dengan halaman phpMyAdmin.
+2.Klik pangkalan data yang ingin dibuat sandaran iaitu pangkalan data
+“sekolah”.
+3. Klik menu Export.
+4.Taipkan nama fail sandaran yang ingin dicipta pada ruangan
+NewTemplate. Contoh ‘dbsekolahBackup’. Kemudian klik Go. | 1 m
+1 m
+1 m
+1 m
+1m | 5 m
+ |  | (c) | Perbezaan diantara kedua-dua rajah ialah Rajah 11(b) menunjukkan
+sandaran (backup) pangkalan data bertujuan menjamin keselamatan data
+tetap dipelihara sekiranya berlaku kerosakan atau kehilangan data.
+Manakala Rajah 11(b) pula memulihkan (restore) pangkalan data bertujuan
+untuk mengembalikan pangkalan data kepada keadaan asal semula semasa
+membuat fail sandaran yang terkini. | 1 m
+1 m | 2 m
+ | 4. | (a) | Laman terbaik ialah Laman Web B
+Navigasi
+- Laman Web A hanya menggunakan teknik bar navigasi dan pautan
+menggunakan grafik sahaja manakala Laman Web B menggunakan
+pelbagai teknik navigasi iaitu bar navigasi, pautan menggunakan
+grafik, menu dropdown dan breadcrumbs untuk memudahkan
+pengguna menjejak lokasi atau kedudukan semasa dalam laman web. | 1 m
+1 m
+1m +
+1m | 10m
+
+SULIT 3770/1
+Penekanan Maklumat dalam web 1m
+- Laman Web A tidak mempunyai maklumat atau kandungan
+penting yang harus diberi penekanan dalam menjalankan perniagaan 1m +
+1m
+atas talian manakala Laman Web B memaparkan maklumat
+berkenaan produk dari segi harga, review dan penerangan bagi setiap
+produk.
+- Laman Web A tidak menggunakan fungsi bold dan warna untuk
+memaparkan produk supaya kelihatan menonjol manakala Laman
+1m +
+web B menggunakan fungsi bold dan border yang jelas bagi menarik 1m
+perhatian pengguna laman web.
+- Laman Web A dan Laman Web B menggunakan ruang putih untuk 1m +
+1m
+menjadikan elemen yang diletakkan lebih terserlah dan menonjol.
+Typography 1m
+- Laman Web A menggunakan jenis fon yang kurang biasa
+1m +
+digunakan yang boleh menyebabkan sesetengah sistem 1m
+pengoperasian tidak menyokong jenis fon tersebut manakala Laman
+Web B menggunakan fon dan saiz teks yang dikategorikan sebagai
+senarai selamat.
+Perbezaan elemen dalam web
+1m
+- Laman web A kurang menggunakan konsep perbezaan untuk
+menghasilkan tarikan visual kerana hanya mempunyai label produk
+1m
+dan pautan yang sama sahaja manakala Laman Web B banyak + 1m
+menggunakan konsep kaedah perbezaan iaitu penggunaan label dan
+pautan yang berbeza, penggunaan ruang putih dan saiz teks yang
+berbeza, penggunaan butang login dan butang carian yang berbeza
+daripada pautan menu.
+3770/1 © 2024 Hak Cipta MPSM Negeri Perlis [Lihat halaman sebelah
+
+SULIT |  |  |  |  | 
+ |  |  | Penekanan Maklumat dalam web
+- Laman Web A tidak mempunyai maklumat atau kandungan
+penting yang harus diberi penekanan dalam menjalankan perniagaan
+atas talian manakala Laman Web B memaparkan maklumat
+berkenaan produk dari segi harga, review dan penerangan bagi setiap
+produk.
+- Laman Web A tidak menggunakan fungsi bold dan warna untuk
+memaparkan produk supaya kelihatan menonjol manakala Laman
+web B menggunakan fungsi bold dan border yang jelas bagi menarik
+perhatian pengguna laman web.
+- Laman Web A dan Laman Web B menggunakan ruang putih untuk
+menjadikan elemen yang diletakkan lebih terserlah dan menonjol.
+Typography
+- Laman Web A menggunakan jenis fon yang kurang biasa
+digunakan yang boleh menyebabkan sesetengah sistem
+pengoperasian tidak menyokong jenis fon tersebut manakala Laman
+Web B menggunakan fon dan saiz teks yang dikategorikan sebagai
+senarai selamat.
+Perbezaan elemen dalam web
+- Laman web A kurang menggunakan konsep perbezaan untuk
+menghasilkan tarikan visual kerana hanya mempunyai label produk
+dan pautan yang sama sahaja manakala Laman Web B banyak
+menggunakan konsep kaedah perbezaan iaitu penggunaan label dan
+pautan yang berbeza, penggunaan ruang putih dan saiz teks yang
+berbeza, penggunaan butang login dan butang carian yang berbeza
+daripada pautan menu. | 1m
+1m +
+1m
+1m +
+1m
+1m +
+1m
+1m
+1m +
+1m
+1m
+1m
++ 1m | 
+
+SULIT 3770/1
+Teknik pemarkahan
+*Menyatakan prinsip reka bentuk laman web - 1 markah
+*Membuat perbandingan berdasarkan prinsip yang dinyatakan -
+1+1
+*Pilih 3 prinsip sahaja
+1m
+Terima jawapan
+Keseimbangan visual 1m +
+1m
+- Laman Web A dan Laman Web B mempunyai gabungan elemen
+visual seperti garisan, imej, bentuk dan teks yang mampu menarik
+minat pengguna untuk terus melayari laman web tersebut.
+(b) 5 elemen dalam laman web interaktif :
+Objek borang ( form ) dalam laman web. 1m
+Sambungan kepada komputer pelayan ( web server ). 1m
+Carian maklumat berdasarkan permintaan daripada pengguna. 1m
+Paparan maklumat yang diperoleh atas permintaan daripada pengguna. 1m
+Kemudahan mengemaskini data yang diperoleh dan simpan semula ke dalam 1m
+pangkalan data.
+TAMAT
+3770/1 © 2024 Hak Cipta MPSM Negeri Perlis [Lihat halaman sebelah
+
+SULIT |  |  |  |  | 
+ |  |  | Teknik pemarkahan
+*Menyatakan prinsip reka bentuk laman web - 1 markah
+*Membuat perbandingan berdasarkan prinsip yang dinyatakan -
+1+1
+*Pilih 3 prinsip sahaja
+Terima jawapan
+Keseimbangan visual
+- Laman Web A dan Laman Web B mempunyai gabungan elemen
+visual seperti garisan, imej, bentuk dan teks yang mampu menarik
+minat pengguna untuk terus melayari laman web tersebut. | 1m
+1m +
+1m | 
+ |  | (b) | 5 elemen dalam laman web interaktif :
+Objek borang ( form ) dalam laman web.
+Sambungan kepada komputer pelayan ( web server ).
+Carian maklumat berdasarkan permintaan daripada pengguna.
+Paparan maklumat yang diperoleh atas permintaan daripada pengguna.
+Kemudahan mengemaskini data yang diperoleh dan simpan semula ke dalam
+pangkalan data. | 1m
+1m
+1m
+1m
+1m | 
+

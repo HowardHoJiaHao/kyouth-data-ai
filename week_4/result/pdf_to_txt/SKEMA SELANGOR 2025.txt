@@ -1,0 +1,496 @@
+SULIT 1 3770/1
+MAJLIS PENGETUA SEKOLAH MALAYSIA
+NEGERI SELANGOR
+PENILAIAN INTERVENSI TERBILANG AKADEMIK SELANGOR (PINTAS) 2025
+SAINS KOMPUTER TINGKATAN 5
+Kertas 1 3770/1(PP)
+Peraturan Pemarkahan
+UNTUK KEGUNAAN PEMERIKSA SAHAJA
+3770/1 © 2025 Hak Cipta MPSM Selangor [Lihat halaman sebelah
+SULIT
+
+ |  | 
+ |  | 
+ | 1 | 
+
+SULIT 2 3770/1
+BAHAGIAN A
+No Jawapan Markah Jumlah
+Markah
+1. C 1
+G 1
+4m
+A 1
+H 1
+2. String 1
+double / float 1 3m
+boolean 1
+3.
+nombor
+<= 10 1
+2m
+PAPAR nombor 1
+4. = 1
+<= 1 3m
+++ 1
+5. a) Ralat masa larian 1
+b) Pengiraan data bukan berangka / pengisytiharan nilai tinggi bukan 1 3m
+nombor / pengiraan dengan abjad (bukan nombor)
+6. X : Fungsi / Function 1 1m
+7. W : Analisis keperluan 1
+X : Laksana Penyelesaian 1
+4m
+Y : Uji dan Nyah Ralat 1
+Z : Dokumentasi 1
+3770/1 © 2025 Hak Cipta MPSM Selangor [Lihat halaman sebelah
+SULIT
+
+No | Jawapan | Markah | Jumlah
+Markah
+1. | C
+G
+A
+H | 1
+1
+1
+1 | 4m
+2. | String
+double / float
+boolean | 1
+1
+1 | 3m
+3. | nombor
+<= 10
+PAPAR nombor | 1
+1 | 2m
+4. | =
+<=
+++ | 1
+1
+1 | 3m
+5. | a) Ralat masa larian
+b) Pengiraan data bukan berangka / pengisytiharan nilai tinggi bukan
+nombor / pengiraan dengan abjad (bukan nombor) | 1
+1 | 3m
+6. | X : Fungsi / Function | 1 | 1m
+7. | W : Analisis keperluan
+X : Laksana Penyelesaian
+Y : Uji dan Nyah Ralat
+Z : Dokumentasi | 1
+1
+1
+1 | 4m
+ |  |  | 
+
+Jumlah
+Markah
+
+SULIT 3 3770/1
+No Jawapan Markah Jumlah
+Markah
+8.
+3m
+Simbol hubungan 1
+Simbol atribut 1
+Nama atribut dengan label/garis KP 1
+9. P : Peringkat Kedua / 2NF 1
+Q : Peringkat Pertama / 1NF 1 3m
+R : Peringkat Ketiga / 3NF 1
+10. X : Pertanyaan / Query 1
+Y : Jadual / Table 1 3m
+Z : Borang / Form 1
+11. a) Boleh dipelajari 1
+2m
+b) Kebolehan membuat pemerhatian 1
+12. X : Ralat Logik 1
+2m
+Y : Ralat Sintaks 1
+13. a) Penggodaman / Hacking 1
+b) (i) Dua pengesahan / Double Verification 1 3m
+(ii) Kata laluan / Password 1
+14. a) 3 1
+2m
+b) KOMPUTEN 1
+15.
+A B 𝐀̅ F
+1
+1 0
+1 4m
+1 1
+0 0 1
+0 0 1
+3770/1 © 2025 Hak Cipta MPSM Selangor [Lihat halaman sebelah
+SULIT
+
+No | Jawapan | Markah | Jumlah
+Markah
+8. | Simbol hubungan
+Simbol atribut
+Nama atribut dengan label/garis KP | 1
+1
+1 | 3m
+9. | P : Peringkat Kedua / 2NF
+Q : Peringkat Pertama / 1NF
+R : Peringkat Ketiga / 3NF | 1
+1
+1 | 3m
+10. | X : Pertanyaan / Query
+Y : Jadual / Table
+Z : Borang / Form | 1
+1
+1 | 3m
+11. | a) Boleh dipelajari
+b) Kebolehan membuat pemerhatian | 1
+1 | 2m
+12. | X : Ralat Logik
+Y : Ralat Sintaks | 1
+1 | 2m
+13. | a) Penggodaman / Hacking
+b) (i) Dua pengesahan / Double Verification
+(ii) Kata laluan / Password | 1
+1
+1 | 3m
+14. | a) 3
+b) KOMPUTEN | 1
+1 | 2m
+15. | A B 𝐀̅ F
+1 0
+1 1
+0 0
+0 0 | 1
+1
+1
+1 | 4m
+
+Jumlah
+Markah
+
+A | B | 𝐀̅ | F
+ |  | 1 | 0
+ |  | 1 | 1
+ |  | 0 | 0
+ |  | 0 | 0
+
+SULIT 4 3770/1
+No Jawapan Markah Jumlah
+Markah
+16. 𝐅= 𝐀̅̅̅𝐁̅̅̅+̅̅̅𝐂̅ AB 1
+C 1 3m
+Simbol ATAU dan NOT yang tepat 1
+17. a)
+1
+1
+4m
+b)
+1
+1
+18. HTML (HyperText Markup Language) 1 1m
+19. text-align 1 1m
+20. a) Typography 1
+2m
+b) Navigasi 1
+3770/1 © 2025 Hak Cipta MPSM Selangor [Lihat halaman sebelah
+SULIT
+
+No | Jawapan | Markah |  | Jumlah | 
+ |  |  |  | Markah | 
+16. | 𝐅= 𝐀̅̅̅𝐁̅̅̅+̅̅̅𝐂̅ AB
+C
+Simbol ATAU dan NOT yang tepat | 1
+1
+1 | 3m |  | 
+17. | a)
+b) | 1
+1
+1
+1 | 4m |  | 
+18. | HTML (HyperText Markup Language) | 1 | 1m |  | 
+19. | text-align | 1 | 1m |  | 
+20. | a) Typography
+b) Navigasi | 1
+1 | 2m |  | 
+
+SULIT 5 3770/1
+BAHAGIAN B
+Jumlah
+No Jawapan Markah
+Markah
+1. a) if 1
+(gred_SKomp == 'A' || gred_SKomp == 'B') { 1
+status_kelayakan = true; 1 5m
+} else { 1
+status_kelayakan = false; } 1
+1 markah jika sintaks lengkap semua
+0 markah jika ada sintaks yang tidak lengkap
+b) System.out.println(status_kelayakan); 1
+if (status_kelayakan == true) { 1
+System.out.println("Layak"); 1 5m
+} else { 1
+System.out.println("Belum Layak"); } 1
+Terima jika calon tulis : if (status_kelayakan) {
+1 markah jika sintaks lengkap semua
+0 markah jika ada sintaks yang tidak lengkap
+Jumlah 10m
+2. a)
+(i) Konsistensi / Consistency : 1
+• Semua butang, menu, ikon interaksi kekal pada 1
+kedudukan yang sama untuk semua paparan skrin.
+(ii) Kebolehan membuat pemerhatian / Perceivability : 1
+• Pengguna mengetahui fungsi bagi setiap ikon, butang, 1
+menu.
+6m
+• Setiap menu, butang, ikon mudah untuk dikenalpasti.
+• Pengguna boleh menggunakan aplikasi dengan selesa
+tanpa ragu-ragu.
+1
+(iii) Maklum Balas / Feedback :
+1
+• Terdapat maklum balas yang dipaparkan apabila
+pengguna berinteraksi dengan aplikasi seperti makluman
+pesanan berjaya dihantar.
+• Memberi respon/maklumat terhadap interaksi pengguna
+3770/1 © 2025 Hak Cipta MPSM Selangor [Lihat halaman sebelah
+SULIT
+
+No | Jawapan | Markah | Jumlah
+Markah
+1. | a) if
+(gred_SKomp == 'A' || gred_SKomp == 'B') {
+status_kelayakan = true;
+} else {
+status_kelayakan = false; }
+1 markah jika sintaks lengkap semua
+0 markah jika ada sintaks yang tidak lengkap
+b) System.out.println(status_kelayakan);
+if (status_kelayakan == true) {
+System.out.println("Layak");
+} else {
+System.out.println("Belum Layak"); }
+Terima jika calon tulis : if (status_kelayakan) {
+1 markah jika sintaks lengkap semua
+0 markah jika ada sintaks yang tidak lengkap | 1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+Jumlah | 5m
+5m
+10m
+2. | a)
+(i) Konsistensi / Consistency :
+• Semua butang, menu, ikon interaksi kekal pada
+kedudukan yang sama untuk semua paparan skrin.
+(ii) Kebolehan membuat pemerhatian / Perceivability :
+• Pengguna mengetahui fungsi bagi setiap ikon, butang,
+menu.
+• Setiap menu, butang, ikon mudah untuk dikenalpasti.
+• Pengguna boleh menggunakan aplikasi dengan selesa
+tanpa ragu-ragu.
+(iii) Maklum Balas / Feedback :
+• Terdapat maklum balas yang dipaparkan apabila
+pengguna berinteraksi dengan aplikasi seperti makluman
+pesanan berjaya dihantar.
+• Memberi respon/maklumat terhadap interaksi pengguna | 1
+1
+1
+1
+1
+1 | 6m
+
+Jumlah
+Markah
+
+SULIT 6 3770/1
+b)
+(i) Fungsi menukar saiz tulisan : 1
+• Membantu pengguna yang mempunyai masalah 1
+penglihatan atau kesukaran membaca supaya dapat
+melihat teks pada skrin dengan lebih jelas.
+4m
+(ii) Fungsi arahan suara :
+1
+• Membantu pengguna yang mempunyai masalah
+1
+penglihatan atau tidak mampu menggunakan skrin sentuh
+untuk membuat pesanan dengan hanya bercakap/memberi
+arahan suara.
+(iii) Fungsi pembaca skrin (screen reader) :
+• Aplikasi boleh membaca teks pada skrin dengan kuat bagi
+membantu pengguna yang mempunyai masalah
+penglihatan atau kesukaran membaca.
+Jumlah 10m
+3. a)
+Rajah penormalan terbaik ialah Rajah 15a) 1
+Jadual pada Rajah 15a) berada pada kebergantungan fungsi sepenuh. 1
+berbanding jadual pada Rajah 15b) yang masih mempunyai 1
+kebergantungan fungsi transitif.
+1
+Tiada kebergantungan fungsi transitif pada jadual di Rajah 15a)
+1
+berbanding terdapat kebergantungan fungsi transitif pada jadual di 7m
+Rajah 15b)
+Jadual pada Rajah 15a) berada pada tahap ternormal @ 3NF. 1
+berbanding jadual pada Rajah 15b) yang berada pada tahap 2NF. 1
+b)
+PELANGGAN (idPelanggan <KP>, namaPelanggan)
+8m
+MENU (kodMenu <KP>, namaMenu, harga)
+TEMPAHAN (noResit <KP>, idPelanggan <KA>, kodMenu <KA>,
+tarikhTempah, kuantiti, servis <KA>
+SERVIS (servis <KP>, jenisServis)
+Entiti lengkap 2
+Atribut lengkap 2
+KP lengkap 2
+KA lengkap 2
+15m
+Jumlah
+3770/1 © 2025 Hak Cipta MPSM Selangor [Lihat halaman sebelah
+SULIT
+
+ | b)
+(i) Fungsi menukar saiz tulisan :
+• Membantu pengguna yang mempunyai masalah
+penglihatan atau kesukaran membaca supaya dapat
+melihat teks pada skrin dengan lebih jelas.
+(ii) Fungsi arahan suara :
+• Membantu pengguna yang mempunyai masalah
+penglihatan atau tidak mampu menggunakan skrin sentuh
+untuk membuat pesanan dengan hanya bercakap/memberi
+arahan suara.
+(iii) Fungsi pembaca skrin (screen reader) :
+• Aplikasi boleh membaca teks pada skrin dengan kuat bagi
+membantu pengguna yang mempunyai masalah
+penglihatan atau kesukaran membaca. | 1
+1
+1
+1
+Jumlah | 4m
+10m
+3. | a)
+Rajah penormalan terbaik ialah Rajah 15a)
+Jadual pada Rajah 15a) berada pada kebergantungan fungsi sepenuh.
+berbanding jadual pada Rajah 15b) yang masih mempunyai
+kebergantungan fungsi transitif.
+Tiada kebergantungan fungsi transitif pada jadual di Rajah 15a)
+berbanding terdapat kebergantungan fungsi transitif pada jadual di
+Rajah 15b)
+Jadual pada Rajah 15a) berada pada tahap ternormal @ 3NF.
+berbanding jadual pada Rajah 15b) yang berada pada tahap 2NF.
+b)
+PELANGGAN (idPelanggan <KP>, namaPelanggan)
+MENU (kodMenu <KP>, namaMenu, harga)
+TEMPAHAN (noResit <KP>, idPelanggan <KA>, kodMenu <KA>,
+tarikhTempah, kuantiti, servis <KA>
+SERVIS (servis <KP>, jenisServis)
+Entiti lengkap
+Atribut lengkap
+KP lengkap
+KA lengkap | 1
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+Jumlah | 7m
+8m
+15m
+
+SULIT 7 3770/1
+4. <html>
+<head>
+<title>Program Luas Segi Tiga</title> 1
+</head>
+<body>
+var tapak = prompt("Input tapak :"); 1 + 1
+var tinggi = prompt("Input tinggi :"); 1 + 1
+function kira (tapak, tinggi) { 1
+return 0.5 * tapak * tinggi; 1 + 1
+}
+15m
+var luas = kira(tapak, tinggi); 1
+document.write(tapak); 1
+document.write(tinggi); 1
+document.write(luas); 1
+</body>
+</html>
+Ada Tagging HTML, BODY semua ada walau tak lengkap ditutup 1
+Ada Tagging SCRIPT semua ada walau tak lengkap ditutup 1
+Ada amalan terbaik (komen, inden walaupun sedikit) 1
+Pemarkahan :
+Ada Tajuk 1
+Ada Tagging HTML, BODY semua ada walau tak lengkap ditutup 1
+Ada Tagging SCRIPT semua ada walau tak lengkap ditutup 1
+Ada isytihar pemboleh ubah tapak dan tinggi 2
+Ada input nilai tapak dan tinggi 2
+Ada nama function 1
+Ada Body of function mengira luas segi tiga 1
+Ada return 1
+Ada panggil function 1
+Ada output semua nilai pemboleh ubah 3
+Ada amalan terbaik (komen, inden walaupun sedikit) 1
+3770/1 © 2025 Hak Cipta MPSM Selangor [Lihat halaman sebelah
+SULIT
+
+4. | <html>
+<head>
+<title>Program Luas Segi Tiga</title>
+</head>
+<body>
+var tapak = prompt("Input tapak :");
+var tinggi = prompt("Input tinggi :");
+function kira (tapak, tinggi) {
+return 0.5 * tapak * tinggi;
+}
+var luas = kira(tapak, tinggi);
+document.write(tapak);
+document.write(tinggi);
+document.write(luas);
+</body>
+</html>
+Ada Tagging HTML, BODY semua ada walau tak lengkap ditutup
+Ada Tagging SCRIPT semua ada walau tak lengkap ditutup
+Ada amalan terbaik (komen, inden walaupun sedikit) | 1
+1 + 1
+1 + 1
+1
+1 + 1
+1
+1
+1
+1
+1
+1
+1 | 15m
+ | Pemarkahan :
+Ada Tajuk
+Ada Tagging HTML, BODY semua ada walau tak lengkap ditutup
+Ada Tagging SCRIPT semua ada walau tak lengkap ditutup
+Ada isytihar pemboleh ubah tapak dan tinggi
+Ada input nilai tapak dan tinggi
+Ada nama function
+Ada Body of function mengira luas segi tiga
+Ada return
+Ada panggil function
+Ada output semua nilai pemboleh ubah
+Ada amalan terbaik (komen, inden walaupun sedikit) | 1
+1
+1
+2
+2
+1
+1
+1
+1
+3
+1 | 
+

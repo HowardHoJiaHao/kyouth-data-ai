@@ -1,0 +1,585 @@
+SULIT 1 3770/1
+BAHAGIAN A
+NO. JUMLAH
+CONTOH JAWAPAN
+SOALAN SKOR
+1 1
+1
+1
+2 Q : Float / Double 1
+1
+R : Boolean
+1
+3 (a) 48
+1
+(b) Purata tiga nombor = 16.0
+1
+4 (i) Kawalan Ulangan For
+1
+(ii) Kawalan Ulangan While
+(iii) Kawalan Ulangan Do-While 1
+5 (i) Komen 1
+1
+(ii) Pemboleh ubah yang bermakna
+1
+(iii) Inden yang konsisten
+1
+6
+String [ ] SenaraiRumahSukan = {“ Intan Merah”, “Mayang Pasir”, “Mahsuri”,
+1
+“Malinja”};
+1
+1 M - Jenis data dan nama tatasusunan
+1 M - umpukan nilai berserta " "
+1 M - simbol { } , [ ], = dan ;
+Nama rumah sukan rapat boleh diterima
+1
+7 Nama Pelajar: Jesicca
+1
+Nama Kelab: Ping Pong Markah: 55
+[ Lihat halaman sebelah
+3770/1 © 2025 SULIT
+
+NO.
+SOALAN | CONTOH JAWAPAN | JUMLAH
+SKOR
+1 |  | 1
+1
+1
+2 | Q : Float / Double
+R : Boolean | 1
+1
+3 | (a) 48
+(b) Purata tiga nombor = 16.0 | 1
+1
+4 | (i) Kawalan Ulangan For
+(ii) Kawalan Ulangan While
+(iii) Kawalan Ulangan Do-While | 1
+1
+1
+5 | (i) Komen
+(ii) Pemboleh ubah yang bermakna
+(iii) Inden yang konsisten | 1
+1
+1
+6 | String [ ] SenaraiRumahSukan = {“ Intan Merah”, “Mayang Pasir”, “Mahsuri”,
+“Malinja”};
+1 M - Jenis data dan nama tatasusunan
+1 M - umpukan nilai berserta " "
+1 M - simbol { } , [ ], = dan ;
+Nama rumah sukan rapat boleh diterima | 1
+1
+1
+7 | Nama Pelajar: Jesicca
+Nama Kelab: Ping Pong Markah: 55 | 1
+1
+
+SULIT 2 3770/1
+8
+Langkah Urutan
+Menguji dan membuat nyah ralat kod aturcara 4 1
+Mengenalpasti pengguna sasaran 1 1
+Mengekod atur cara 3 1
+Melaksanakan proses penormalan dalam pangkalan data 2
+Menyediakan manual pengguna 5
+1
+9 X : KUNCI ASING
+1
+Y : KUNCI PRIMER
+1
+10 (i) Jadual tiada kebergantungan fungsi separa
+(ii) Semua jadual hubungan mempunyai kebergantungan fungsi 1
+sepenuh.
+1
+(iii) Wujud kebergantungan fungsi transitif dalam jadual.
+(iv) Kenal pasti kunci asing.
+** pilih mana-mana tiga / relevan
+11 (a) Kebolehan membuat pemerhatian 1
+1
+(b) Konsistensi
+12
+PROSES REKA BENTUK INTERAKSI URUTAN
+Pengguna akan terlibat secara aktif dalam membangunkan
+1
+prototaip reka bentuk dengan cara memberikan maklum 3
+balas mengenai reka bentuk produk dari setiap aspek.
+Pereka bentuk perlu mengetahui pengguna yang disasarkan
+untuk menggunakan produk yang akan dihasilkan dan
+1
+matlamat atau tujuan pengguna menggunakan produk 1
+tersebut.
+Pereka bentuk perlu memikirkan beberapa alternatif yang
+dirasakan sesuai digunakan untuk mengatasi masalah yang 2
+1
+dihadapi.
+Penilaian ialah proses menentukan kebolehgunaan dan
+4
+penerimaan produk atau reka bentuk oleh pengguna.
+[ Lihat halaman sebelah
+3770/1 © 2025 SULIT
+
+8 | Langkah Urutan
+Menguji dan membuat nyah ralat kod aturcara 4
+Mengenalpasti pengguna sasaran 1
+Mengekod atur cara 3
+Melaksanakan proses penormalan dalam pangkalan data 2
+Menyediakan manual pengguna 5 | 1
+1
+1
+9 | X : KUNCI ASING
+Y : KUNCI PRIMER | 1
+1
+10 | (i) Jadual tiada kebergantungan fungsi separa
+(ii) Semua jadual hubungan mempunyai kebergantungan fungsi
+sepenuh.
+(iii) Wujud kebergantungan fungsi transitif dalam jadual.
+(iv) Kenal pasti kunci asing.
+** pilih mana-mana tiga / relevan | 1
+1
+1
+11 | (a) Kebolehan membuat pemerhatian
+(b) Konsistensi | 1
+1
+12 | PROSES REKA BENTUK INTERAKSI URUTAN
+Pengguna akan terlibat secara aktif dalam membangunkan
+prototaip reka bentuk dengan cara memberikan maklum 3
+balas mengenai reka bentuk produk dari setiap aspek.
+Pereka bentuk perlu mengetahui pengguna yang disasarkan
+untuk menggunakan produk yang akan dihasilkan dan
+1
+matlamat atau tujuan pengguna menggunakan produk
+tersebut.
+Pereka bentuk perlu memikirkan beberapa alternatif yang
+dirasakan sesuai digunakan untuk mengatasi masalah yang 2
+dihadapi.
+Penilaian ialah proses menentukan kebolehgunaan dan
+4
+penerimaan produk atau reka bentuk oleh pengguna. | 1
+1
+1
+
+Langkah | Urutan
+Menguji dan membuat nyah ralat kod aturcara | 4
+Mengenalpasti pengguna sasaran | 1
+Mengekod atur cara | 3
+Melaksanakan proses penormalan dalam pangkalan data | 2
+Menyediakan manual pengguna | 5
+
+PROSES REKA BENTUK INTERAKSI | URUTAN
+Pengguna akan terlibat secara aktif dalam membangunkan
+prototaip reka bentuk dengan cara memberikan maklum
+balas mengenai reka bentuk produk dari setiap aspek. | 3
+Pereka bentuk perlu mengetahui pengguna yang disasarkan
+untuk menggunakan produk yang akan dihasilkan dan
+matlamat atau tujuan pengguna menggunakan produk
+tersebut. | 1
+Pereka bentuk perlu memikirkan beberapa alternatif yang
+dirasakan sesuai digunakan untuk mengatasi masalah yang
+dihadapi. | 2
+Penilaian ialah proses menentukan kebolehgunaan dan
+penerimaan produk atau reka bentuk oleh pengguna. | 4
+
+SULIT 3 3770/1
+1
+13 (a) Penyulitan Tidak Simetri
+1
+(b) KOMPONEN
+1
+14 (a) Pemprosesan Linear
+(b) - lebih efektif bagi pelaksanaan arahan yang panjang dan
+Mana-mana
+kompleks
+satu jawapan –
+- Arahan dibahagikan kepada beberapa bahagian dan
+1 m
+dilaksanakan secara berasingan
+- Pemproses boleh melakukan pelbagai tugas dengan cepat
+pada satu masa
+15
+1
+1m – ada input dan output
+1m – simbol 1
+1
+16
+1
+1
+1m – A.B
+1m – .B
+1m – Garis TAK
+17 - Setiap hubungan ( jadual) mempunyai nama yang berbeza daripada 1
+nama-nama hubungan yang lain. 1
+- Setiap data dalam hubungan mempunyai satu nilai sahaja.
+- Setiap atribut (medan) mempunyai nama yang berbeza.
+- Setiap rekod adalah berbeza.
+- Susunan atribut (medan) tidak mempunyai kepentingan.
+- Susunan rekod tidak mempunyai kepentingan.
+- Setiap jadual ada kunci primer
+** Pilih mana – mana dua ciri
+1
+18 (a) unshift (15)
+1
+(b) pop()
+[ Lihat halaman sebelah
+3770/1 © 2025 SULIT
+
+13 | (a) Penyulitan Tidak Simetri
+(b) KOMPONEN | 1
+1
+14 | (a) Pemprosesan Linear
+(b) - lebih efektif bagi pelaksanaan arahan yang panjang dan
+kompleks
+- Arahan dibahagikan kepada beberapa bahagian dan
+dilaksanakan secara berasingan
+- Pemproses boleh melakukan pelbagai tugas dengan cepat
+pada satu masa | 1
+Mana-mana
+satu jawapan –
+1 m
+15 | 1m – ada input dan output
+1m – simbol | 1
+1
+16 | 1m – A.B
+1m – .B
+1m – Garis TAK | 1
+1
+1
+17 | - Setiap hubungan ( jadual) mempunyai nama yang berbeza daripada
+nama-nama hubungan yang lain.
+- Setiap data dalam hubungan mempunyai satu nilai sahaja.
+- Setiap atribut (medan) mempunyai nama yang berbeza.
+- Setiap rekod adalah berbeza.
+- Susunan atribut (medan) tidak mempunyai kepentingan.
+- Susunan rekod tidak mempunyai kepentingan.
+- Setiap jadual ada kunci primer
+** Pilih mana – mana dua ciri | 1
+1
+18 | (a) unshift (15)
+(b) pop() | 1
+1
+
+SULIT 4 3770/1
+1
+19 Nama saya ialah Amelia
+1
+Saya berumur 10 tahun
+1
+Bulan Kelahiran ialah bulan 12
+1
+20 X: teks / kotak teks / textbox
+Y: radio / butang radio / radio button 1
+1
+Z: checkbox
+[ Lihat halaman sebelah
+3770/1 © 2025 SULIT
+
+19 | Nama saya ialah Amelia
+Saya berumur 10 tahun
+Bulan Kelahiran ialah bulan 12 | 1
+1
+1
+20 | X: teks / kotak teks / textbox
+Y: radio / butang radio / radio button
+Z: checkbox | 1
+1
+1
+
+SULIT 5 3770/1
+BAHAGIAN B
+NO. JUMLAH
+CONTOH JAWAPAN
+SOALAN SKOR
+1 (a)(i)
+CREATE TABLE BARANG (
+KodBarang VARCHAR(3) PRIMARY KEY,
+NamaBarang VARCHAR(15),
+HargaSeunit double(5,2)
+);
+** setiap baris (1m x 4) - 4m
+(ii)
+INSERT INTO
+BARANG
+VALUES(‘B05’,’BOLA BALING’,50.00);
+** setiap baris (1m x 3) - 3m
+- Terima KodBarang selain daripada B01 - B04
+- Saiz data bagi KodBarang selari dengan jawapan 1(a)
+(b)
+KodBarang JumlahBarang (1 m)
+(1 m)
+B03 5
+(1 m)
+[ Lihat halaman sebelah
+3770/1 © 2025 SULIT
+
+NO.
+SOALAN | CONTOH JAWAPAN | JUMLAH
+SKOR
+1 | (a)(i)
+CREATE TABLE BARANG (
+KodBarang VARCHAR(3) PRIMARY KEY,
+NamaBarang VARCHAR(15),
+HargaSeunit double(5,2)
+);
+** setiap baris (1m x 4) - 4m
+(ii)
+INSERT INTO
+BARANG
+VALUES(‘B05’,’BOLA BALING’,50.00);
+** setiap baris (1m x 3) - 3m
+- Terima KodBarang selain daripada B01 - B04
+- Saiz data bagi KodBarang selari dengan jawapan 1(a)
+(b)
+KodBarang JumlahBarang (1 m)
+(1 m)
+B03 5
+(1 m) | 
+
+ | KodBarang |  |  | JumlahBarang (1 m | )
+B03 |  |  | 5
+(1 m) |  | 
+
+SULIT 6 3770/1
+2(a) - Pemilihan jenis fon yang digunakan kurang sesuai 1 + 1
+menyebabkan pengguna sukar untuk membaca dan
+memahaminya/tidak menepati prinsip typography
+- Kedudukan objek dalam rekabentuk laman web adalah tidak 1 + 1
+seimbang dan lebih kepada penjajaran ke kiri/ tidak menepati
+prinsip keseimbangan visual
+- Pengguna mengalami masalah dalam menentukan 1 + 1
+kedudukan navigasi untuk membuat tempahan / tidak
+menepati prinsip navigasi
+- Pengunaan warna latar belakang dan teks tidak menonjolkan 1 + 1 6
+imej dan identiti laman web untuk panggung wayang yang
+sepatutnya menggunakan warna yang terang dan cerah
+/tidak menepati prinsip warna dan grafik
+(Terima mana – mana tiga jawapan)
+(b) - Menggunakan jenis kumpulan fon yang lebih selamat dibaca 1 + 1
+seperti tulisan Arial bagi membolehkan mesej dan idea
+disampaikan kepada pembaca
+- Mengubah objek dalam reka bentuk laman web kepada 1 + 1
+kedudukan yang betul iaitu penjajaran ke tengah supaya
+kelihatan seimbang dan lebih teratur
+- Menggunakan warna butang navigasi yang kontra dari warna
+latar belakang laman web supaya lebih menonjol untuk 1 + 1
+memudahkan fokus dan kefahaman pengguna
+4
+- Penggunaan warna latar belakang atau kombinasi latar
+belakang dan teks yang lebih terang dan menarik perhatian 1 + 1
+bersesuaian dengan konsep panggung wayang
+membolehkan teks dan grafik lebih jelas dilihat.
+(Terima mana – mana dua jawapan)
+[ Lihat halaman sebelah
+3770/1 © 2025 SULIT
+
+2(a) | - Pemilihan jenis fon yang digunakan kurang sesuai
+menyebabkan pengguna sukar untuk membaca dan
+memahaminya/tidak menepati prinsip typography
+- Kedudukan objek dalam rekabentuk laman web adalah tidak
+seimbang dan lebih kepada penjajaran ke kiri/ tidak menepati
+prinsip keseimbangan visual
+- Pengguna mengalami masalah dalam menentukan
+kedudukan navigasi untuk membuat tempahan / tidak
+menepati prinsip navigasi
+- Pengunaan warna latar belakang dan teks tidak menonjolkan
+imej dan identiti laman web untuk panggung wayang yang
+sepatutnya menggunakan warna yang terang dan cerah
+/tidak menepati prinsip warna dan grafik
+(Terima mana – mana tiga jawapan) | 1 + 1
+1 + 1
+1 + 1
+1 + 1 | 6
+(b) | - Menggunakan jenis kumpulan fon yang lebih selamat dibaca
+seperti tulisan Arial bagi membolehkan mesej dan idea
+disampaikan kepada pembaca
+- Mengubah objek dalam reka bentuk laman web kepada
+kedudukan yang betul iaitu penjajaran ke tengah supaya
+kelihatan seimbang dan lebih teratur
+- Menggunakan warna butang navigasi yang kontra dari warna
+latar belakang laman web supaya lebih menonjol untuk
+memudahkan fokus dan kefahaman pengguna
+- Penggunaan warna latar belakang atau kombinasi latar
+belakang dan teks yang lebih terang dan menarik perhatian
+bersesuaian dengan konsep panggung wayang
+membolehkan teks dan grafik lebih jelas dilihat.
+(Terima mana – mana dua jawapan) | 1 + 1
+1 + 1
+1 + 1
+1 + 1 | 4
+
+SULIT 7 3770/1
+3 (a) Cadangan B adalah cadangan yang terbaik
+1+1
+Cadangan A dalam jadual KERETA tiada kunci primer berbanding
+Cadangan B noPlat sebagai kunci primer. Oleh itu Cadangan B betul
+kerana setiap jadual perlu mempunyai kunci primer untuk membezakan
+rekod.
+1+1
+Cadangan A atribut harga berada pada kategori manakalan Cadangan
+B berada pada jadual KERETA. Cadangan B menempatkan atribut
+harga pada jadual yang betul kerana harga bergantung kepada noPlat
+tidak bergantung kepada idKategori. 1+1
+Cadangan A kekardinalan antara PENYEWA dan KERETA ialah satu ke
+banyak manakala Cadangan B banyak ke banyak. Cadangan B lebih
+tepat kerana jadual x menunjukkan hubungan antara PENYEWA dan
+1+1
+KERETA ialah banyak ke banyak.
+(b) PENYEWA (idPenyewa<KP>, namaPenyewa)
+SEWA (idPenyewa<KP><KA>, noPlat<KP><KA>, tarikhSewa,
+tarikhPulang) 8m
+KERETA (noPlat<KP>, harga, model, idKategori<KA>)
+KATEGORI (idKategori<KP>, namaKategori)
+** Nama entiti/jadual + atribut (Lengkap) bagi penyewa, kereta dan
+kategori – 1m x 3 entiti/jadual
+3 <KP> bagi penyewa, kereta dan kategori – 1m
+<KA> pada entiti/jadual kereta – 1m
+Entiti sewa dan atribut tarikhSewa, tarikhPulang – 1m
+idPenyewa<KP><KA> dalam entiti sewa – 1m
+noPlat<KP><KA> dalam entiti sewa – 1m
+Jika Pilih Cadangan A
+PENYEWA (idPenyewa<KP>, namaPenyewa) - 1m
+SEWA (tarikhSewa, tarikhPulang) - 1m
+KERETA (noPlat<KP>, harga, model, idPenyewa<KA>, -1m
+idKategori<KA>) 1m + 2m
+KATEGORI(idKategori<KP>, namaKategori, harga)
+3 KP 1m
+Jumlah 7m
+[ Lihat halaman sebelah
+3770/1 © 2025 SULIT
+
+3 | (a) Cadangan B adalah cadangan yang terbaik
+Cadangan A dalam jadual KERETA tiada kunci primer berbanding
+Cadangan B noPlat sebagai kunci primer. Oleh itu Cadangan B betul
+kerana setiap jadual perlu mempunyai kunci primer untuk membezakan
+rekod.
+Cadangan A atribut harga berada pada kategori manakalan Cadangan
+B berada pada jadual KERETA. Cadangan B menempatkan atribut
+harga pada jadual yang betul kerana harga bergantung kepada noPlat
+tidak bergantung kepada idKategori.
+Cadangan A kekardinalan antara PENYEWA dan KERETA ialah satu ke
+banyak manakala Cadangan B banyak ke banyak. Cadangan B lebih
+tepat kerana jadual x menunjukkan hubungan antara PENYEWA dan
+KERETA ialah banyak ke banyak.
+(b) PENYEWA (idPenyewa<KP>, namaPenyewa)
+SEWA (idPenyewa<KP><KA>, noPlat<KP><KA>, tarikhSewa,
+tarikhPulang)
+KERETA (noPlat<KP>, harga, model, idKategori<KA>)
+KATEGORI (idKategori<KP>, namaKategori)
+** Nama entiti/jadual + atribut (Lengkap) bagi penyewa, kereta dan
+kategori – 1m x 3 entiti/jadual
+3 <KP> bagi penyewa, kereta dan kategori – 1m
+<KA> pada entiti/jadual kereta – 1m
+Entiti sewa dan atribut tarikhSewa, tarikhPulang – 1m
+idPenyewa<KP><KA> dalam entiti sewa – 1m
+noPlat<KP><KA> dalam entiti sewa – 1m
+Jika Pilih Cadangan A
+PENYEWA (idPenyewa<KP>, namaPenyewa) - 1m
+SEWA (tarikhSewa, tarikhPulang) - 1m
+KERETA (noPlat<KP>, harga, model, idPenyewa<KA>, -1m
+idKategori<KA>) 1m + 2m
+KATEGORI(idKategori<KP>, namaKategori, harga)
+3 KP 1m
+Jumlah 7m | 1+1
+1+1
+1+1
+1+1
+8m
+
+SULIT 8 3770/1
+4 <html>
+<head>
+<style>
+body {
+background-color: blue;
+1
+}
+</style>
+</head>
+<body>
+<h1> Daftar Ahli </h1> **mempunyai tajuk
+1
+<form>
+<table>
+<tr>
+<td>Nama Pengguna</td> 1
+<td><input name="namapengguna" size="20" type="text"></td> 1 +1
+</tr>
+<tr>
+<td>Kata Laluan</td>
+1
+<td><input name="katalaluan" size="20" type="password"></td>
+1 +1
+</tr>
+<tr>
+1
+<td>Tahap Pengguna</td>
+<td>
+<select name="jenis"> 1
+<option value="Guru">Guru</option> 1
+<option value="Murid">Murid</option> 1
+</select>
+</td>
+</tr>
+<tr>
+<td><input name="submit" value="Daftar" type="submit"></td>
+1 +1
+</tr>
+</table>
+</form>
+</body>
+</html>
+1
+** mempunyai <html></html>, <body></body> dan <form> </form> pada
+kedudukan yang sesuai. (15 m)
+[ Lihat halaman sebelah
+3770/1 © 2025 SULIT
+
+4 | <html>
+<head>
+<style>
+body {
+background-color: blue;
+}
+</style>
+</head>
+<body>
+<h1> Daftar Ahli </h1> **mempunyai tajuk
+<form>
+<table>
+<tr>
+<td>Nama Pengguna</td>
+<td><input name="namapengguna" size="20" type="text"></td>
+</tr>
+<tr>
+<td>Kata Laluan</td>
+<td><input name="katalaluan" size="20" type="password"></td>
+</tr>
+<tr>
+<td>Tahap Pengguna</td>
+<td>
+<select name="jenis">
+<option value="Guru">Guru</option>
+<option value="Murid">Murid</option>
+</select>
+</td>
+</tr>
+<tr>
+<td><input name="submit" value="Daftar" type="submit"></td>
+</tr>
+</table>
+</form>
+</body>
+</html>
+** mempunyai <html></html>, <body></body> dan <form> </form> pada
+kedudukan yang sesuai. | 1
+1
+1
+1 +1
+1
+1 +1
+1
+1
+1
+1
+1 +1
+1
+(15 m)
+

@@ -1,0 +1,373 @@
+PANDUAN PENSKORAN (SET A)
+BAHAGIAN A
+NO JAWAPAN MARKAH JUMLAH
+SOALAN MARKAH
+1 Teknik Leraian / Pengecaman Corak 1 1
+(Peleraian tidak diterima)
+2 a) 4/ Baris 4 1 2
+(salin ‘Jika (x<0)’ tak ada no baris tidak diterima)
+b) Jika (x > 0) 1
+(x>=0 dan ≥ tidak diterima)
+3 a) ucapan 1 2
+b) nama 1
+(Case sensitif)
+4 A : 5 1 3
+B : while (pembilang >= 1) / while (pembilang>0) 1
+(for tidak boleh diterima)
+C : pembilang - -/ pembilang= pembilang-1/ pembilang-=1 1
+(Case sensitif)
+5 a) 4 1 4
+b) System.out.println ( senaraiMarkah[3] + senaraiSubjek[2] ) ; 1 + 1 + 1
+(simbol ‘+’ salah -1)
+@
+System.out.println ( senaraiMarkah[3] ) ; 1 + 1 + 1
+System.out.println ( senaraiSubjek[2] ) ;
+}
+(Ignore simbol ‘;’), System.out.println mesti bentuk array yg betul)
+6 a) dokumentasi (imbuhan lain tidak diterima) 1 4
+b) T , R , Q (t, r ,q diterima) 1+1+1
+7 Kelewahan Data/ Redundancy 1 2
+Terdapat rekod-rekod yang berulang / bertindan / @ 1
+Rekod IDmurid A001 berulang / bertindan
+(ciri data salah tetapi huraian betul diterima)
+
+NO
+SOALAN | JAWAPAN | MARKAH | JUMLAH
+MARKAH
+1 | Teknik Leraian / Pengecaman Corak
+(Peleraian tidak diterima) | 1 | 1
+2 | a) 4/ Baris 4
+(salin ‘Jika (x<0)’ tak ada no baris tidak diterima)
+b) Jika (x > 0)
+(x>=0 dan ≥ tidak diterima) | 1
+1 | 2
+3 | a) ucapan
+b) nama
+(Case sensitif) | 1
+1 | 2
+4 | A : 5
+B : while (pembilang >= 1) / while (pembilang>0)
+(for tidak boleh diterima)
+C : pembilang - -/ pembilang= pembilang-1/ pembilang-=1
+(Case sensitif) | 1
+1
+1 | 3
+5 | a) 4
+b) System.out.println ( senaraiMarkah[3] + senaraiSubjek[2] ) ;
+(simbol ‘+’ salah -1)
+@
+System.out.println ( senaraiMarkah[3] ) ;
+}
+System.out.println ( senaraiSubjek[2] ) ;
+(Ignore simbol ‘;’), System.out.println mesti bentuk array yg betul) | 1
+1 + 1 + 1
+1 + 1 + 1 | 4
+6 | a) dokumentasi (imbuhan lain tidak diterima)
+b) T , R , Q (t, r ,q diterima) | 1
+1+1+1 | 4
+7 | Kelewahan Data/ Redundancy
+Terdapat rekod-rekod yang berulang / bertindan / @
+Rekod IDmurid A001 berulang / bertindan
+(ciri data salah tetapi huraian betul diterima) | 1
+1 | 2
+
+8 X : Medan / Nama Medan/ Field / Field Name/ Atribut 1 2
+Y : Rekod 1
+9
+1 3
+NoMurid Jantina RumahSukan
+1
+12444 Perempuan Merah
+13989 Perempuan Merah 1
+10 1. Mendapat permintaan dalam pasaran 1 2
+2. Meningkatkan produktiviti 1
+3. Mengurangkan kos selepas jualan
+4. Mengurangkan kos pembangunan
+*mana-mana 2 jawapan di 1st dan 2nd
+11 a) Penyulitan e-mel (Encrypted email) 1 2
+b) Dua pengesahan (Double Verification/Two Step Verification) 1
+12 a) Hertz (Hz) 1 2
+(MHz tidak diterima) 1
+b) 120, 000, 000
+13 a) Pentafsir / Interpreter 1 2
+1
+b) Pengkompil / Compiler
+14 a)
+A B C
+1
+0 0 1
+1
+0 1 0 4
+1
+1 0 0
+1 1 1 1
+b) Get Esklusif TAK ATAU/ X-TAK ATAU/ EX-NOR
+
+8 | X : Medan / Nama Medan/ Field / Field Name/ Atribut
+Y : Rekod | 1
+1 | 2
+9 | NoMurid Jantina RumahSukan
+12444 Perempuan Merah
+13989 Perempuan Merah | 1
+1
+1 | 3
+10 | 1. Mendapat permintaan dalam pasaran
+2. Meningkatkan produktiviti
+3. Mengurangkan kos selepas jualan
+4. Mengurangkan kos pembangunan
+*mana-mana 2 jawapan di 1st dan 2nd | 1
+1 | 2
+11 | a) Penyulitan e-mel (Encrypted email)
+b) Dua pengesahan (Double Verification/Two Step Verification) | 1
+1 | 2
+12 | a) Hertz (Hz)
+(MHz tidak diterima)
+b) 120, 000, 000 | 1
+1 | 2
+13 | a) Pentafsir / Interpreter
+b) Pengkompil / Compiler | 1
+1 | 2
+14 | a)
+A B C
+0 0 1
+0 1 0
+1 0 0
+1 1 1
+b) Get Esklusif TAK ATAU/ X-TAK ATAU/ EX-NOR | 1
+1
+1
+1 | 4
+
+NoMurid | Jantina | RumahSukan
+12444 | Perempuan | Merah
+13989 | Perempuan | Merah
+
+A | B | C
+0 | 0 | 1
+0 | 1 | 0
+1 | 0 | 0
+1 | 1 | 1
+
+15 P = A . B 1 3
+Q = A + B 1
+F = (A.B) ⊕ (A+B) 1
+(P⊕Q tidak diterima)
+16 X: AVG 1 3
+Y: MAX 1
+Z: SUM 1
+(abaikan huruf kecil, ejaan penuh salah
+17 3 Kuasa 3 ialah : 27 1+1 2
+18 L 1
+M 1 3
+K 1
+19 Penekanan Maklumat dalam Web 1 1
+20
+1 3
+1
+1
+SENARAI SYARIKAT MESTI BESAR, mesti dlm jadual
+
+15 | P = A . B
+Q = A + B
+F = (A.B) ⊕ (A+B)
+(P⊕Q tidak diterima) | 1
+1
+1 | 3
+16 | X: AVG
+Y: MAX
+Z: SUM
+(abaikan huruf kecil, ejaan penuh salah | 1
+1
+1 | 3
+17 | 3 Kuasa 3 ialah : 27 | 1+1 | 2
+18 | L
+M
+K | 1
+1
+1 | 3
+19 | Penekanan Maklumat dalam Web | 1 | 1
+20 | SENARAI SYARIKAT MESTI BESAR, mesti dlm jadual | 1
+1
+1 | 3
+
+BAHAGIAN B
+NO JAWAPAN MARKAH JUMLAH
+SOALAN MARKAH
+1 1 10
+public class NomborRawak {
+1
+public static void main(String[] args) { 1
+System.out.println("Senarai 8 nombor rawak
+antara 1 hingga 20:");
+1+1+1
+for (int i = 1; i <= 8; i++) {
+1
+int nombor = (int)(Math.random()* 20) + 1;
+1
+System.out.println("Nombor " + i + ": " +
+nombor);
+}
+}
+}
+1m : Mana-mana satu amalan baik.
+1
+1m : Simbol-simbol seperti { } ada tutup, ; semua betul
+1
+
+NO
+SOALAN | JAWAPAN | MARKAH | JUMLAH
+MARKAH
+1 | public class NomborRawak {
+public static void main(String[] args) {
+System.out.println("Senarai 8 nombor rawak
+antara 1 hingga 20:");
+for (int i = 1; i <= 8; i++) {
+int nombor = (int)(Math.random()* 20) + 1;
+System.out.println("Nombor " + i + ": " +
+nombor);
+}
+}
+}
+1m : Mana-mana satu amalan baik.
+1m : Simbol-simbol seperti { } ada tutup, ; semua betul | 1
+1
+1
+1+1+1
+1
+1
+1
+1 | 10
+
+2 10
+Mula/Tamat 1
+Isytihar senarai = 7,12,……… (nilai item tepat) 1
+Pengisytiharan tiga pemboleh ubah 1
+Proses ulangan- x < bilanganNombor 1
+senarai[x]< nomborMinimum 1
+x=x+1 1
+nomborMinimum = senarai[x]; 1
+Output 1
+Flow betul 1
+Simbol betul semua 1
+
+2 | Mula/Tamat
+Isytihar senarai = 7,12,……… (nilai item tepat)
+Pengisytiharan tiga pemboleh ubah
+Proses ulangan- x < bilanganNombor
+senarai[x]< nomborMinimum
+x=x+1
+nomborMinimum = senarai[x];
+Output
+Flow betul
+Simbol betul semua | 1
+1
+1
+1
+1
+1
+1
+1
+1
+1 | 10
+
+3 a) KEHADIRAN (IdAkt<KP><KA>, NoKp<KP><KA>, MasaHadir) 15
+AKTIVITI (IdAkt<KP>, Aktiviti, Tarikh, MasaMula)
+AHLI (NoKP<KP>, Nama, IdKelas<KA>)
+KELAS (IdKelas<KP>, NamaKelas, Ting)
+● 4 Entiti 2/1
+● semua atribut lengkap 1
+● KP dan KPKA yang tepat 1
+● IdKelas<KA> 1
+b)
+● Entiti lengkap (3 atau 4) 2/1
+● Atribut lengkap bagi setiap entiti 2/1
+● KP lengkap 2/1
+● Hubungan tepat dan lengkap 2/1
+● Kekardinalan tepat dan lengkap 1
+● Semua Simbol betul 1
+
+3 | a) KEHADIRAN (IdAkt<KP><KA>, NoKp<KP><KA>, MasaHadir)
+AKTIVITI (IdAkt<KP>, Aktiviti, Tarikh, MasaMula)
+AHLI (NoKP<KP>, Nama, IdKelas<KA>)
+KELAS (IdKelas<KP>, NamaKelas, Ting)
+● 4 Entiti
+● semua atribut lengkap
+● KP dan KPKA yang tepat
+● IdKelas<KA>
+b)
+● Entiti lengkap (3 atau 4)
+● Atribut lengkap bagi setiap entiti
+● KP lengkap
+● Hubungan tepat dan lengkap
+● Kekardinalan tepat dan lengkap
+● Semua Simbol betul | 2/1
+1
+1
+1
+2/1
+2/1
+2/1
+2/1
+1
+1 | 15
+
+ |  |  | 
+
+4 a)
+Kotak popup/prompt akan dipaparkan (1m） 1 15
+untuk masukkan nama (1m) 1
+Papar "Selamat datang [nama] (1m) 1
+ke dunia sains komputer!" （1m） 1
+1
+kembali ke lamam web （1m）
+1
+dan tiada perubahan pada paparan/halaman utama/asal （1m)
+b)
+1
+1m
+1m 1
+1
+1m
+1m 1
+1
+Border (1m)
+c)
+1
+1m
+1+1m 1+1
+1m
+1
+Tulis coding tidak diterima.
+
+4 | a)
+Kotak popup/prompt akan dipaparkan (1m）
+untuk masukkan nama (1m)
+Papar "Selamat datang [nama] (1m)
+ke dunia sains komputer!" （1m）
+kembali ke lamam web （1m）
+dan tiada perubahan pada paparan/halaman utama/asal （1m)
+b)
+1m
+1m
+1m
+1m
+Border (1m)
+c)
+1m
+1+1m
+1m
+Tulis coding tidak diterima. | 1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1+1
+1 | 15
+
