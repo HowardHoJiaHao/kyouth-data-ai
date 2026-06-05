@@ -29,7 +29,7 @@ def get_category_from_ai(description):
     Entertainment & Treat, Others. Description: '{description}'. Return ONLY the category name."""
     
     try:
-        response = ollama.chat(model='deepseek-r1:1.5b', messages=[{'role': 'user', 'content': prompt}])
+        response = ollama.chat(model='gemma2:2b', messages=[{'role': 'user', 'content': prompt}])
         content = response['message']['content']
         # Strip thinking process
         if "<think>" in content:
@@ -58,18 +58,27 @@ def get_all_expenses():
         conn.close()
 
 def execute_natural_language_query(sql_query):
+    # Print notification to terminal (stdout)
+    print("\n--- [BACKEND] executing natural language query ---")
+    print(f"Executing SQL: {sql_query}")
+    
     # Security: Prevent destructive commands
     forbidden = ["DROP", "DELETE", "UPDATE", "INSERT", "ALTER", "CREATE"]
     if any(word in sql_query.upper() for word in forbidden):
+        print("--- [BACKEND] Error: Unauthorized command blocked ---")
         return "Error: Unauthorized query detected."
     
     conn = get_connection()
     try:
-        return pd.read_sql(sql_query, conn)
+        result = pd.read_sql(sql_query, conn)
+        print("--- [BACKEND] Query successful ---")
+        return result
     except Exception as e:
+        print(f"--- [BACKEND] Database error: {e} ---")
         return f"Database error: {e}"
     finally:
         conn.close()
+        print("--- [BACKEND] Connection closed ---")
 
 # Initialize upon import
 initialize_db()

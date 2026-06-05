@@ -22,36 +22,109 @@ with tab1:
 with tab2:
     st.header("Financial Assistant")
     user_query = st.text_input("Ask about your spending:")
+    
     if st.button("Ask") and user_query:
-        with st.spinner("Analyzing..."):
-            # Prompt for SQL generation
-            schema = "Table: spending (id, date, description, price, category)"
-            prompt = f"You are a SQL expert. Schema: {schema}. Convert '{user_query}' into a SQLite query. Return ONLY the raw SQL code."
+        with st.status("Analyzing your request...", expanded=True) as status:
+            # 1. Generate SQL
+            st.write("Generating SQL query...")
+            schema = """
+            Table: spending 
+            Columns: id (INTEGER), date (TEXT, YYYY-MM-DD), description (TEXT), price (REAL), category (TEXT)
+
+            ALLOWED CATEGORIES:
+            Food, Transport, Utilities & Bill, Study & Academic, Household & Cleaning, Selfcare & Health, Laundry, Entertainment & Treat, Others
+
+            RULES:
+            1. ONLY use the 'spending' table.
+            2. DO NOT use JOINs.
+            3. Use simple SELECT and GROUP BY queries.
+            4. For date filtering, use the 'date' column directly.
+            5. Return ONLY the raw SQL code. No markdown formatting, no explanations.
+            """
+            prompt = f"""
+            You are a SQL expert. 
+            Database Schema and Rules: {schema}
+            User Question: '{user_query}'
+
+            Convert the user question into a valid SQLite query.
+            """
+            response = ollama.chat(model='gemma2:2b', messages=[{'role': 'user', 'content': prompt}])
+            sql = response['message']['content'].split("</think>")[-1].replace("```sql", "").replace("```", "").strip()
             
-            response = ollama.chat(model='deepseek-r1:1.5b', messages=[{'role': 'user', 'content': prompt}])
-            content = response['message']['content']
-            
-            # Clean up thinking tags and markdown
-            sql = content.split("</think>")[-1].replace("```sql", "").replace("```", "").strip()
-            
-            # Execute and display
+            # 2. Execute SQL
+            st.write("Querying database...")
             result = execute_natural_language_query(sql)
+            
+            # 3. Explain the result (The new step!)
+            st.write("Generating explanation...")
+            if isinstance(result, str) and "Error" in result:
+                explanation = "I couldn't process that query correctly."
+            else:
+                explain_prompt = f"""
+                User asked: '{user_query}'
+                Database returned this data: 
+                {result.to_string() if result is not None else 'No data'}
+                
+                Explain this result to the user in a friendly, conversational tone. 
+                Keep it concise.
+                """
+                explain_res = ollama.chat(model='gemma2:2b', messages=[{'role': 'user', 'content': explain_prompt}])
+                explanation = explain_res['message']['content'].split("</think>")[-1].strip()
+            
+            status.update(label="Analysis complete!", state="complete", expanded=False)
+
+        # Final UI Display
+        st.write("### AI Insight:")
+        st.info(explanation)
+        
+        with st.expander("🔍 See technical details"):
+            # st.write("**SQL Query:**")
+            # st.code(sql, language="sql")
+            st.write("**Raw Data:**")
             st.write(result)
 
 with tab3:
     st.header("Spending Analytics")
     df = get_all_expenses()
-    if not df.empty:
+    
+    if df is not None and not df.empty:
         df['date'] = pd.to_datetime(df['date'])
+        # Create a 'month' column for easier grouping (e.g., '2026-06')
+        df['month'] = df['date'].dt.to_period('M').astype(str)
         
+        # 1. Stacked Bar Chart: Monthly spending broken down by category
+        st.subheader("Monthly Spending by Category (Stacked)")
+        monthly_cat_df = df.groupby(['month', 'category'])['price'].sum().reset_index()
+        fig_stacked = px.bar(
+            monthly_cat_df, 
+            x='month', 
+            y='price', 
+            color='category',
+            title="Total Spending per Month by Category",
+            labels={'price': 'Amount (RM)', 'month': 'Month'}
+        )
+        st.plotly_chart(fig_stacked, width='stretch')
+
         col1, col2 = st.columns(2)
+        
         with col1:
-            st.subheader("Monthly Trend")
-            monthly = df.resample('ME', on='date')['price'].sum().reset_index()
-            st.plotly_chart(px.line(monthly, x='date', y='price', markers=True), use_container_width=True)
+            # 2. Pie Chart: Total distribution across all time
+            st.subheader("Overall Spending Distribution")
+            total_cat_df = df.groupby('category')['price'].sum().reset_index()
+            fig_pie = px.pie(
+                total_cat_df, 
+                values='price', 
+                names='category',
+                hole=0.3
+            )
+            st.plotly_chart(fig_pie, width='stretch')
+            
         with col2:
-            st.subheader("Expenses by Category")
-            cat_df = df.groupby('category')['price'].sum().reset_index()
-            st.plotly_chart(px.bar(cat_df, x='category', y='price', color='category'), use_container_width=True)
+            # 3. Trend Line: Average daily spending
+            st.subheader("Daily Average Trend")
+            daily_df = df.resample('D', on='date')['price'].sum().reset_index()
+            fig_line = px.line(daily_df, x='date', y='price', title="Daily Spending Activity")
+            st.plotly_chart(fig_line, width='stretch')
+            
     else:
         st.info("Log some expenses to see your charts!")
