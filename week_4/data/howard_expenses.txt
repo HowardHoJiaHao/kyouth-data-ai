@@ -1,0 +1,49 @@
+Date,Description,Price
+2026-01-02,bought nasi lemak for breakfast,2.50
+2026-01-02,bought carrots at Giant for weekly cooking,3.00
+2026-01-03,teh tarik and roti canai at mamak,4.50
+2026-01-03,bought a bag of onions,2.50
+2026-01-04,topped up Touch n Go for LRT,20.00
+2026-01-04,bought Maggi noodles and eggs at KK Mart,5.50
+2026-01-05,paid room rent for January (master bedroom, shared house),400.00
+2026-01-05,bought canned tuna and crackers,8.90
+2026-01-06,lunch at campus cafeteria (rice + chicken + veggies),5.00
+2026-01-06,bought iced Milo and curry puff,3.50
+2026-01-07,photocopied journal articles at the print shop,4.00
+2026-01-07,bought a used reference book from a senior,25.00
+2026-01-08,bought fried rice and fried egg for dinner,6.50
+2026-01-08,bought a pack of highlighters and sticky notes,7.90
+2026-01-09,coffee at ZUS Coffee near campus,6.90
+2026-01-09,bought a loaf of Gardenia bread,2.80
+2026-01-10,petrol for my secondhand Myvi,30.00
+2026-01-10,bought a box of Milo powder,9.90
+2026-01-11,bought Mcdonald's fried chicken for lunch,11.90
+2026-01-11,bought a 5kg bag of rice,14.50
+2026-01-12,paid for laundry at self service (10kg),8.00
+2026-01-12,bought curry flavored Maggi noodles,3.00
+2026-01-13,lunch at Thai restaurant near campus (tom yum + rice),7.00
+2026-01-13,bought a packet of instant coffee,2.50
+2026-01-14,bought a new power bank from Shopee,39.90
+2026-01-14,iced tea and toasted bread,4.00
+2026-01-15,paid for university parking fee for the semester,50.00
+2026-01-15,bought a bag of apples and oranges,8.00
+2026-01-16,bought noodle soup at the night market,5.00
+2026-01-16,bought a can of sardines,5.50
+2026-01-17,topped up prepaid phone plan (Hotlink),35.00
+2026-01-17,bought a pack of pens and an eraser,4.50
+2026-01-18,ate KFC with friends (snack plate),12.90
+2026-01-18,bought a bag of frozen vegetables,6.00
+2026-01-19,bought shaved ice with durian after class,5.50
+2026-01-19,bought a bottle of cooking oil,7.50
+2026-01-20,photocopied past year exam papers,6.00
+2026-01-20,bought a new mouse for my laptop,25.00
+2026-01-21,lunch at Chinese economy rice shop,7.00
+2026-01-21,bought a packet of Marie biscuits,3.50
+2026-01-22,paid electricity bill for shared house,45.00
+2026-01-22,bought a bag of potatoes,3.50
+2026-01-23,bought a stuffed bread roll at a stall near the bus stop,6.00
+2026-01-23,bought a box of tea bags,5.90
+2026-01-24,bought a used calculator from Facebook group,35.00
+2026-01-24,teh tarik and fried noodles at mamak,8.00
+2026-01-25,petrol for Myvi,30.00
+2026-01-25,bought a pack of instant porridge,5.50

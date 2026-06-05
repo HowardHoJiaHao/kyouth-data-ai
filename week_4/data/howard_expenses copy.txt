@@ -1,0 +1,714 @@
+Date,Description,Price
+2026-01-02,bought nasi lemak for breakfast,2.50
+2026-01-02,bought carrots at Giant for weekly cooking,3.00
+2026-01-03,teh tarik and roti canai at mamak,4.50
+2026-01-03,bought a bag of onions,2.50
+2026-01-04,topped up Touch n Go for LRT,20.00
+2026-01-04,bought Maggi noodles and eggs at KK Mart,5.50
+2026-01-05,paid room rent for January (master bedroom, shared house),400.00
+2026-01-05,bought canned tuna and crackers,8.90
+2026-01-06,lunch at campus cafeteria (rice + chicken + veggies),5.00
+2026-01-06,bought iced Milo and curry puff,3.50
+2026-01-07,photocopied journal articles at the print shop,4.00
+2026-01-07,bought a used reference book from a senior,25.00
+2026-01-08,bought fried rice and fried egg for dinner,6.50
+2026-01-08,bought a pack of highlighters and sticky notes,7.90
+2026-01-09,coffee at ZUS Coffee near campus,6.90
+2026-01-09,bought a loaf of Gardenia bread,2.80
+2026-01-10,petrol for my secondhand Myvi,30.00
+2026-01-10,bought a box of Milo powder,9.90
+2026-01-11,bought Mcdonald's fried chicken for lunch,11.90
+2026-01-11,bought a 5kg bag of rice,14.50
+2026-01-12,paid for laundry at self service (10kg),8.00
+2026-01-12,bought curry flavored Maggi noodles,3.00
+2026-01-13,lunch at Thai restaurant near campus (tom yum + rice),7.00
+2026-01-13,bought a packet of instant coffee,2.50
+2026-01-14,bought a new power bank from Shopee,39.90
+2026-01-14,iced tea and toasted bread,4.00
+2026-01-15,paid for university parking fee for the semester,50.00
+2026-01-15,bought a bag of apples and oranges,8.00
+2026-01-16,bought noodle soup at the night market,5.00
+2026-01-16,bought a can of sardines,5.50
+2026-01-17,topped up prepaid phone plan (Hotlink),35.00
+2026-01-17,bought a pack of pens and an eraser,4.50
+2026-01-18,ate KFC with friends (snack plate),12.90
+2026-01-18,bought a bag of frozen vegetables,6.00
+2026-01-19,bought shaved ice with durian after class,5.50
+2026-01-19,bought a bottle of cooking oil,7.50
+2026-01-20,photocopied past year exam papers,6.00
+2026-01-20,bought a new mouse for my laptop,25.00
+2026-01-21,lunch at Chinese economy rice shop,7.00
+2026-01-21,bought a packet of Marie biscuits,3.50
+2026-01-22,paid electricity bill for shared house,45.00
+2026-01-22,bought a bag of potatoes,3.50
+2026-01-23,bought a stuffed bread roll at a stall near the bus stop,6.00
+2026-01-23,bought a box of tea bags,5.90
+2026-01-24,bought a used calculator from Facebook group,35.00
+2026-01-24,teh tarik and fried noodles at mamak,8.00
+2026-01-25,petrol for Myvi,30.00
+2026-01-25,bought a pack of instant porridge,5.50
+2026-01-26,bought fried fish crackers at the night market,4.00
+2026-01-26,bought a bottle of soy sauce,4.50
+2026-01-27,paid for printer ink refill at the computer shop,22.00
+2026-01-27,bought a bag of frozen chicken wings,12.00
+2026-01-28,lunch at Subway (student promo),10.90
+2026-01-28,bought a box of tissues,3.00
+2026-01-29,bought a secondhand textbook from a junior,30.00
+2026-01-29,bought fried noodles at mamak for dinner,7.00
+2026-01-30,paid water bill for shared house,25.00
+2026-01-30,bought a pack of bottled green tea,6.00
+2026-01-31,bought peanut pancakes at the night market,3.50
+2026-01-31,bought a bag of sugar,2.80
+2026-02-01,paid room rent for February,400.00
+2026-02-01,bought a bag of carrots,2.80
+2026-02-02,lunch at mixed rice shop (fish + veggies),6.00
+2026-02-02,bought sour plum flavored Maggi noodles,4.50
+2026-02-03,iced tea and fried bananas at mamak,5.00
+2026-02-03,bought a bottle of dish soap,4.00
+2026-02-04,topped up LRT card,20.00
+2026-02-04,bought a bag of onions and garlic,4.50
+2026-02-05,paid for online assignment submission fee,5.00
+2026-02-05,bought nasi lemak for breakfast,2.50
+2026-02-06,bought a pack of A4 paper,9.90
+2026-02-06,coffee at Starbucks (treat myself),14.50
+2026-02-07,bought a used lab coat from a senior,20.00
+2026-02-07,ate Pizza Hut with friends (shared),15.00
+2026-02-08,bought roti canai and dal curry,3.80
+2026-02-08,bought a bag of frozen mixed vegetables,5.50
+2026-02-09,petrol for Myvi,30.00
+2026-02-09,bought a can of Nescafe powder,9.90
+2026-02-10,laundry at self service,8.00
+2026-02-10,bought a box of dates for energy,12.00
+2026-02-11,lunch at western food shop (chicken chop),12.00
+2026-02-11,bought a padlock for gym locker,7.00
+2026-02-12,bought a new USB cable,8.00
+2026-02-12,teh tarik and thosai at mamak,4.50
+2026-02-13,paid for printing thesis draft,12.00
+2026-02-13,bought a jar of peanut butter,8.50
+2026-02-14,bought grilled chicken at the night market,6.00
+2026-02-14,bought a 10kg bag of rice,26.50
+2026-02-15,topped up prepaid phone plan,35.00
+2026-02-15,bought a packet of cream crackers,3.50
+2026-02-16,paid electricity bill,48.00
+2026-02-16,bought a bag of frozen french fries,5.50
+2026-02-17,bought bone soup and bread,12.00
+2026-02-17,bought a bottle of ketchup,4.50
+2026-02-18,lunch at Vietnamese shop (pho),10.00
+2026-02-18,bought a pack of highlighters,6.50
+2026-02-19,bought a used novel from Big Bad Wolf sale,8.00
+2026-02-19,iced tea and steamed rice cakes,3.00
+2026-02-20,petrol for Myvi,30.00
+2026-02-20,bought a bottle of shampoo,9.90
+2026-02-21,bought stuffed pancake at mamak,7.00
+2026-02-21,bought a bag of frozen cuttlefish,8.00
+2026-02-22,paid for a group project binding,9.00
+2026-02-22,bought a box of green tea bags,5.90
+2026-02-23,ate Texas Chicken (student meal),10.90
+2026-02-23,bought a pack of Post it notes,4.00
+2026-02-24,bought a secondhand desk lamp from Carousell,18.00
+2026-02-24,bought fried dough sticks at roadside stall,2.00
+2026-02-25,laundry,8.00
+2026-02-25,bought a bottle of chili sauce,4.50
+2026-02-26,paid water bill,25.00
+2026-02-26,bought a bag of onions,2.80
+2026-02-27,lunch at Japanese shop (bento),13.50
+2026-02-27,bought peanut pancakes,3.00
+2026-02-28,bought a pack of rubber bands and paper clips,3.50
+2026-03-01,paid room rent for March,400.00
+2026-03-01,bought a bag of carrots,2.90
+2026-03-02,teh tarik and roti canai at mamak,4.50
+2026-03-02,bought Maggi noodles,3.00
+2026-03-03,lunch at campus cafeteria (rice + fish + soup),5.50
+2026-03-03,bought a bottle of 100 Plus,2.50
+2026-03-04,topped up Touch n Go,20.00
+2026-03-04,bought a bag of potatoes,3.80
+2026-03-05,paid for an online quiz subscription,9.90
+2026-03-05,bought nasi lemak with fried chicken,5.00
+2026-03-06,bought a new folder and dividers,6.50
+2026-03-06,coffee at Gigi Coffee,8.90
+2026-03-07,bought a used dictionary,15.00
+2026-03-07,ate Domino's pizza with housemates (share),18.00
+2026-03-08,bought thosai and dhal,3.50
+2026-03-08,bought a bag of frozen spinach,5.00
+2026-03-09,petrol for Myvi,30.00
+2026-03-09,bought a box of instant coffee,11.90
+2026-03-10,laundry,8.00
+2026-03-10,bought a pack of energy bars,10.00
+2026-03-11,lunch at Malay stall (nasi kerabu),7.00
+2026-03-11,bought a new phone screen protector,12.00
+2026-03-12,bought a secondhand wall fan from a senior,35.00
+2026-03-12,teh o and kuih lapis,3.00
+2026-03-13,paid for printing lab report,6.00
+2026-03-13,bought a jar of strawberry jam,6.50
+2026-03-14,bought otak otak at night market,5.00
+2026-03-14,bought a bag of flour,3.50
+2026-03-15,topped up prepaid phone,35.00
+2026-03-15,bought a pack of digestive biscuits,4.50
+2026-03-16,paid electricity bill,50.00
+2026-03-16,bought a bag of frozen prawns,12.00
+2026-03-17,bought chicken rice at hawker stall,6.00
+2026-03-17,bought a bottle of oyster sauce,5.00
+2026-03-18,lunch at Korean shop (bibimbap),14.00
+2026-03-18,bought a pack of colored pens,7.00
+2026-03-19,bought a used manga from Carousell,6.00
+2026-03-19,teh tarik and curry puff,3.50
+2026-03-20,petrol for Myvi,30.00
+2026-03-20,bought a bottle of conditioner,8.90
+2026-03-21,bought murtabak at mamak,7.00
+2026-03-21,bought a bag of frozen fish fillets,10.00
+2026-03-22,paid for a library fine,3.00
+2026-03-22,bought a box of chamomile tea,6.50
+2026-03-23,ate Burger King with friends (whopper meal),15.90
+2026-03-23,bought a pack of index cards,3.50
+2026-03-24,bought a cheap secondhand kettle,20.00
+2026-03-24,bought kuih koci at pasar malam,2.50
+2026-03-25,laundry,8.00
+2026-03-25,bought a bottle of soy sauce (refill),4.00
+2026-03-26,paid water bill,25.00
+2026-03-26,bought a bag of onions and garlic,4.50
+2026-03-27,lunch at Indonesian shop (ayam penyet),9.00
+2026-03-27,bought a slice of cake at campus cafe,5.50
+2026-03-28,bought a new pencil case,10.00
+2026-03-28,iced Milo and karipap,3.50
+2026-03-29,paid for printing resume copies,4.00
+2026-03-29,bought a bag of frozen cuttlefish balls,7.50
+2026-03-30,bought nasi lemak with rendang,6.00
+2026-03-30,bought a bottle of dish soap,4.00
+2026-03-31,topped up LRT card,20.00
+2026-03-31,bought a box of tissue,3.50
+2026-04-01,paid room rent for April,400.00
+2026-04-01,bought a bag of carrots,3.00
+2026-04-02,teh tarik and roti canai at mamak,4.50
+2026-04-02,bought Maggi noodles and eggs,5.50
+2026-04-03,lunch at campus cafeteria (rice + squid + veggies),6.00
+2026-04-03,bought a bottle of mineral water,1.50
+2026-04-04,topped up Touch n Go,20.00
+2026-04-04,bought a bag of apples,6.00
+2026-04-05,paid for an online exam proctoring fee,25.00
+2026-04-05,bought nasi lemak bungkus,2.50
+2026-04-06,bought a new binder and paper,8.50
+2026-04-06,coffee at Dunkin Donuts,7.50
+2026-04-07,bought a used textbook from a graduating student,28.00
+2026-04-07,ate KFC with friends (dinner plate),14.90
+2026-04-08,bought roti canai and sambal,4.00
+2026-04-08,bought a bag of frozen mixed vegetables,5.50
+2026-04-09,petrol for Myvi,30.00
+2026-04-09,bought a can of Nescafe Gold,14.90
+2026-04-10,laundry,8.00
+2026-04-10,bought a box of granola,11.00
+2026-04-11,lunch at Thai shop (green curry + rice),9.00
+2026-04-11,bought a new laptop sleeve,25.00
+2026-04-12,bought a secondhand study table from Facebook,50.00
+2026-04-12,teh o and pisang goreng,4.00
+2026-04-13,paid for printing assignment,5.00
+2026-04-13,bought a jar of Nutella,11.90
+2026-04-14,bought popiah at night market,4.00
+2026-04-14,bought a bag of rice (5kg),14.50
+2026-04-15,topped up prepaid phone plan,35.00
+2026-04-15,bought a packet of salt crackers,3.00
+2026-04-16,paid electricity bill,52.00
+2026-04-16,bought a bag of frozen chicken nuggets,9.00
+2026-04-17,bought claypot rice at hawker stall,7.50
+2026-04-17,bought a bottle of chili oil,6.00
+2026-04-18,lunch at Vietnamese shop (spring rolls + rice),11.00
+2026-04-18,bought a pack of markers,8.50
+2026-04-19,bought a used novel from Shopee,7.00
+2026-04-19,teh tarik and samosa,4.00
+2026-04-20,petrol for Myvi,30.00
+2026-04-20,bought a bottle of body wash,9.90
+2026-04-21,bought cheese naan at mamak,6.00
+2026-04-21,bought a bag of frozen squid rings,8.50
+2026-04-22,paid for a group project printing,10.00
+2026-04-22,bought a box of jasmine tea,6.90
+2026-04-23,ate Pizza Hut delivery with housemates (share),20.00
+2026-04-23,bought a pack of sticky labels,4.00
+2026-04-24,bought a cheap secondhand rice cooker,30.00
+2026-04-24,bought kuih lapis at pasar malam,3.00
+2026-04-25,laundry,8.00
+2026-04-25,bought a bottle of sweet soy sauce,5.00
+2026-04-26,paid water bill,25.00
+2026-04-26,bought a bag of potatoes,3.50
+2026-04-27,lunch at Japanese shop (teriyaki chicken),14.00
+2026-04-27,bought a donut at campus cafe,3.50
+2026-04-28,bought a new notebook,5.00
+2026-04-28,iced lemon tea and karipap,3.50
+2026-04-29,paid for a CV printing service,6.00
+2026-04-29,bought a bag of frozen hash browns,6.00
+2026-04-30,bought nasi lemak with sambal sotong,7.00
+2026-04-30,bought a bottle of floor cleaner,5.50
+2026-05-01,paid room rent for May,400.00
+2026-05-01,bought a bag of carrots,2.80
+2026-05-02,teh tarik and roti canai at mamak,4.50
+2026-05-02,bought Maggi Asam Laksa,4.50
+2026-05-03,lunch at campus cafeteria (rice + beef + veggies),6.50
+2026-05-03,bought a bottle of Ribena,5.00
+2026-05-04,topped up LRT card,20.00
+2026-05-04,bought a bag of oranges,7.00
+2026-05-05,paid for a summer course registration fee,50.00
+2026-05-05,bought nasi lemak with egg,3.00
+2026-05-06,bought a pack of file dividers,7.50
+2026-05-06,coffee at The Coffee Bean,11.90
+2026-05-07,bought a used engineering handbook,35.00
+2026-05-07,ate McDonalds with friends (share),16.00
+2026-05-08,bought thosai and dhal,3.50
+2026-05-08,bought a bag of frozen broccoli,6.00
+2026-05-09,petrol for Myvi,30.00
+2026-05-09,bought a can of instant coffee,10.90
+2026-05-10,laundry,8.00
+2026-05-10,bought a box of muesli,12.50
+2026-05-11,lunch at Malay stall (nasi dagang),8.00
+2026-05-11,bought a new mouse pad,8.00
+2026-05-12,bought a secondhand bookshelf from a senior,45.00
+2026-05-12,iced tea and curry puff,3.50
+2026-05-13,paid for printing final report,15.00
+2026-05-13,bought a jar of honey,12.00
+2026-05-14,bought otak otak at night market,5.00
+2026-05-14,bought a 10kg bag of rice,26.50
+2026-05-15,topped up prepaid phone,35.00
+2026-05-15,bought a packet of oreos,4.50
+2026-05-16,paid electricity bill,55.00
+2026-05-16,bought a bag of frozen chicken breast,13.00
+2026-05-17,bought Hainanese chicken rice,7.00
+2026-05-17,bought a bottle of sesame oil,7.50
+2026-05-18,lunch at Korean shop (kimchi stew + rice),15.00
+2026-05-18,bought a pack of gel pens,9.00
+2026-05-19,bought a used puzzle from Carousell,5.00
+2026-05-19,teh tarik and roti telur,5.50
+2026-05-20,petrol for Myvi,30.00
+2026-05-20,bought a new towel,12.00
+2026-05-21,bought murtabak ayam at mamak,8.00
+2026-05-21,bought a bag of frozen mixed seafood,11.00
+2026-05-22,paid for a library membership renewal,10.00
+2026-05-22,bought a box of peppermint tea,6.50
+2026-05-23,ate Subway with a friend (share),18.00
+2026-05-23,bought a pack of binder clips,4.50
+2026-05-24,bought a cheap secondhand floor lamp,22.00
+2026-05-24,bought kuih talam at pasar malam,3.00
+2026-05-25,laundry,8.00
+2026-05-25,bought a bottle of vinegar,3.50
+2026-05-26,paid water bill,25.00
+2026-05-26,bought a bag of onions,2.80
+2026-05-27,lunch at Indonesian shop (soto ayam),8.00
+2026-05-27,bought a slice of cheesecake,7.00
+2026-05-28,bought a new set of pencils,6.00
+2026-05-28,iced Milo and karipap,3.50
+2026-05-29,paid for a passport photo for internship application,10.00
+2026-05-29,bought a bag of frozen spring rolls,6.50
+2026-05-30,bought nasi lemak with fried chicken,6.50
+2026-05-30,bought a bottle of laundry detergent,8.50
+2026-05-31,topped up LRT card,20.00
+2026-05-31,bought a box of tissues,3.50
+2026-06-01,paid room rent for June,400.00
+2026-06-01,bought a bag of carrots,2.90
+2026-06-02,teh tarik and roti canai at mamak,4.50
+2026-06-02,bought Maggi noodles and a can of sardines,8.50
+2026-06-03,lunch at campus cafeteria (rice + prawn + veggies),7.00
+2026-06-03,bought a bottle of coconut water,3.00
+2026-06-04,topped up Touch n Go,20.00
+2026-06-04,bought a bag of apples and oranges,8.50
+2026-06-05,paid for a summer workshop fee,40.00
+2026-06-05,bought nasi lemak bungkus,2.50
+2026-06-06,bought a new planner for next semester,15.00
+2026-06-06,coffee at Starbucks (final treat),14.50
+2026-06-07,bought a used reference book from a junior,22.00
+2026-06-07,ate Pizza Hut with housemates (share),16.00
+2026-06-08,bought roti canai and sambal,4.00
+2026-06-08,bought a bag of frozen vegetables,5.50
+2026-06-09,petrol for Myvi,30.00
+2026-06-09,bought a pack of 3 in 1 coffee,8.90
+2026-06-10,laundry,8.00
+2026-06-10,bought a box of protein bars,15.00
+2026-06-11,lunch at Thai shop (pad thai),9.00
+2026-06-11,bought a new phone case,15.00
+2026-06-12,bought a secondhand fan from a senior,30.00
+2026-06-12,teh o and kuih koci,3.00
+2026-06-13,paid for printing internship report,12.00
+2026-06-13,bought a jar of peanut butter,8.50
+2026-06-14,bought lekor at night market,4.00
+2026-06-14,bought a bag of flour,3.50
+2026-06-15,topped up prepaid phone plan,35.00
+2026-06-15,bought a pack of crackers,3.50
+2026-06-16,paid electricity bill,48.00
+2026-06-16,bought a bag of frozen fish fingers,8.00
+2026-06-17,bought wan tan mee at hawker stall,6.50
+2026-06-17,bought a bottle of teriyaki sauce,6.00
+2026-06-18,lunch at Japanese shop (bento box),15.00
+2026-06-18,bought a pack of colored markers,7.50
+2026-06-19,bought a used game from Carousell,10.00
+2026-06-19,teh tarik and samosa,4.00
+2026-06-20,petrol for Myvi,30.00
+2026-06-20,bought a new bedsheet,18.00
+2026-06-21,bought cheese naan at mamak,6.50
+2026-06-21,bought a bag of frozen cuttlefish balls,7.50
+2026-06-22,paid for a group photo printing,8.00
+2026-06-22,bought a box of earl grey tea,6.90
+2026-06-23,ate Texas Chicken with friends (share),20.00
+2026-06-23,bought a pack of sticky tabs,4.00
+2026-06-24,bought a cheap secondhand kettle,20.00
+2026-06-24,bought kuih seri muka at pasar malam,3.50
+2026-06-25,laundry,8.00
+2026-06-25,bought a bottle of fish sauce,5.00
+2026-06-26,paid water bill,25.00
+2026-06-26,bought a bag of potatoes,3.50
+2026-06-27,lunch at Vietnamese shop (pho),11.00
+2026-06-27,bought a donut and coffee at campus cafe,6.00
+2026-06-28,bought a new notebook and pen set,7.00
+2026-06-28,iced lemon tea and karipap,3.50
+2026-06-29,paid for a bus ticket to go home for semester break,35.00
+2026-06-29,bought a bag of frozen french fries,5.50
+2026-06-30,bought nasi lemak with sambal kerang,8.00
+2026-06-30,bought a bottle of bleach for cleaning,4.50
+Date,Description,Price
+2026-01-02,bought a packet of instant noodles,2.80
+2026-01-03,paid for a can of 100 Plus,2.50
+2026-01-04,bought a bag of frozen mixed vegetables,5.50
+2026-01-05,topped up GrabPay for food delivery,30.00
+2026-01-06,bought a loaf of wholemeal bread,3.50
+2026-01-07,paid for a shared taxi to campus,6.00
+2026-01-08,bought a jar of pasta sauce,6.90
+2026-01-09,lunch at kedai mamak (mee goreng),6.00
+2026-01-10,bought a bottle of shampoo sachet,2.00
+2026-01-11,paid for online journal access,15.00
+2026-01-12,bought a pack of chewing gum,1.50
+2026-01-13,bought a secondhand water filter,25.00
+2026-01-14,teh tarik at mamak,1.80
+2026-01-15,bought a bag of frozen french fries,5.00
+2026-01-16,paid for a printing top up,3.00
+2026-01-17,bought a bottle of vitamin C,12.00
+2026-01-18,lunch at kedai nasi kandar (ayam + sayur),8.00
+2026-01-19,bought a box of Band-Aids,4.50
+2026-01-20,bought a pack of facial tissue,2.50
+2026-01-21,paid for a bus ride to the mall,2.00
+2026-01-22,bought a bag of frozen chicken nuggets,8.50
+2026-01-23,bought a can of tuna flakes,4.90
+2026-01-24,iced coffee at roadside stall,2.50
+2026-01-25,paid for a library photocopy card top up,5.00
+2026-01-26,bought a new toothbrush,3.50
+2026-01-27,bought a pack of stationery,6.00
+2026-01-28,lunch at kedai tomyam (seafood tomyam),9.00
+2026-01-29,bought a bag of frozen cuttlefish balls,6.50
+2026-01-30,paid for a Grab ride to friend's house,8.00
+2026-01-31,bought a jar of pickles,5.50
+2026-02-01,bought a box of cereal,7.90
+2026-02-02,paid for a can of sardines,4.50
+2026-02-03,bought a bag of frozen spinach,5.00
+2026-02-04,topped up water dispenser card,10.00
+2026-02-05,bought a packet of milo powder refill,8.50
+2026-02-06,lunch at kedai ayam penyet (rice + chicken),8.50
+2026-02-07,bought a bottle of hand soap,3.90
+2026-02-08,paid for a parking coupon,1.50
+2026-02-09,bought a bag of frozen hash browns,5.50
+2026-02-10,bought a can of baked beans,3.80
+2026-02-11,teh o ais at mamak,1.50
+2026-02-12,paid for a group study room rental,10.00
+2026-02-13,bought a packet of instant porridge,5.00
+2026-02-14,bought a bottle of floor cleaner,5.50
+2026-02-15,lunch at kedai western (fish and chips),12.00
+2026-02-16,bought a pack of rubber bands,1.50
+2026-02-17,paid for a bus pass top up,15.00
+2026-02-18,bought a bag of frozen spring rolls,6.00
+2026-02-19,bought a jar of mayonnaise,6.90
+2026-02-20,iced milo at mamak,2.50
+2026-02-21,paid for a printer ink cartridge,25.00
+2026-02-22,bought a packet of tissue paper,1.80
+2026-02-23,bought a bag of frozen samosas,7.00
+2026-02-24,lunch at kedai Thai (green curry),9.50
+2026-02-25,bought a bottle of mouthwash,7.90
+2026-02-26,paid for a Grab delivery fee,4.50
+2026-02-27,bought a pack of batteries,6.50
+2026-02-28,bought a box of tea bags,5.90
+2026-03-01,bought a bag of onions,2.50
+2026-03-02,paid for a can of energy drink,3.50
+2026-03-03,bought a bag of frozen mixed seafood,10.00
+2026-03-04,topped up LRT card,20.00
+2026-03-05,bought a loaf of raisin bread,4.50
+2026-03-06,lunch at kedai nasi lemak (rice + sambal + egg),5.00
+2026-03-07,bought a bottle of dish soap refill,4.00
+2026-03-08,paid for a taxi to the library,5.00
+2026-03-09,bought a bag of frozen peas,3.50
+2026-03-10,bought a can of corned beef,7.50
+2026-03-11,teh tarik kurang manis,1.80
+2026-03-12,paid for a printing quota top up,4.00
+2026-03-13,bought a packet of instant coffee sachets,6.00
+2026-03-14,bought a bottle of bleach,3.50
+2026-03-15,lunch at kedai Indian (banana leaf rice),8.00
+2026-03-16,bought a pack of sticky notes,3.50
+2026-03-17,paid for a bus ride to campus,1.80
+2026-03-18,bought a bag of frozen wontons,6.50
+2026-03-19,bought a jar of curry paste,5.50
+2026-03-20,iced lemon tea at mamak,2.00
+2026-03-21,paid for a new mouse pad,8.00
+2026-03-22,bought a packet of sugar,2.80
+2026-03-23,bought a bag of frozen french beans,4.00
+2026-03-24,lunch at kedai Korean (kimchi jjigae),14.00
+2026-03-25,bought a bottle of body lotion,9.90
+2026-03-26,paid for a Grab ride to the station,7.00
+2026-03-27,bought a pack of paper clips,2.00
+2026-03-28,bought a box of biscuits,4.90
+2026-03-29,bought a bag of frozen breaded prawns,8.00
+2026-03-30,paid for a can of soda,2.00
+2026-03-31,bought a bottle of cooking oil,7.00
+2026-04-01,bought a bag of carrots,2.80
+2026-04-02,paid for a pack of instant noodles,3.00
+2026-04-03,bought a bag of frozen mushrooms,5.50
+2026-04-04,topped up prepaid phone,35.00
+2026-04-05,bought a loaf of white bread,2.80
+2026-04-06,lunch at kedai mamak (roti telur),4.50
+2026-04-07,bought a bottle of laundry detergent,8.50
+2026-04-08,paid for a parking fee at uni,2.00
+2026-04-09,bought a bag of frozen corn,3.50
+2026-04-10,bought a can of tomato sauce,3.80
+2026-04-11,teh o panas at mamak,1.50
+2026-04-12,paid for a study room booking,8.00
+2026-04-13,bought a packet of oatmeal,5.50
+2026-04-14,bought a bottle of window cleaner,4.50
+2026-04-15,lunch at kedai Chinese (claypot rice),9.00
+2026-04-16,bought a pack of envelopes,3.50
+2026-04-17,paid for a bus ticket to visit friend,4.00
+2026-04-18,bought a bag of frozen dumplings,7.00
+2026-04-19,bought a jar of sambal belacan,5.00
+2026-04-20,iced coffee at mamak,2.50
+2026-04-21,paid for a printer rental,6.00
+2026-04-22,bought a packet of crackers,3.50
+2026-04-23,bought a bag of frozen okra,4.50
+2026-04-24,lunch at kedai Vietnamese (spring rolls),10.00
+2026-04-25,bought a bottle of facial cleanser,11.90
+2026-04-26,paid for a Grab delivery (food),5.00
+2026-04-27,bought a pack of binder clips,3.00
+2026-04-28,bought a box of granola bars,8.50
+2026-04-29,bought a bag of frozen calamari rings,9.00
+2026-04-30,paid for a can of sparkling water,2.50
+2026-05-01,bought a bottle of vinegar,3.50
+2026-05-02,paid for a pack of instant bubur,4.50
+2026-05-03,bought a bag of frozen broccoli,5.00
+2026-05-04,topped up LRT card,15.00
+2026-05-05,bought a loaf of multigrain bread,4.00
+2026-05-06,lunch at kedai nasi campur (ikan + telur),6.50
+2026-05-07,bought a bottle of shampoo,8.90
+2026-05-08,paid for a taxi to the hospital (clinic visit),10.00
+2026-05-09,bought a bag of frozen carrot cubes,3.00
+2026-05-10,bought a can of chickpeas,3.50
+2026-05-11,teh tarik at mamak,1.80
+2026-05-12,paid for a printing project,7.00
+2026-05-13,bought a packet of honey,7.50
+2026-05-14,bought a bottle of mosquito repellent,6.00
+2026-05-15,lunch at kedai Thai (tom yum soup),8.50
+2026-05-16,bought a pack of paper plates,4.50
+2026-05-17,paid for a bus ride to the library,1.80
+2026-05-18,bought a bag of frozen mixed peppers,4.50
+2026-05-19,bought a jar of nutella mini,5.90
+2026-05-20,iced milo at mamak,2.50
+2026-05-21,paid for a new USB hub,15.00
+2026-05-22,bought a packet of salt,1.50
+2026-05-23,bought a bag of frozen cauliflower,4.50
+2026-05-24,lunch at kedai Korean (bibimbap),13.00
+2026-05-25,bought a bottle of toner (skincare),12.00
+2026-05-26,paid for a Grab ride to the mall,9.00
+2026-05-27,bought a pack of sticky labels,3.00
+2026-05-28,bought a box of fruit juice,5.50
+2026-05-29,bought a bag of frozen breaded fish,8.50
+2026-05-30,paid for a can of iced coffee,3.00
+2026-05-31,bought a bottle of soy sauce,4.50
+2026-06-01,bought a bag of potatoes,3.50
+2026-06-02,paid for a pack of instant noodles cup,3.50
+2026-06-03,bought a bag of frozen spinach,5.00
+2026-06-04,topped up prepaid phone,35.00
+2026-06-05,bought a loaf of sourdough bread,6.50
+2026-06-06,lunch at kedai mamak (maggi goreng),6.00
+2026-06-07,bought a bottle of hand sanitizer,4.90
+2026-06-08,paid for a parking ticket (fine),15.00
+2026-06-09,bought a bag of frozen peas and carrots,3.50
+2026-06-10,bought a can of baked beans,3.80
+2026-06-11,teh o ais at mamak,1.50
+2026-06-12,paid for a group study room,10.00
+2026-06-13,bought a packet of instant soup,4.50
+2026-06-14,bought a bottle of air freshener,5.50
+2026-06-15,lunch at kedai ayam goreng (fried chicken rice),7.50
+2026-06-16,bought a pack of labels,2.50
+2026-06-17,paid for a bus pass top up,15.00
+2026-06-18,bought a bag of frozen spring rolls,6.00
+2026-06-19,bought a jar of pasta sauce,6.90
+2026-06-20,iced coffee at mamak,2.50
+2026-06-21,paid for a printer ink refill,22.00
+2026-06-22,bought a packet of tissue,1.80
+2026-06-23,bought a bag of frozen onion rings,5.50
+2026-06-24,lunch at kedai Indonesian (soto ayam),8.00
+2026-06-25,bought a bottle of conditioner,9.90
+2026-06-26,paid for a Grab delivery (groceries),5.00
+2026-06-27,bought a pack of rechargeable batteries,18.00
+2026-06-28,bought a box of cereal bars,7.50
+2026-06-29,bought a bag of frozen prawn fritters,7.50
+2026-06-30,paid for a can of sparkling juice,3.00
+2026-01-03,bought a packet of curry powder,3.50
+2026-01-04,paid for a bowl of cendol,3.00
+2026-01-05,bought a bag of frozen chicken liver,4.50
+2026-01-06,topped up Touch n Go,20.00
+2026-01-07,bought a box of cereal,7.90
+2026-01-08,lunch at kedai nasi kerabu,7.00
+2026-01-09,bought a bottle of lotion,8.50
+2026-01-10,paid for a bus ride to the pharmacy,1.80
+2026-01-11,bought a bag of frozen mixed vegetables,5.50
+2026-01-12,bought a can of luncheon meat,6.50
+2026-01-13,teh tarik at mamak,1.80
+2026-01-14,paid for a printing card,5.00
+2026-01-15,bought a packet of instant oats,4.50
+2026-01-16,bought a bottle of cleaning spray,5.00
+2026-01-17,lunch at kedai nasi lemak (sambal sotong),7.50
+2026-01-18,bought a pack of paper straws,3.00
+2026-01-19,paid for a Grab ride to the campus,6.50
+2026-01-20,bought a bag of frozen corn kernels,3.50
+2026-01-21,bought a jar of cheese spread,7.50
+2026-01-22,iced lemon tea at mamak,2.00
+2026-01-23,paid for a new laptop charger,35.00
+2026-01-24,bought a packet of sugar,2.80
+2026-01-25,bought a bag of frozen cuttlefish,7.00
+2026-01-26,lunch at kedai tomyam (mixed seafood),9.50
+2026-01-27,bought a bottle of face wash,10.90
+2026-01-28,paid for a parking coupon booklet,5.00
+2026-01-29,bought a pack of paper clips,2.00
+2026-01-30,bought a box of crackers,4.90
+2026-01-31,bought a bag of frozen fish balls,5.50
+2026-02-02,paid for a can of 100 Plus,2.50
+2026-02-03,bought a bag of frozen okra,4.50
+2026-02-04,topped up GrabPay,25.00
+2026-02-05,bought a loaf of wholemeal bread,3.50
+2026-02-06,lunch at kedai mamak (roti canai + dal),4.00
+2026-02-07,bought a bottle of dish soap,4.00
+2026-02-08,paid for a taxi to the supermarket,6.00
+2026-02-09,bought a bag of frozen mixed peppers,4.50
+2026-02-10,bought a can of sardines,4.50
+2026-02-11,teh o at mamak,1.50
+2026-02-12,paid for a photocopy top up,3.00
+2026-02-13,bought a packet of instant coffee,6.00
+2026-02-14,bought a bottle of floor cleaner,5.50
+2026-02-15,lunch at kedai nasi kandar (kambing),10.00
+2026-02-16,bought a pack of rubber bands,1.50
+2026-02-17,paid for a bus ride to the mall,2.00
+2026-02-18,bought a bag of frozen wontons,6.50
+2026-02-19,bought a jar of mayonnaise,6.90
+2026-02-20,iced milo at mamak,2.50
+2026-02-21,paid for a printer ink cartridge,25.00
+2026-02-22,bought a packet of tissue paper,1.80
+2026-02-23,bought a bag of frozen samosas,7.00
+2026-02-24,lunch at kedai Thai (green curry),9.50
+2026-02-25,bought a bottle of mouthwash,7.90
+2026-02-26,paid for a Grab delivery fee,4.50
+2026-02-27,bought a pack of batteries,6.50
+2026-02-28,bought a box of tea bags,5.90
+2026-03-02,bought a bag of frozen spring rolls,6.00
+2026-03-03,paid for a can of energy drink,3.50
+2026-03-04,topped up LRT card,20.00
+2026-03-05,bought a loaf of raisin bread,4.50
+2026-03-06,lunch at kedai nasi lemak (rice + sambal + egg),5.00
+2026-03-07,bought a bottle of dish soap refill,4.00
+2026-03-08,paid for a taxi to the library,5.00
+2026-03-09,bought a bag of frozen peas,3.50
+2026-03-10,bought a can of corned beef,7.50
+2026-03-11,teh tarik kurang manis,1.80
+2026-03-12,paid for a printing quota top up,4.00
+2026-03-13,bought a packet of instant coffee sachets,6.00
+2026-03-14,bought a bottle of bleach,3.50
+2026-03-15,lunch at kedai Indian (banana leaf rice),8.00
+2026-03-16,bought a pack of sticky notes,3.50
+2026-03-17,paid for a bus ride to campus,1.80
+2026-03-18,bought a bag of frozen wontons,6.50
+2026-03-19,bought a jar of curry paste,5.50
+2026-03-20,iced lemon tea at mamak,2.00
+2026-03-21,paid for a new mouse pad,8.00
+2026-03-22,bought a packet of sugar,2.80
+2026-03-23,bought a bag of frozen french beans,4.00
+2026-03-24,lunch at kedai Korean (kimchi jjigae),14.00
+2026-03-25,bought a bottle of body lotion,9.90
+2026-03-26,paid for a Grab ride to the station,7.00
+2026-03-27,bought a pack of paper clips,2.00
+2026-03-28,bought a box of biscuits,4.90
+2026-03-29,bought a bag of frozen breaded prawns,8.00
+2026-03-30,paid for a can of soda,2.00
+2026-03-31,bought a bottle of cooking oil,7.00
+2026-04-02,bought a packet of instant noodles,2.80
+2026-04-03,paid for a can of 100 Plus,2.50
+2026-04-04,bought a bag of frozen mixed vegetables,5.50
+2026-04-05,topped up GrabPay for food delivery,30.00
+2026-04-06,bought a loaf of wholemeal bread,3.50
+2026-04-07,paid for a shared taxi to campus,6.00
+2026-04-08,bought a jar of pasta sauce,6.90
+2026-04-09,lunch at kedai mamak (mee goreng),6.00
+2026-04-10,bought a bottle of shampoo sachet,2.00
+2026-04-11,paid for online journal access,15.00
+2026-04-12,bought a pack of chewing gum,1.50
+2026-04-13,bought a secondhand water filter,25.00
+2026-04-14,teh tarik at mamak,1.80
+2026-04-15,bought a bag of frozen french fries,5.00
+2026-04-16,paid for a printing top up,3.00
+2026-04-17,bought a bottle of vitamin C,12.00
+2026-04-18,lunch at kedai nasi kandar (ayam + sayur),8.00
+2026-04-19,bought a box of Band-Aids,4.50
+2026-04-20,bought a pack of facial tissue,2.50
+2026-04-21,paid for a bus ride to the mall,2.00
+2026-04-22,bought a bag of frozen chicken nuggets,8.50
+2026-04-23,bought a can of tuna flakes,4.90
+2026-04-24,iced coffee at roadside stall,2.50
+2026-04-25,paid for a library photocopy card top up,5.00
+2026-04-26,bought a new toothbrush,3.50
+2026-04-27,bought a pack of stationery,6.00
+2026-04-28,lunch at kedai tomyam (seafood tomyam),9.00
+2026-04-29,bought a bag of frozen cuttlefish balls,6.50
+2026-04-30,paid for a Grab ride to friend's house,8.00
+2026-05-02,bought a jar of pickles,5.50
+2026-05-03,bought a box of cereal,7.90
+2026-05-04,paid for a can of sardines,4.50
+2026-05-05,bought a bag of frozen spinach,5.00
+2026-05-06,topped up water dispenser card,10.00
+2026-05-07,bought a packet of milo powder refill,8.50
+2026-05-08,lunch at kedai ayam penyet (rice + chicken),8.50
+2026-05-09,bought a bottle of hand soap,3.90
+2026-05-10,paid for a parking coupon,1.50
+2026-05-11,bought a bag of frozen hash browns,5.50
+2026-05-12,bought a can of baked beans,3.80
+2026-05-13,teh o ais at mamak,1.50
+2026-05-14,paid for a group study room rental,10.00
+2026-05-15,bought a packet of instant porridge,5.00
+2026-05-16,bought a bottle of floor cleaner,5.50
+2026-05-17,lunch at kedai western (fish and chips),12.00
+2026-05-18,bought a pack of rubber bands,1.50
+2026-05-19,paid for a bus pass top up,15.00
+2026-05-20,bought a bag of frozen spring rolls,6.00
+2026-05-21,bought a jar of mayonnaise,6.90
+2026-05-22,iced milo at mamak,2.50
+2026-05-23,paid for a printer ink cartridge,25.00
+2026-05-24,bought a packet of tissue paper,1.80
+2026-05-25,bought a bag of frozen samosas,7.00
+2026-05-26,lunch at kedai Thai (green curry),9.50
+2026-05-27,bought a bottle of mouthwash,7.90
+2026-05-28,paid for a Grab delivery fee,4.50
+2026-05-29,bought a pack of batteries,6.50
+2026-05-30,bought a box of tea bags,5.90
+2026-06-02,bought a bag of onions,2.50
+2026-06-03,paid for a can of energy drink,3.50
+2026-06-04,bought a bag of frozen mixed seafood,10.00
+2026-06-05,topped up LRT card,20.00
+2026-06-06,bought a loaf of raisin bread,4.50
+2026-06-07,lunch at kedai nasi lemak (rice + sambal + egg),5.00
+2026-06-08,bought a bottle of dish soap refill,4.00
+2026-06-09,paid for a taxi to the library,5.00
+2026-06-10,bought a bag of frozen peas,3.50
+2026-06-11,bought a can of corned beef,7.50
+2026-06-12,teh tarik kurang manis,1.80
+2026-06-13,paid for a printing quota top up,4.00
+2026-06-14,bought a packet of instant coffee sachets,6.00
+2026-06-15,bought a bottle of bleach,3.50
+2026-06-16,lunch at kedai Indian (banana leaf rice),8.00
+2026-06-17,bought a pack of sticky notes,3.50
+2026-06-18,paid for a bus ride to campus,1.80
+2026-06-19,bought a bag of frozen wontons,6.50
+2026-06-20,bought a jar of curry paste,5.50
+2026-06-21,iced lemon tea at mamak,2.00
+2026-06-22,paid for a new mouse pad,8.00
+2026-06-23,bought a packet of sugar,2.80
+2026-06-24,bought a bag of frozen french beans,4.00
+2026-06-25,lunch at kedai Korean (kimchi jjigae),14.00
+2026-06-26,bought a bottle of body lotion,9.90
+2026-06-27,paid for a Grab ride to the station,7.00
+2026-06-28,bought a pack of paper clips,2.00
+2026-06-29,bought a box of biscuits,4.90
+2026-06-30,bought a bag of frozen breaded prawns,8.00
